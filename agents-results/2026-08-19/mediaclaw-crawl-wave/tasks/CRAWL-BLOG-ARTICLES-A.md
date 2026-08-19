@@ -1,0 +1,3 @@
+# CRAWL-BLOG-ARTICLES-A
+
+Read `CRAWL-PROTOCOL.md` first. Crawl both locale routes for these twelve slugs: `douyin-data-collection`, `douyin-comment-export`, `xiaohongshu-ai-benchmark-to-draft`, `xiaohongshu-research-data-collection`, `video-transcript-timestamps`, `xiaohongshu-image-text-extraction`, `xiaohongshu-brand-sentiment-monitoring`, `xiaohongshu-professional-content-search-traffic`, `xiaohongshu-find-benchmark-accounts`, `xiaohongshu-comment-batch-export-campaign-review`, `local-business-xiaohongshu-marketing`, `low-follower-viral-content`. Capture article H1, metadata, aside links, section outline, media URLs, visible source/rights cues, and status. Write only `artifacts/CRAWL-BLOG-ARTICLES-A.json` and task-local logs/scripts.

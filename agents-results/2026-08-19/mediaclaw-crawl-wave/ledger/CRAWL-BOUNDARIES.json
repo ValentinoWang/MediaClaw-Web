@@ -1,0 +1,168 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-BOUNDARIES-primary.txt)"
+      ],
+      "ended_at": "2026-08-19T06:11:58.780251+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary.log",
+      "pid": 13787,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-BOUNDARIES-primary.txt",
+      "prompt_sha256": "8602a9129cca3d5a8b8ef1696099f983ae13cda4dfb636bbac07efb4ed920b71",
+      "started_at": "2026-08-19T05:58:06.857676+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BOUNDARIES.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/crawl-boundaries.mjs",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary-validation-rerun.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary.semantic-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BOUNDARIES-primary.json"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BOUNDARIES.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary-validation-rerun.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary.semantic-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BOUNDARIES.sh"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "observed_routes": [
+          {
+            "h1": [],
+            "lang": "zh",
+            "path": "/settings/referral",
+            "requestedExactlyOnce": true,
+            "status": 200,
+            "title": "MediaClaw"
+          },
+          {
+            "h1": [],
+            "lang": "en",
+            "path": "/en/settings/referral",
+            "requestedExactlyOnce": true,
+            "status": 200,
+            "title": "MediaClaw"
+          },
+          {
+            "h1": [
+              "404"
+            ],
+            "lang": "zh",
+            "path": "/posts/xiaohongshu-comment-analysis",
+            "requestedExactlyOnce": true,
+            "status": 404,
+            "title": "MediaClaw"
+          },
+          {
+            "h1": [
+              "404"
+            ],
+            "lang": "zh",
+            "path": "/posts/xiaohongshu-comment-topic-mining",
+            "requestedExactlyOnce": true,
+            "status": 404,
+            "title": "MediaClaw"
+          },
+          {
+            "h1": [
+              "404"
+            ],
+            "lang": "en",
+            "path": "/en/posts/xiaohongshu-comment-analysis",
+            "requestedExactlyOnce": true,
+            "status": 404,
+            "title": "MediaClaw"
+          },
+          {
+            "h1": [
+              "404"
+            ],
+            "lang": "en",
+            "path": "/en/posts/xiaohongshu-comment-topic-mining",
+            "requestedExactlyOnce": true,
+            "status": 404,
+            "title": "MediaClaw"
+          }
+        ],
+        "proposed_state": "VERIFIED",
+        "taskId": "CRAWL-BOUNDARIES",
+        "unverified_items": [
+          "Third-party GETs to static.cloudflareinsights.com, www.googletagmanager.com, and www.clarity.ms were blocked by the same-origin crawl policy; those integrations are unverified.",
+          "Referral/account state behind authentication was not accessed; the settings observations are anonymous DOM evidence only.",
+          "No linked route or bundle-only route was followed; coverage is limited to the six frozen assignments."
+        ],
+        "validation": {
+          "command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BOUNDARIES.sh",
+          "log_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-validation.log",
+          "result": "pass",
+          "route_schema_check": "pass",
+          "semantic_route_check": "pass",
+          "source_hash_check": "pass"
+        }
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BOUNDARIES-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "f4631ed421d5d61f598fc5b4859830d00ea640b8a7e5c564ba1c491686b1ed0e",
+      "timed_out": false,
+      "validation_command_sha256": "0eef5492f3932c6b4bcd7bd30d2ac939561a7be5ec55712c0c2be2ddd0fb2d87",
+      "validation_ended_at": "2026-08-19T06:11:58.819380+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary.validation.log",
+      "validation_pid": 26263,
+      "validation_started_at": "2026-08-19T06:11:58.780782+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-19T06:11:58.883166+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/ledger/CRAWL-BOUNDARIES.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-19T05:58:06.856344+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-BOUNDARIES.md",
+  "task_id": "CRAWL-BOUNDARIES",
+  "task_sha256": "f4631ed421d5d61f598fc5b4859830d00ea640b8a7e5c564ba1c491686b1ed0e",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BOUNDARIES.sh",
+  "validation_command_sha256": "0eef5492f3932c6b4bcd7bd30d2ac939561a7be5ec55712c0c2be2ddd0fb2d87",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

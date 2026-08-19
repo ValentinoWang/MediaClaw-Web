@@ -1,0 +1,21 @@
+{
+  "taskId": "C0-AGGREGATE",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/C0-AGGREGATE.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/C0-AGGREGATE.validation.log"
+  ],
+  "evidence_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/C0-AGGREGATE.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/C0-AGGREGATE.validation.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/C0-AGGREGATE.sh",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+  ],
+  "unverified_items": [
+    "Aggregation proves route-set and field coverage against the prior anonymous audit; it does not add authenticated or private routes.",
+    "Original blocked supervisor ledgers remain blocked and are not rewritten."
+  ]
+}

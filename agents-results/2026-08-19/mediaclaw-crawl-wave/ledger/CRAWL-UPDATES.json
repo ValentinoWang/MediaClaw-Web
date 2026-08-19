@@ -1,0 +1,211 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "retry_primary",
+        "effective_failure_class": "transport",
+        "effective_failure_origin": "worker-transport",
+        "maximum_primary_retries_remaining": 1,
+        "next_attempt_role": "primary-retry",
+        "next_executor": "lw-luna",
+        "next_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker-transport failure; retry the same selected primary"
+      },
+      "classifier_exit_code": 11,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-UPDATES-primary.txt)"
+      ],
+      "ended_at": "2026-08-19T06:13:06.866287+00:00",
+      "exit_code": 124,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-primary.log",
+      "pid": 13777,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-UPDATES-primary.txt",
+      "prompt_sha256": "021bea9ed8b02386c47412e01b0a59d889bab6590888546783924958e33dbaa1",
+      "started_at": "2026-08-19T05:58:06.842708+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "acceptance_summary": {
+          "assigned_routes": 34,
+          "document_requests_per_route": 1,
+          "language_counts": {
+            "en": 17,
+            "zh": 17
+          },
+          "source_hashes_unchanged": true,
+          "status_counts": {
+            "200": 34
+          },
+          "unique_routes": 34,
+          "validation_command": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-UPDATES.sh"
+        },
+        "attemptRole": "primary",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-UPDATES.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-UPDATES.mjs",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-live.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-validation.log"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-UPDATES.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-live.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-PROTOCOL.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "taskId": "CRAWL-UPDATES",
+        "unverified_items": [
+          "Cloudflare challenge-platform POST attempts were blocked by the explicit GET/HEAD policy; no challenge was solved or bypassed.",
+          "Cross-origin resources were blocked and external release destinations were recorded without following them.",
+          "Page mutations and analytics after the bounded 800 ms render settle were not awaited."
+        ]
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-UPDATES-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "8139ad80761eb5c22f1f25cfbf19bcee6b7c4292263eee425bf8413f85635f79",
+      "timed_out": true,
+      "validation_command_sha256": "625b3049682d8d151b7f2340a3cc86a3734a294e1729f81c480fbb52a4e2ebef",
+      "validation_ended_at": "2026-08-19T06:13:06.960833+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-primary.validation.log",
+      "validation_pid": 27211,
+      "validation_started_at": "2026-08-19T06:13:06.867521+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    },
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary-retry",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary-retry",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-UPDATES-primary-retry.txt)"
+      ],
+      "ended_at": "2026-08-19T06:22:46.957152+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-primary-retry.log",
+      "pid": 27231,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": 0,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-UPDATES-primary-retry.txt",
+      "prompt_sha256": "0c56e8f98bc93c740b52204ba62966075e01e4e459f53707011c0bfbeaaad8e7",
+      "started_at": "2026-08-19T06:13:07.025232+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "acceptance_summary": {
+          "assigned_routes": 34,
+          "crawled_routes": 34,
+          "document_requests_per_route": 1,
+          "exact_route_set": true,
+          "language_counts": {
+            "en": 17,
+            "zh": 17
+          },
+          "required_fields_present": true,
+          "source_hashes_unchanged": true,
+          "status_counts": {
+            "200": 34
+          },
+          "unique_routes": 34,
+          "validation_command": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-UPDATES.sh",
+          "validation_exit_code": 0
+        },
+        "attemptRole": "primary-retry",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-UPDATES.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-live.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-UPDATES-primary-retry.json"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-UPDATES.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-live.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-PROTOCOL.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-UPDATES.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-UPDATES.mjs",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "taskId": "CRAWL-UPDATES",
+        "unverified_items": [
+          "Cloudflare challenge-platform POST attempts were blocked by the explicit GET/HEAD policy; no challenge was solved or bypassed.",
+          "Cross-origin resources were blocked and external release destinations were recorded without following them.",
+          "Page mutations and analytics after the bounded 800 ms render settle were not awaited."
+        ]
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-UPDATES-primary-retry.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "8139ad80761eb5c22f1f25cfbf19bcee6b7c4292263eee425bf8413f85635f79",
+      "timed_out": false,
+      "validation_command_sha256": "625b3049682d8d151b7f2340a3cc86a3734a294e1729f81c480fbb52a4e2ebef",
+      "validation_ended_at": "2026-08-19T06:22:47.033116+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-UPDATES-primary-retry.validation.log",
+      "validation_pid": 35523,
+      "validation_started_at": "2026-08-19T06:22:46.957474+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-19T06:22:47.070042+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/ledger/CRAWL-UPDATES.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-19T05:58:06.839419+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-UPDATES.md",
+  "task_id": "CRAWL-UPDATES",
+  "task_sha256": "8139ad80761eb5c22f1f25cfbf19bcee6b7c4292263eee425bf8413f85635f79",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-UPDATES.sh",
+  "validation_command_sha256": "625b3049682d8d151b7f2340a3cc86a3734a294e1729f81c480fbb52a4e2ebef",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

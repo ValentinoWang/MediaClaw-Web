@@ -1,0 +1,90 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/prompts/COMMERCIAL-LEGAL-primary.txt)"
+      ],
+      "ended_at": "2026-08-19T07:39:16.577938+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/logs/COMMERCIAL-LEGAL-primary.log",
+      "pid": 87044,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/prompts/COMMERCIAL-LEGAL-primary.txt",
+      "prompt_sha256": "b077c5bd3ddda53cd542d28a5209d29dc824575be207f697e0ba4369f4907cdf",
+      "started_at": "2026-08-19T07:32:01.144065+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/rebuild/data/commercialLegal.js",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/returns/COMMERCIAL-LEGAL-primary.json"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "task_id": "COMMERCIAL-LEGAL",
+        "validation": {
+          "command": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/COMMERCIAL-LEGAL.sh",
+          "exit_code": 0,
+          "output": "{\"owner\":\"COMMERCIAL-LEGAL\",\"count\":14,\"uniquePaths\":14}"
+        }
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/returns/COMMERCIAL-LEGAL-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "a911c089927776a06fd2c3634c6bb75862c5a80d7f8e50d02aff38bfe05a6b1f",
+      "timed_out": false,
+      "validation_command_sha256": "18dbbe9ea8c6e01d2f7043ad0b7baf5f416c0bb2f9b5c90959f393a85cd4015c",
+      "validation_ended_at": "2026-08-19T07:39:16.655073+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/logs/COMMERCIAL-LEGAL-primary.validation.log",
+      "validation_pid": 93853,
+      "validation_started_at": "2026-08-19T07:39:16.578282+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-19T07:39:16.731667+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/ledger/COMMERCIAL-LEGAL.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-19T07:32:01.142238+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/tasks/COMMERCIAL-LEGAL.md",
+  "task_id": "COMMERCIAL-LEGAL",
+  "task_sha256": "a911c089927776a06fd2c3634c6bb75862c5a80d7f8e50d02aff38bfe05a6b1f",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/COMMERCIAL-LEGAL.sh",
+  "validation_command_sha256": "18dbbe9ea8c6e01d2f7043ad0b7baf5f416c0bb2f9b5c90959f393a85cd4015c",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

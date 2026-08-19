@@ -1,0 +1,47 @@
+{
+  "taskId": "CRAWL-BLOG-ARTICLES-B",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-B.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/crawl-blog-articles-b.mjs",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-B-live.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-B-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BLOG-ARTICLES-B-primary.json"
+  ],
+  "evidence_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-B.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-B-live.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-B-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BLOG-ARTICLES-B.sh"
+  ],
+  "validation": {
+    "command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BLOG-ARTICLES-B.sh",
+    "log_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-B-validation.log",
+    "result": "pass",
+    "route_count_check": "pass: 24",
+    "route_set_check": "pass: 24 unique frozen paths in task order",
+    "live_status_check": "pass: 24 HTTP 200 responses",
+    "source_hash_check": "pass: src/main.jsx and src/styles.css unchanged"
+  },
+  "observed_routes": {
+    "count": 24,
+    "locales": { "zh": 12, "en": 12 },
+    "statuses": { "200": 24 },
+    "h1_present": 24,
+    "article_metadata_objects": 24,
+    "aside_link_sets": 24,
+    "section_outlines": 24,
+    "media_url_sets": 24,
+    "source_rights_cue_sets": 24,
+    "requestedExactlyOnce": true
+  },
+  "unverified_items": [
+    "Third-party analytics GETs to static.cloudflareinsights.com, www.googletagmanager.com, and www.clarity.ms returned connection-closed failures; those integrations are unverified and are recorded in per-route errors.",
+    "Four non-GET requests from Cloudflare/analytics were intentionally blocked by the anonymous GET/HEAD-only policy and are recorded as blockedRequests; no form or state-changing control was submitted.",
+    "The live pages exposed description and viewport meta tags; author, publish date, modified date, keywords, Open Graph fields, and selector-matched visible metadata were absent or empty in the captured anonymous DOM and were not inferred from prior audits or local source."
+  ]
+}

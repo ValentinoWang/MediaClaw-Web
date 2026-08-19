@@ -1,0 +1,5667 @@
+{
+  "taskId": "CRAWL-UPDATES",
+  "target": "https://mediaclaw.app/",
+  "generatedAt": "2026-08-19T06:19:43.241Z",
+  "routes": [
+    {
+      "url": "https://mediaclaw.app/updates",
+      "path": "/updates",
+      "version": null,
+      "versionTitle": null,
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "更新日志 — 功能发布与性能改进通告 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "更新日志"
+        },
+        {
+          "level": 2,
+          "text": "更新日志"
+        },
+        {
+          "level": 2,
+          "text": "MediaClaw Agent 正式上线"
+        },
+        {
+          "level": 2,
+          "text": "我的创作档案与采集稳定性优化"
+        },
+        {
+          "level": 2,
+          "text": "批量视频逐字稿、抖音合集采集与场景式引导"
+        },
+        {
+          "level": 2,
+          "text": "批量导出图片，图文拆解更深、团队协作更灵活"
+        },
+        {
+          "level": 2,
+          "text": "从内容研究，到选题与创作"
+        },
+        {
+          "level": 2,
+          "text": "新增新手引导，抖音采集更稳更干净"
+        },
+        {
+          "level": 2,
+          "text": "Markdown 导出、视频逐字稿和配图文字提取上线"
+        },
+        {
+          "level": 2,
+          "text": "新增关键词舆情扫描与福利中心"
+        },
+        {
+          "level": 2,
+          "text": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级"
+        },
+        {
+          "level": 2,
+          "text": "新增主词机会判断，优化关键词策略衔接体验"
+        },
+        {
+          "level": 2,
+          "text": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线"
+        },
+        {
+          "level": 2,
+          "text": "账号主页筛选与版本通知上线，Edge 兼容性优化"
+        },
+        {
+          "level": 2,
+          "text": "连续采集与选题洞察增强"
+        },
+        {
+          "level": 2,
+          "text": "抖音批量采集、监控日报与商业化能力上线"
+        },
+        {
+          "level": 2,
+          "text": "小红书博主信息补全与评论客资筛选"
+        },
+        {
+          "level": 2,
+          "text": "小红书批量补采与筛选能力增强"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 1,
+          "text": "更新日志"
+        },
+        {
+          "level": 2,
+          "text": "更新日志"
+        },
+        {
+          "level": 2,
+          "text": "MediaClaw Agent 正式上线"
+        },
+        {
+          "level": 2,
+          "text": "我的创作档案与采集稳定性优化"
+        },
+        {
+          "level": 2,
+          "text": "批量视频逐字稿、抖音合集采集与场景式引导"
+        },
+        {
+          "level": 2,
+          "text": "批量导出图片，图文拆解更深、团队协作更灵活"
+        },
+        {
+          "level": 2,
+          "text": "从内容研究，到选题与创作"
+        },
+        {
+          "level": 2,
+          "text": "新增新手引导，抖音采集更稳更干净"
+        },
+        {
+          "level": 2,
+          "text": "Markdown 导出、视频逐字稿和配图文字提取上线"
+        },
+        {
+          "level": 2,
+          "text": "新增关键词舆情扫描与福利中心"
+        },
+        {
+          "level": 2,
+          "text": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级"
+        },
+        {
+          "level": 2,
+          "text": "新增主词机会判断，优化关键词策略衔接体验"
+        },
+        {
+          "level": 2,
+          "text": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线"
+        },
+        {
+          "level": 2,
+          "text": "账号主页筛选与版本通知上线，Edge 兼容性优化"
+        },
+        {
+          "level": 2,
+          "text": "连续采集与选题洞察增强"
+        },
+        {
+          "level": 2,
+          "text": "抖音批量采集、监控日报与商业化能力上线"
+        },
+        {
+          "level": 2,
+          "text": "小红书博主信息补全与评论客资筛选"
+        },
+        {
+          "level": 2,
+          "text": "小红书批量补采与筛选能力增强"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "更新日志",
+          "id": "updates"
+        },
+        {
+          "tag": "article",
+          "heading": "MediaClaw Agent 正式上线",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "我的创作档案与采集稳定性优化",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "批量视频逐字稿、抖音合集采集与场景式引导",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "批量导出图片，图文拆解更深、团队协作更灵活",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "从内容研究，到选题与创作",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增新手引导，抖音采集更稳更干净",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Markdown 导出、视频逐字稿和配图文字提取上线",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增关键词舆情扫描与福利中心",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增主词机会判断，优化关键词策略衔接体验",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "账号主页筛选与版本通知上线，Edge 兼容性优化",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "连续采集与选题洞察增强",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "抖音批量采集、监控日报与商业化能力上线",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "小红书博主信息补全与评论客资筛选",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "小红书批量补采与筛选能力增强",
+          "id": null
+        }
+      ],
+      "releaseLinks": [
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.3.0"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.2.3"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.2.2"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.2.1"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.2.0"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.9"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.8"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.7"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.5"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.3"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.2"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.1"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.1.0"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.0.9"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.0.7"
+        },
+        {
+          "text": "查看详情",
+          "href": "https://mediaclaw.app/updates/v0.0.6"
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/updates/v0.3.0",
+        "/updates/v0.2.3",
+        "/updates/v0.2.2",
+        "/updates/v0.2.1",
+        "/updates/v0.2.0",
+        "/updates/v0.1.9",
+        "/updates/v0.1.8",
+        "/updates/v0.1.7",
+        "/updates/v0.1.5",
+        "/updates/v0.1.3",
+        "/updates/v0.1.2",
+        "/updates/v0.1.1",
+        "/updates/v0.1.0",
+        "/updates/v0.0.9",
+        "/updates/v0.0.7",
+        "/updates/v0.0.6",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates",
+      "documentRequestCount": 1,
+      "durationMs": 3151,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates",
+      "path": "/en/updates",
+      "version": null,
+      "versionTitle": null,
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Update Logs — Product Features & Improvements | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update Logs"
+        },
+        {
+          "level": 2,
+          "text": "Update Logs"
+        },
+        {
+          "level": 2,
+          "text": "MediaClaw Agent Is Now Available"
+        },
+        {
+          "level": 2,
+          "text": "Creator Profiles and More Reliable Collection"
+        },
+        {
+          "level": 2,
+          "text": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides"
+        },
+        {
+          "level": 2,
+          "text": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams"
+        },
+        {
+          "level": 2,
+          "text": "From Content Research to Ideation and Creation"
+        },
+        {
+          "level": 2,
+          "text": "Onboarding Guide and Cleaner, More Stable Douyin Collection"
+        },
+        {
+          "level": 2,
+          "text": "Markdown Export, Video Transcripts, and Image Text Extraction"
+        },
+        {
+          "level": 2,
+          "text": "Keyword Public Opinion Scan and Welfare Center"
+        },
+        {
+          "level": 2,
+          "text": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates"
+        },
+        {
+          "level": 2,
+          "text": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow"
+        },
+        {
+          "level": 2,
+          "text": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite"
+        },
+        {
+          "level": 2,
+          "text": "Creator Profile Filtering, Version Notifications, and Edge Compatibility"
+        },
+        {
+          "level": 2,
+          "text": "Continuous Scraping & Topic Insight Upgrade"
+        },
+        {
+          "level": 2,
+          "text": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release"
+        },
+        {
+          "level": 2,
+          "text": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering"
+        },
+        {
+          "level": 2,
+          "text": "Xiaohongshu Batch Backfill & Filtering Upgrade"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 1,
+          "text": "Update Logs"
+        },
+        {
+          "level": 2,
+          "text": "Update Logs"
+        },
+        {
+          "level": 2,
+          "text": "MediaClaw Agent Is Now Available"
+        },
+        {
+          "level": 2,
+          "text": "Creator Profiles and More Reliable Collection"
+        },
+        {
+          "level": 2,
+          "text": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides"
+        },
+        {
+          "level": 2,
+          "text": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams"
+        },
+        {
+          "level": 2,
+          "text": "From Content Research to Ideation and Creation"
+        },
+        {
+          "level": 2,
+          "text": "Onboarding Guide and Cleaner, More Stable Douyin Collection"
+        },
+        {
+          "level": 2,
+          "text": "Markdown Export, Video Transcripts, and Image Text Extraction"
+        },
+        {
+          "level": 2,
+          "text": "Keyword Public Opinion Scan and Welfare Center"
+        },
+        {
+          "level": 2,
+          "text": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates"
+        },
+        {
+          "level": 2,
+          "text": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow"
+        },
+        {
+          "level": 2,
+          "text": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite"
+        },
+        {
+          "level": 2,
+          "text": "Creator Profile Filtering, Version Notifications, and Edge Compatibility"
+        },
+        {
+          "level": 2,
+          "text": "Continuous Scraping & Topic Insight Upgrade"
+        },
+        {
+          "level": 2,
+          "text": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release"
+        },
+        {
+          "level": 2,
+          "text": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering"
+        },
+        {
+          "level": 2,
+          "text": "Xiaohongshu Batch Backfill & Filtering Upgrade"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Update Logs",
+          "id": "updates"
+        },
+        {
+          "tag": "article",
+          "heading": "MediaClaw Agent Is Now Available",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Creator Profiles and More Reliable Collection",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "From Content Research to Ideation and Creation",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Onboarding Guide and Cleaner, More Stable Douyin Collection",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Markdown Export, Video Transcripts, and Image Text Extraction",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Keyword Public Opinion Scan and Welfare Center",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Creator Profile Filtering, Version Notifications, and Edge Compatibility",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Continuous Scraping & Topic Insight Upgrade",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Xiaohongshu Batch Backfill & Filtering Upgrade",
+          "id": null
+        }
+      ],
+      "releaseLinks": [
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.3.0"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.2.3"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.2.2"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.2.1"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.2.0"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.9"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.8"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.7"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.5"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.3"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.2"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.1"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.1.0"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.0.9"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.0.7"
+        },
+        {
+          "text": "Read details",
+          "href": "https://mediaclaw.app/en/updates/v0.0.6"
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/updates/v0.3.0",
+        "/en/updates/v0.2.3",
+        "/en/updates/v0.2.2",
+        "/en/updates/v0.2.1",
+        "/en/updates/v0.2.0",
+        "/en/updates/v0.1.9",
+        "/en/updates/v0.1.8",
+        "/en/updates/v0.1.7",
+        "/en/updates/v0.1.5",
+        "/en/updates/v0.1.3",
+        "/en/updates/v0.1.2",
+        "/en/updates/v0.1.1",
+        "/en/updates/v0.1.0",
+        "/en/updates/v0.0.9",
+        "/en/updates/v0.0.7",
+        "/en/updates/v0.0.6",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates",
+      "documentRequestCount": 1,
+      "durationMs": 2060,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.0.6",
+      "path": "/updates/v0.0.6",
+      "version": "v0.0.6",
+      "versionTitle": "小红书批量补采与筛选能力增强 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书批量补采与筛选能力增强 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "小红书批量补采与筛选能力增强"
+        },
+        {
+          "level": 3,
+          "text": "评论数与收藏数筛选"
+        },
+        {
+          "level": 3,
+          "text": "批量补采详情"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "评论数与收藏数筛选"
+        },
+        {
+          "level": 3,
+          "text": "批量补采详情"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "小红书批量补采与筛选能力增强",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "评论数与收藏数筛选",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "评论数与收藏数筛选",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.0.6",
+      "documentRequestCount": 1,
+      "durationMs": 1765,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.0.7",
+      "path": "/updates/v0.0.7",
+      "version": "v0.0.7",
+      "versionTitle": "小红书博主信息补全与评论客资筛选 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书博主信息补全与评论客资筛选 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "小红书博主信息补全与评论客资筛选"
+        },
+        {
+          "level": 3,
+          "text": "小红书博主信息补全"
+        },
+        {
+          "level": 3,
+          "text": "评论区客资筛选与导出"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "小红书博主信息补全"
+        },
+        {
+          "level": 3,
+          "text": "评论区客资筛选与导出"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "小红书博主信息补全与评论客资筛选",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "小红书博主信息补全",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "小红书博主信息补全",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.0.7",
+      "documentRequestCount": 1,
+      "durationMs": 4437,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.0.9",
+      "path": "/updates/v0.0.9",
+      "version": "v0.0.9",
+      "versionTitle": "抖音批量采集、监控日报与商业化能力上线 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "抖音批量采集、监控日报与商业化能力上线 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "抖音批量采集、监控日报与商业化能力上线"
+        },
+        {
+          "level": 3,
+          "text": "抖音批量采集"
+        },
+        {
+          "level": 3,
+          "text": "抖音评论客资筛选"
+        },
+        {
+          "level": 3,
+          "text": "对标账号监控日报"
+        },
+        {
+          "level": 3,
+          "text": "官网购买与续费"
+        },
+        {
+          "level": 3,
+          "text": "邀请返佣机制"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "抖音批量采集"
+        },
+        {
+          "level": 3,
+          "text": "抖音评论客资筛选"
+        },
+        {
+          "level": 3,
+          "text": "对标账号监控日报"
+        },
+        {
+          "level": 3,
+          "text": "官网购买与续费"
+        },
+        {
+          "level": 3,
+          "text": "邀请返佣机制"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "抖音批量采集、监控日报与商业化能力上线",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "抖音批量采集",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "抖音批量采集",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.0.9",
+      "documentRequestCount": 1,
+      "durationMs": 10756,
+      "errors": [
+        "requestfailed:POST https://mediaclaw.app/cdn-cgi/challenge-platform/h/g/jsd/oneshot/aae2b9a1c261/0.9942883941342555:1787115914:9mJQHb9YahQMlOAzPMzdhGeFjyD_buCJlEwugzwhfDs/a2d705748adccb95 net::ERR_BLOCKED_BY_CLIENT.Inspector",
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.0",
+      "path": "/updates/v0.1.0",
+      "version": "v0.1.0",
+      "versionTitle": "连续采集与选题洞察增强 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "连续采集与选题洞察增强 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "连续采集与选题洞察增强"
+        },
+        {
+          "level": 3,
+          "text": "连续采集支持批量输入"
+        },
+        {
+          "level": 3,
+          "text": "低粉爆款筛选"
+        },
+        {
+          "level": 3,
+          "text": "AI 选题细分洞察"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "连续采集支持批量输入"
+        },
+        {
+          "level": 3,
+          "text": "低粉爆款筛选"
+        },
+        {
+          "level": 3,
+          "text": "AI 选题细分洞察"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "连续采集与选题洞察增强",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "连续采集支持批量输入",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "连续采集支持批量输入",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.0",
+      "documentRequestCount": 1,
+      "durationMs": 4443,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.1",
+      "path": "/updates/v0.1.1",
+      "version": "v0.1.1",
+      "versionTitle": "账号主页筛选与版本通知上线，Edge 兼容性优化 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "账号主页筛选与版本通知上线，Edge 兼容性优化 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "账号主页筛选与版本通知上线，Edge 兼容性优化"
+        },
+        {
+          "level": 3,
+          "text": "账号主页笔记支持按主题关键词筛选"
+        },
+        {
+          "level": 3,
+          "text": "版本更新通知"
+        },
+        {
+          "level": 3,
+          "text": "适配 Microsoft Edge 浏览器"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "账号主页笔记支持按主题关键词筛选"
+        },
+        {
+          "level": 3,
+          "text": "版本更新通知"
+        },
+        {
+          "level": 3,
+          "text": "适配 Microsoft Edge 浏览器"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "账号主页筛选与版本通知上线，Edge 兼容性优化",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "账号主页笔记支持按主题关键词筛选",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "账号主页笔记支持按主题关键词筛选",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.1",
+      "documentRequestCount": 1,
+      "durationMs": 5835,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.2",
+      "path": "/updates/v0.1.2",
+      "version": "v0.1.2",
+      "versionTitle": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线"
+        },
+        {
+          "level": 3,
+          "text": "抖音支持下载附件"
+        },
+        {
+          "level": 3,
+          "text": "支持采集收藏和点赞的作品"
+        },
+        {
+          "level": 3,
+          "text": "飞书多维表格模板新增 AI 改写能力"
+        },
+        {
+          "level": 3,
+          "text": "账号监控执行时点改为整点选择"
+        },
+        {
+          "level": 3,
+          "text": "修复小红书视频链接无法播放的问题"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "抖音支持下载附件"
+        },
+        {
+          "level": 3,
+          "text": "支持采集收藏和点赞的作品"
+        },
+        {
+          "level": 3,
+          "text": "飞书多维表格模板新增 AI 改写能力"
+        },
+        {
+          "level": 3,
+          "text": "账号监控执行时点改为整点选择"
+        },
+        {
+          "level": 3,
+          "text": "修复小红书视频链接无法播放的问题"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "抖音附件下载、收藏/点赞采集与 AI 改写能力上线",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "抖音支持下载附件",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "抖音支持下载附件",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.2",
+      "documentRequestCount": 1,
+      "durationMs": 3322,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.3",
+      "path": "/updates/v0.1.3",
+      "version": "v0.1.3",
+      "versionTitle": "新增主词机会判断，优化关键词策略衔接体验 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "新增主词机会判断，优化关键词策略衔接体验 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "新增主词机会判断，优化关键词策略衔接体验"
+        },
+        {
+          "level": 3,
+          "text": "主词机会判断"
+        },
+        {
+          "level": 3,
+          "text": "首次安装风险提醒"
+        },
+        {
+          "level": 3,
+          "text": "主词到长尾分析衔接更顺滑"
+        },
+        {
+          "level": 3,
+          "text": "修复小红书笔记内容识别不准确"
+        },
+        {
+          "level": 3,
+          "text": "修复 CSV 导出字段缺失"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "主词机会判断"
+        },
+        {
+          "level": 3,
+          "text": "首次安装风险提醒"
+        },
+        {
+          "level": 3,
+          "text": "主词到长尾分析衔接更顺滑"
+        },
+        {
+          "level": 3,
+          "text": "修复小红书笔记内容识别不准确"
+        },
+        {
+          "level": 3,
+          "text": "修复 CSV 导出字段缺失"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "新增主词机会判断，优化关键词策略衔接体验",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "主词机会判断",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "主词机会判断",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.3",
+      "documentRequestCount": 1,
+      "durationMs": 3157,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.5",
+      "path": "/updates/v0.1.5",
+      "version": "v0.1.5",
+      "versionTitle": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级"
+        },
+        {
+          "level": 3,
+          "text": "搜索页新增「找对标账号」"
+        },
+        {
+          "level": 3,
+          "text": "新增「复制诊断信息」"
+        },
+        {
+          "level": 3,
+          "text": "修复小红书下拉联想词采集不稳定的问题"
+        },
+        {
+          "level": 3,
+          "text": "修复抖音博主主页点赞筛选异常"
+        },
+        {
+          "level": 3,
+          "text": "修复抖音搜索结果标题识别不准"
+        },
+        {
+          "level": 3,
+          "text": "修复抖音评论采集漏采问题"
+        },
+        {
+          "level": 3,
+          "text": "提升采集数量不足时的问题定位能力"
+        },
+        {
+          "level": 3,
+          "text": "批量同步增加失败保护"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "搜索页新增「找对标账号」"
+        },
+        {
+          "level": 3,
+          "text": "新增「复制诊断信息」"
+        },
+        {
+          "level": 3,
+          "text": "修复小红书下拉联想词采集不稳定的问题"
+        },
+        {
+          "level": 3,
+          "text": "修复抖音博主主页点赞筛选异常"
+        },
+        {
+          "level": 3,
+          "text": "修复抖音搜索结果标题识别不准"
+        },
+        {
+          "level": 3,
+          "text": "修复抖音评论采集漏采问题"
+        },
+        {
+          "level": 3,
+          "text": "提升采集数量不足时的问题定位能力"
+        },
+        {
+          "level": 3,
+          "text": "批量同步增加失败保护"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "搜索页新增「找对标账号」，诊断信息与采集稳定性升级",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "搜索页新增「找对标账号」",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "搜索页新增「找对标账号」",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.5",
+      "documentRequestCount": 1,
+      "durationMs": 7831,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.7",
+      "path": "/updates/v0.1.7",
+      "version": "v0.1.7",
+      "versionTitle": "新增关键词舆情扫描与福利中心 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "新增关键词舆情扫描与福利中心 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "新增关键词舆情扫描与福利中心"
+        },
+        {
+          "level": 3,
+          "text": "新增关键词舆情扫描"
+        },
+        {
+          "level": 3,
+          "text": "新增福利中心"
+        },
+        {
+          "level": 3,
+          "text": "同步和反馈更稳定"
+        },
+        {
+          "level": 3,
+          "text": "账号监控和关键词分析更稳定"
+        },
+        {
+          "level": 3,
+          "text": "抖音批量采集稳定性提升"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "新增关键词舆情扫描"
+        },
+        {
+          "level": 3,
+          "text": "新增福利中心"
+        },
+        {
+          "level": 3,
+          "text": "同步和反馈更稳定"
+        },
+        {
+          "level": 3,
+          "text": "账号监控和关键词分析更稳定"
+        },
+        {
+          "level": 3,
+          "text": "抖音批量采集稳定性提升"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "新增关键词舆情扫描与福利中心",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "新增关键词舆情扫描",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增关键词舆情扫描",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.7",
+      "documentRequestCount": 1,
+      "durationMs": 7430,
+      "errors": [
+        "requestfailed:POST https://mediaclaw.app/cdn-cgi/challenge-platform/h/g/jsd/oneshot/aae2b9a1c261/0.9942883941342555:1787115914:9mJQHb9YahQMlOAzPMzdhGeFjyD_buCJlEwugzwhfDs/a2d7063c0c16cb95 net::ERR_BLOCKED_BY_CLIENT.Inspector",
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.8",
+      "path": "/updates/v0.1.8",
+      "version": "v0.1.8",
+      "versionTitle": "Markdown 导出、视频逐字稿和配图文字提取上线 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Markdown 导出、视频逐字稿和配图文字提取上线 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Markdown 导出、视频逐字稿和配图文字提取上线"
+        },
+        {
+          "level": 3,
+          "text": "新增 Markdown 导出格式"
+        },
+        {
+          "level": 3,
+          "text": "新增视频逐字稿和图文配图文字提取"
+        },
+        {
+          "level": 3,
+          "text": "评论导出补充评论时间"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "新增 Markdown 导出格式"
+        },
+        {
+          "level": 3,
+          "text": "新增视频逐字稿和图文配图文字提取"
+        },
+        {
+          "level": 3,
+          "text": "评论导出补充评论时间"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Markdown 导出、视频逐字稿和配图文字提取上线",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "新增 Markdown 导出格式",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增 Markdown 导出格式",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.8",
+      "documentRequestCount": 1,
+      "durationMs": 5483,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.1.9",
+      "path": "/updates/v0.1.9",
+      "version": "v0.1.9",
+      "versionTitle": "新增新手引导，抖音采集更稳更干净 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "新增新手引导，抖音采集更稳更干净 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "新增新手引导，抖音采集更稳更干净"
+        },
+        {
+          "level": 3,
+          "text": "新增新手引导"
+        },
+        {
+          "level": 3,
+          "text": "抖音采集稳定性提升"
+        },
+        {
+          "level": 3,
+          "text": "采集前状态判断更清晰"
+        },
+        {
+          "level": 3,
+          "text": "修复部分抖音详情页采集异常"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "新增新手引导"
+        },
+        {
+          "level": 3,
+          "text": "抖音采集稳定性提升"
+        },
+        {
+          "level": 3,
+          "text": "采集前状态判断更清晰"
+        },
+        {
+          "level": 3,
+          "text": "修复部分抖音详情页采集异常"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "新增新手引导，抖音采集更稳更干净",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "新增新手引导",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增新手引导",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.1.9",
+      "documentRequestCount": 1,
+      "durationMs": 3995,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.2.0",
+      "path": "/updates/v0.2.0",
+      "version": "v0.2.0",
+      "versionTitle": "从内容研究，到选题与创作 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "从内容研究，到选题与创作 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "从内容研究，到选题与创作"
+        },
+        {
+          "level": 3,
+          "text": "全新 AI 工作台"
+        },
+        {
+          "level": 3,
+          "text": "账号研究与单篇爆款拆解"
+        },
+        {
+          "level": 3,
+          "text": "研究档案分享"
+        },
+        {
+          "level": 3,
+          "text": "采集更安全、更连续"
+        },
+        {
+          "level": 3,
+          "text": "大批量同步更稳定"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "全新 AI 工作台"
+        },
+        {
+          "level": 3,
+          "text": "账号研究与单篇爆款拆解"
+        },
+        {
+          "level": 3,
+          "text": "研究档案分享"
+        },
+        {
+          "level": 3,
+          "text": "采集更安全、更连续"
+        },
+        {
+          "level": 3,
+          "text": "大批量同步更稳定"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "从内容研究，到选题与创作",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "全新 AI 工作台",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "全新 AI 工作台",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.2.0",
+      "documentRequestCount": 1,
+      "durationMs": 8661,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.2.1",
+      "path": "/updates/v0.2.1",
+      "version": "v0.2.1",
+      "versionTitle": "批量导出图片，图文拆解更深、团队协作更灵活 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "批量导出图片，图文拆解更深、团队协作更灵活 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "批量导出图片，图文拆解更深、团队协作更灵活"
+        },
+        {
+          "level": 3,
+          "text": "批量导出图片"
+        },
+        {
+          "level": 3,
+          "text": "图文内容深度拆解"
+        },
+        {
+          "level": 3,
+          "text": "团队版多表格同步"
+        },
+        {
+          "level": 3,
+          "text": "账号分析增加视觉维度"
+        },
+        {
+          "level": 3,
+          "text": "AI 任务更容易控制和恢复"
+        },
+        {
+          "level": 3,
+          "text": "修复不同页面缓存混入同步的问题"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "批量导出图片"
+        },
+        {
+          "level": 3,
+          "text": "图文内容深度拆解"
+        },
+        {
+          "level": 3,
+          "text": "团队版多表格同步"
+        },
+        {
+          "level": 3,
+          "text": "账号分析增加视觉维度"
+        },
+        {
+          "level": 3,
+          "text": "AI 任务更容易控制和恢复"
+        },
+        {
+          "level": 3,
+          "text": "修复不同页面缓存混入同步的问题"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "批量导出图片，图文拆解更深、团队协作更灵活",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "批量导出图片",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "批量导出图片",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.2.1",
+      "documentRequestCount": 1,
+      "durationMs": 11724,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.2.2",
+      "path": "/updates/v0.2.2",
+      "version": "v0.2.2",
+      "versionTitle": "批量视频逐字稿、抖音合集采集与场景式引导 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "批量视频逐字稿、抖音合集采集与场景式引导 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "批量视频逐字稿、抖音合集采集与场景式引导"
+        },
+        {
+          "level": 3,
+          "text": "新增批量视频逐字稿"
+        },
+        {
+          "level": 3,
+          "text": "新增抖音合集采集"
+        },
+        {
+          "level": 3,
+          "text": "全新场景式新手引导"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "新增批量视频逐字稿"
+        },
+        {
+          "level": 3,
+          "text": "新增抖音合集采集"
+        },
+        {
+          "level": 3,
+          "text": "全新场景式新手引导"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "批量视频逐字稿、抖音合集采集与场景式引导",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "新增批量视频逐字稿",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增批量视频逐字稿",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.2.2",
+      "documentRequestCount": 1,
+      "durationMs": 12917,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.2.3",
+      "path": "/updates/v0.2.3",
+      "version": "v0.2.3",
+      "versionTitle": "我的创作档案与采集稳定性优化 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "我的创作档案与采集稳定性优化 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "我的创作档案与采集稳定性优化"
+        },
+        {
+          "level": 3,
+          "text": "新增「我的创作档案」"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "新增「我的创作档案」"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "我的创作档案与采集稳定性优化",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "新增「我的创作档案」",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "新增「我的创作档案」",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.2.3",
+      "documentRequestCount": 1,
+      "durationMs": 13158,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/updates/v0.3.0",
+      "path": "/updates/v0.3.0",
+      "version": "v0.3.0",
+      "versionTitle": "MediaClaw Agent 正式上线 | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "MediaClaw Agent 正式上线 | MediaClaw",
+      "lang": "zh",
+      "language": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "MediaClaw Agent 正式上线"
+        },
+        {
+          "level": 3,
+          "text": "本机 Agent 接管"
+        },
+        {
+          "level": 3,
+          "text": "统一数据资产读取"
+        },
+        {
+          "level": 3,
+          "text": "研究与创作工作流"
+        },
+        {
+          "level": 3,
+          "text": "Agent 权限与隐私保护"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "本机 Agent 接管"
+        },
+        {
+          "level": 3,
+          "text": "统一数据资产读取"
+        },
+        {
+          "level": 3,
+          "text": "研究与创作工作流"
+        },
+        {
+          "level": 3,
+          "text": "Agent 权限与隐私保护"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "MediaClaw Agent 正式上线",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "本机 Agent 接管",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "本机 Agent 接管",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/",
+        "/xiaohongshu",
+        "/douyin",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=header_nav",
+        "/updates",
+        "/referral",
+        "/download",
+        "/pricing",
+        "/welfare?entry=footer",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/updates/v0.3.0",
+      "documentRequestCount": 1,
+      "durationMs": 15909,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.0.6",
+      "path": "/en/updates/v0.0.6",
+      "version": "v0.0.6",
+      "versionTitle": "Xiaohongshu Batch Backfill & Filtering Upgrade | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Batch Backfill & Filtering Upgrade | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Xiaohongshu Batch Backfill & Filtering Upgrade"
+        },
+        {
+          "level": 3,
+          "text": "Comment and save count filtering"
+        },
+        {
+          "level": 3,
+          "text": "Batch detail backfill"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Comment and save count filtering"
+        },
+        {
+          "level": 3,
+          "text": "Batch detail backfill"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Xiaohongshu Batch Backfill & Filtering Upgrade",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Comment and save count filtering",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Comment and save count filtering",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.0.6",
+      "documentRequestCount": 1,
+      "durationMs": 19240,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.0.7",
+      "path": "/en/updates/v0.0.7",
+      "version": "v0.0.7",
+      "versionTitle": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering"
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu creator profile enrichment"
+        },
+        {
+          "level": 3,
+          "text": "Comment lead filtering and export"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Xiaohongshu creator profile enrichment"
+        },
+        {
+          "level": 3,
+          "text": "Comment lead filtering and export"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Xiaohongshu Creator Profile Enrichment & Comment Lead Filtering",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Xiaohongshu creator profile enrichment",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Xiaohongshu creator profile enrichment",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.0.7",
+      "documentRequestCount": 1,
+      "durationMs": 16426,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.0.9",
+      "path": "/en/updates/v0.0.9",
+      "version": "v0.0.9",
+      "versionTitle": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release"
+        },
+        {
+          "level": 3,
+          "text": "Douyin batch scraping"
+        },
+        {
+          "level": 3,
+          "text": "Douyin comment lead filtering"
+        },
+        {
+          "level": 3,
+          "text": "Competitor monitoring digest"
+        },
+        {
+          "level": 3,
+          "text": "Website purchase and renewal"
+        },
+        {
+          "level": 3,
+          "text": "Referral program"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Douyin batch scraping"
+        },
+        {
+          "level": 3,
+          "text": "Douyin comment lead filtering"
+        },
+        {
+          "level": 3,
+          "text": "Competitor monitoring digest"
+        },
+        {
+          "level": 3,
+          "text": "Website purchase and renewal"
+        },
+        {
+          "level": 3,
+          "text": "Referral program"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Douyin Batch Scraping, Monitoring Digest, and Monetization Release",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Douyin batch scraping",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Douyin batch scraping",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/referral",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.0.9",
+      "documentRequestCount": 1,
+      "durationMs": 7386,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.0",
+      "path": "/en/updates/v0.1.0",
+      "version": "v0.1.0",
+      "versionTitle": "Continuous Scraping & Topic Insight Upgrade | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Continuous Scraping & Topic Insight Upgrade | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Continuous Scraping & Topic Insight Upgrade"
+        },
+        {
+          "level": 3,
+          "text": "Batch input for continuous scraping"
+        },
+        {
+          "level": 3,
+          "text": "Low-follower viral post filtering"
+        },
+        {
+          "level": 3,
+          "text": "AI topic sub-direction insights"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Batch input for continuous scraping"
+        },
+        {
+          "level": 3,
+          "text": "Low-follower viral post filtering"
+        },
+        {
+          "level": 3,
+          "text": "AI topic sub-direction insights"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Continuous Scraping & Topic Insight Upgrade",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Batch input for continuous scraping",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Batch input for continuous scraping",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.0",
+      "documentRequestCount": 1,
+      "durationMs": 12302,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.1",
+      "path": "/en/updates/v0.1.1",
+      "version": "v0.1.1",
+      "versionTitle": "Creator Profile Filtering, Version Notifications, and Edge Compatibility | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Creator Profile Filtering, Version Notifications, and Edge Compatibility | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Creator Profile Filtering, Version Notifications, and Edge Compatibility"
+        },
+        {
+          "level": 3,
+          "text": "Creator profile topic filtering"
+        },
+        {
+          "level": 3,
+          "text": "Version update notifications"
+        },
+        {
+          "level": 3,
+          "text": "Microsoft Edge compatibility"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Creator profile topic filtering"
+        },
+        {
+          "level": 3,
+          "text": "Version update notifications"
+        },
+        {
+          "level": 3,
+          "text": "Microsoft Edge compatibility"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Creator Profile Filtering, Version Notifications, and Edge Compatibility",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Creator profile topic filtering",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Creator profile topic filtering",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.1",
+      "documentRequestCount": 1,
+      "durationMs": 6177,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.2",
+      "path": "/en/updates/v0.1.2",
+      "version": "v0.1.2",
+      "versionTitle": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite"
+        },
+        {
+          "level": 3,
+          "text": "Douyin attachment downloads"
+        },
+        {
+          "level": 3,
+          "text": "Favorites and likes scraping"
+        },
+        {
+          "level": 3,
+          "text": "Lark Base template AI rewrite"
+        },
+        {
+          "level": 3,
+          "text": "Hourly monitoring schedule picker"
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu video playback issue"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Douyin attachment downloads"
+        },
+        {
+          "level": 3,
+          "text": "Favorites and likes scraping"
+        },
+        {
+          "level": 3,
+          "text": "Lark Base template AI rewrite"
+        },
+        {
+          "level": 3,
+          "text": "Hourly monitoring schedule picker"
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu video playback issue"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Douyin Attachment Downloads, Favorites/Likes Scraping & AI Rewrite",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Douyin attachment downloads",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Douyin attachment downloads",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.2",
+      "documentRequestCount": 1,
+      "durationMs": 11375,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.3",
+      "path": "/en/updates/v0.1.3",
+      "version": "v0.1.3",
+      "versionTitle": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow"
+        },
+        {
+          "level": 3,
+          "text": "Keyword opportunity analysis"
+        },
+        {
+          "level": 3,
+          "text": "First-install risk reminder"
+        },
+        {
+          "level": 3,
+          "text": "Smoother transition from seed to long-tail analysis"
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu note recognition accuracy"
+        },
+        {
+          "level": 3,
+          "text": "Missing CSV export fields"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Keyword opportunity analysis"
+        },
+        {
+          "level": 3,
+          "text": "First-install risk reminder"
+        },
+        {
+          "level": 3,
+          "text": "Smoother transition from seed to long-tail analysis"
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu note recognition accuracy"
+        },
+        {
+          "level": 3,
+          "text": "Missing CSV export fields"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Keyword Opportunity Analysis & Improved Keyword Strategy Workflow",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Keyword opportunity analysis",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Keyword opportunity analysis",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.3",
+      "documentRequestCount": 1,
+      "durationMs": 9394,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.5",
+      "path": "/en/updates/v0.1.5",
+      "version": "v0.1.5",
+      "versionTitle": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates"
+        },
+        {
+          "level": 3,
+          "text": "Find competitor accounts on search pages"
+        },
+        {
+          "level": 3,
+          "text": "Copy diagnostics"
+        },
+        {
+          "level": 3,
+          "text": "Unstable Xiaohongshu suggestion collection"
+        },
+        {
+          "level": 3,
+          "text": "Douyin creator profile like filtering"
+        },
+        {
+          "level": 3,
+          "text": "Douyin search result title recognition"
+        },
+        {
+          "level": 3,
+          "text": "Douyin comment collection gaps"
+        },
+        {
+          "level": 3,
+          "text": "Better investigation when collection counts are low"
+        },
+        {
+          "level": 3,
+          "text": "Failure protection for batch sync"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Find competitor accounts on search pages"
+        },
+        {
+          "level": 3,
+          "text": "Copy diagnostics"
+        },
+        {
+          "level": 3,
+          "text": "Unstable Xiaohongshu suggestion collection"
+        },
+        {
+          "level": 3,
+          "text": "Douyin creator profile like filtering"
+        },
+        {
+          "level": 3,
+          "text": "Douyin search result title recognition"
+        },
+        {
+          "level": 3,
+          "text": "Douyin comment collection gaps"
+        },
+        {
+          "level": 3,
+          "text": "Better investigation when collection counts are low"
+        },
+        {
+          "level": 3,
+          "text": "Failure protection for batch sync"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Competitor Account Finder, Diagnostics Copy, and Scraping Stability Updates",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Find competitor accounts on search pages",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Find competitor accounts on search pages",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.5",
+      "documentRequestCount": 1,
+      "durationMs": 11728,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.7",
+      "path": "/en/updates/v0.1.7",
+      "version": "v0.1.7",
+      "versionTitle": "Keyword Public Opinion Scan and Welfare Center | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Keyword Public Opinion Scan and Welfare Center | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Keyword Public Opinion Scan and Welfare Center"
+        },
+        {
+          "level": 3,
+          "text": "Keyword public opinion scan"
+        },
+        {
+          "level": 3,
+          "text": "Welfare center"
+        },
+        {
+          "level": 3,
+          "text": "More stable sync and feedback"
+        },
+        {
+          "level": 3,
+          "text": "More stable account monitoring and keyword analysis"
+        },
+        {
+          "level": 3,
+          "text": "Better Douyin batch collection stability"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Keyword public opinion scan"
+        },
+        {
+          "level": 3,
+          "text": "Welfare center"
+        },
+        {
+          "level": 3,
+          "text": "More stable sync and feedback"
+        },
+        {
+          "level": 3,
+          "text": "More stable account monitoring and keyword analysis"
+        },
+        {
+          "level": 3,
+          "text": "Better Douyin batch collection stability"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Keyword Public Opinion Scan and Welfare Center",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Keyword public opinion scan",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Keyword public opinion scan",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.7",
+      "documentRequestCount": 1,
+      "durationMs": 6867,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.8",
+      "path": "/en/updates/v0.1.8",
+      "version": "v0.1.8",
+      "versionTitle": "Markdown Export, Video Transcripts, and Image Text Extraction | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Markdown Export, Video Transcripts, and Image Text Extraction | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Markdown Export, Video Transcripts, and Image Text Extraction"
+        },
+        {
+          "level": 3,
+          "text": "Markdown export format"
+        },
+        {
+          "level": 3,
+          "text": "Video transcripts and image text extraction"
+        },
+        {
+          "level": 3,
+          "text": "Comment exports include comment time"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Markdown export format"
+        },
+        {
+          "level": 3,
+          "text": "Video transcripts and image text extraction"
+        },
+        {
+          "level": 3,
+          "text": "Comment exports include comment time"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Markdown Export, Video Transcripts, and Image Text Extraction",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Markdown export format",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Markdown export format",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.8",
+      "documentRequestCount": 1,
+      "durationMs": 11611,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.1.9",
+      "path": "/en/updates/v0.1.9",
+      "version": "v0.1.9",
+      "versionTitle": "Onboarding Guide and Cleaner, More Stable Douyin Collection | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Onboarding Guide and Cleaner, More Stable Douyin Collection | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Onboarding Guide and Cleaner, More Stable Douyin Collection"
+        },
+        {
+          "level": 3,
+          "text": "Onboarding guide"
+        },
+        {
+          "level": 3,
+          "text": "More stable Douyin collection"
+        },
+        {
+          "level": 3,
+          "text": "Clearer pre-collection state checks"
+        },
+        {
+          "level": 3,
+          "text": "Fixed collection issues on some Douyin detail pages"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Onboarding guide"
+        },
+        {
+          "level": 3,
+          "text": "More stable Douyin collection"
+        },
+        {
+          "level": 3,
+          "text": "Clearer pre-collection state checks"
+        },
+        {
+          "level": 3,
+          "text": "Fixed collection issues on some Douyin detail pages"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Onboarding Guide and Cleaner, More Stable Douyin Collection",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Onboarding guide",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Onboarding guide",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.1.9",
+      "documentRequestCount": 1,
+      "durationMs": 16242,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.2.0",
+      "path": "/en/updates/v0.2.0",
+      "version": "v0.2.0",
+      "versionTitle": "From Content Research to Ideation and Creation | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "From Content Research to Ideation and Creation | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "From Content Research to Ideation and Creation"
+        },
+        {
+          "level": 3,
+          "text": "A brand-new AI Workspace"
+        },
+        {
+          "level": 3,
+          "text": "Account research and viral post breakdowns"
+        },
+        {
+          "level": 3,
+          "text": "Shareable research reports"
+        },
+        {
+          "level": 3,
+          "text": "Safer, more continuous collection"
+        },
+        {
+          "level": 3,
+          "text": "More reliable large-scale syncing"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "A brand-new AI Workspace"
+        },
+        {
+          "level": 3,
+          "text": "Account research and viral post breakdowns"
+        },
+        {
+          "level": 3,
+          "text": "Shareable research reports"
+        },
+        {
+          "level": 3,
+          "text": "Safer, more continuous collection"
+        },
+        {
+          "level": 3,
+          "text": "More reliable large-scale syncing"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "From Content Research to Ideation and Creation",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "A brand-new AI Workspace",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "A brand-new AI Workspace",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.2.0",
+      "documentRequestCount": 1,
+      "durationMs": 6680,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.2.1",
+      "path": "/en/updates/v0.2.1",
+      "version": "v0.2.1",
+      "versionTitle": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams"
+        },
+        {
+          "level": 3,
+          "text": "Bulk image export"
+        },
+        {
+          "level": 3,
+          "text": "Deeper post breakdowns"
+        },
+        {
+          "level": 3,
+          "text": "Multi-sheet sync for the Team plan"
+        },
+        {
+          "level": 3,
+          "text": "A visual dimension in account analysis"
+        },
+        {
+          "level": 3,
+          "text": "Easier to control and resume AI tasks"
+        },
+        {
+          "level": 3,
+          "text": "Fixed cross-page cache leaking into sync"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Bulk image export"
+        },
+        {
+          "level": 3,
+          "text": "Deeper post breakdowns"
+        },
+        {
+          "level": 3,
+          "text": "Multi-sheet sync for the Team plan"
+        },
+        {
+          "level": 3,
+          "text": "A visual dimension in account analysis"
+        },
+        {
+          "level": 3,
+          "text": "Easier to control and resume AI tasks"
+        },
+        {
+          "level": 3,
+          "text": "Fixed cross-page cache leaking into sync"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Bulk Image Export, Deeper Post Breakdowns, More Flexible Teams",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Bulk image export",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Bulk image export",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.2.1",
+      "documentRequestCount": 1,
+      "durationMs": 8382,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.2.2",
+      "path": "/en/updates/v0.2.2",
+      "version": "v0.2.2",
+      "versionTitle": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides"
+        },
+        {
+          "level": 3,
+          "text": "Batch video transcripts"
+        },
+        {
+          "level": 3,
+          "text": "Douyin collection capture"
+        },
+        {
+          "level": 3,
+          "text": "Scenario-based onboarding"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Batch video transcripts"
+        },
+        {
+          "level": 3,
+          "text": "Douyin collection capture"
+        },
+        {
+          "level": 3,
+          "text": "Scenario-based onboarding"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Batch Video Transcripts, Douyin Collection Capture, and Scenario Guides",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Batch video transcripts",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Batch video transcripts",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.2.2",
+      "documentRequestCount": 1,
+      "durationMs": 6076,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.2.3",
+      "path": "/en/updates/v0.2.3",
+      "version": "v0.2.3",
+      "versionTitle": "Creator Profiles and More Reliable Collection | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Creator Profiles and More Reliable Collection | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Creator Profiles and More Reliable Collection"
+        },
+        {
+          "level": 3,
+          "text": "Creator Profiles"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Creator Profiles"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Creator Profiles and More Reliable Collection",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Creator Profiles",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Creator Profiles",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.2.3",
+      "documentRequestCount": 1,
+      "durationMs": 6887,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    },
+    {
+      "url": "https://mediaclaw.app/en/updates/v0.3.0",
+      "path": "/en/updates/v0.3.0",
+      "version": "v0.3.0",
+      "versionTitle": "MediaClaw Agent Is Now Available | MediaClaw",
+      "status": 200,
+      "statusLabel": "ok",
+      "contentType": "text/html; charset=utf-8",
+      "title": "MediaClaw Agent Is Now Available | MediaClaw",
+      "lang": "en",
+      "language": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "MediaClaw Agent Is Now Available"
+        },
+        {
+          "level": 3,
+          "text": "Local Agent control"
+        },
+        {
+          "level": 3,
+          "text": "Unified data access"
+        },
+        {
+          "level": 3,
+          "text": "Research and creation workflows"
+        },
+        {
+          "level": 3,
+          "text": "Agent permissions and privacy"
+        }
+      ],
+      "articleOutline": [
+        {
+          "level": 3,
+          "text": "Local Agent control"
+        },
+        {
+          "level": 3,
+          "text": "Unified data access"
+        },
+        {
+          "level": 3,
+          "text": "Research and creation workflows"
+        },
+        {
+          "level": 3,
+          "text": "Agent permissions and privacy"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "header",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "label": "",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "label": "",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "MediaClaw Agent Is Now Available",
+          "id": null
+        },
+        {
+          "tag": "section",
+          "heading": "Local Agent control",
+          "id": null
+        },
+        {
+          "tag": "article",
+          "heading": "Local Agent control",
+          "id": null
+        }
+      ],
+      "releaseLinks": [],
+      "internalLinks": [
+        "/en",
+        "/en/xiaohongshu",
+        "/en/douyin",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=header_nav",
+        "/en/updates",
+        "/en/referral",
+        "/en/download",
+        "/en/pricing",
+        "/en/welfare?entry=footer",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "finalUrl": "https://mediaclaw.app/en/updates/v0.3.0",
+      "documentRequestCount": 1,
+      "durationMs": 7265,
+      "errors": [
+        "console:error: Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      ]
+    }
+  ],
+  "counts": {
+    "assigned": 34,
+    "crawled": 34,
+    "uniquePaths": 34,
+    "status": {
+      "200": 34
+    },
+    "language": {
+      "zh": 17,
+      "en": 17
+    },
+    "routesWithErrors": 34,
+    "routesWithReleaseLinks": 2
+  },
+  "observedLimitations": [
+    "Live anonymous crawl only; no login, form submission, state-changing control, purchase, referral, or private API was used.",
+    "Only same-origin GET/HEAD browser requests were allowed. Cross-origin resources were blocked and release links were recorded without following them.",
+    "Each frozen route was navigated once with domcontentloaded followed by an 800 ms bounded render settle; analytics or later mutations were not awaited."
+  ],
+  "sourceEvidence": {
+    "crawl": "live",
+    "browser": "Playwright 1.62.1 Chromium headless",
+    "protocolPath": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-PROTOCOL.md",
+    "scriptPath": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-UPDATES.mjs",
+    "routePaths": [
+      "/updates",
+      "/en/updates",
+      "/updates/v0.0.6",
+      "/updates/v0.0.7",
+      "/updates/v0.0.9",
+      "/updates/v0.1.0",
+      "/updates/v0.1.1",
+      "/updates/v0.1.2",
+      "/updates/v0.1.3",
+      "/updates/v0.1.5",
+      "/updates/v0.1.7",
+      "/updates/v0.1.8",
+      "/updates/v0.1.9",
+      "/updates/v0.2.0",
+      "/updates/v0.2.1",
+      "/updates/v0.2.2",
+      "/updates/v0.2.3",
+      "/updates/v0.3.0",
+      "/en/updates/v0.0.6",
+      "/en/updates/v0.0.7",
+      "/en/updates/v0.0.9",
+      "/en/updates/v0.1.0",
+      "/en/updates/v0.1.1",
+      "/en/updates/v0.1.2",
+      "/en/updates/v0.1.3",
+      "/en/updates/v0.1.5",
+      "/en/updates/v0.1.7",
+      "/en/updates/v0.1.8",
+      "/en/updates/v0.1.9",
+      "/en/updates/v0.2.0",
+      "/en/updates/v0.2.1",
+      "/en/updates/v0.2.2",
+      "/en/updates/v0.2.3",
+      "/en/updates/v0.3.0"
+    ],
+    "requestedRouteCount": 34,
+    "navigationPolicy": "GET/HEAD, same-origin only",
+    "waitPolicy": {
+      "waitUntil": "domcontentloaded",
+      "settleMs": 800
+    },
+    "routeRequestCounts": {
+      "/updates": 1,
+      "/en/updates": 1,
+      "/updates/v0.0.6": 1,
+      "/updates/v0.0.7": 1,
+      "/updates/v0.0.9": 1,
+      "/updates/v0.1.0": 1,
+      "/updates/v0.1.1": 1,
+      "/updates/v0.1.2": 1,
+      "/updates/v0.1.3": 1,
+      "/updates/v0.1.5": 1,
+      "/updates/v0.1.7": 1,
+      "/updates/v0.1.8": 1,
+      "/updates/v0.1.9": 1,
+      "/updates/v0.2.0": 1,
+      "/updates/v0.2.1": 1,
+      "/updates/v0.2.2": 1,
+      "/updates/v0.2.3": 1,
+      "/updates/v0.3.0": 1,
+      "/en/updates/v0.0.6": 1,
+      "/en/updates/v0.0.7": 1,
+      "/en/updates/v0.0.9": 1,
+      "/en/updates/v0.1.0": 1,
+      "/en/updates/v0.1.1": 1,
+      "/en/updates/v0.1.2": 1,
+      "/en/updates/v0.1.3": 1,
+      "/en/updates/v0.1.5": 1,
+      "/en/updates/v0.1.7": 1,
+      "/en/updates/v0.1.8": 1,
+      "/en/updates/v0.1.9": 1,
+      "/en/updates/v0.2.0": 1,
+      "/en/updates/v0.2.1": 1,
+      "/en/updates/v0.2.2": 1,
+      "/en/updates/v0.2.3": 1,
+      "/en/updates/v0.3.0": 1
+    }
+  }
+}

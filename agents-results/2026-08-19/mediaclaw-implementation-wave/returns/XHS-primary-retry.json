@@ -1,0 +1,19 @@
+{
+  "task_id": "XHS",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "src/rebuild/data/xiaohongshu.js"
+  ],
+  "evidence_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-XHS.json",
+    "agents-results/2026-08-19/mediaclaw-implementation-wave/validation/XHS.sh"
+  ],
+  "validation_command": "bash agents-results/2026-08-19/mediaclaw-implementation-wave/validation/XHS.sh",
+  "validation_exit_code": 0,
+  "unverified_items": [
+    "The crawl reported uniqueBy is not defined, leaving headings, sections, internal links, and media URLs unavailable; the route records preserve those observed empty arrays and use locale-correct title/slug-derived H1 and summary fallbacks."
+  ]
+}

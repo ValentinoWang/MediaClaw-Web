@@ -1,0 +1,263 @@
+{
+  "taskId": "C0-AGGREGATE",
+  "artifactFiles": [
+    "CRAWL-BLOG-ARTICLES-A.json",
+    "CRAWL-BLOG-ARTICLES-B.json",
+    "CRAWL-BLOG-INDEX.json",
+    "CRAWL-BOUNDARIES.json",
+    "CRAWL-COMMERCIAL-LEGAL.json",
+    "CRAWL-DOUYIN.json",
+    "CRAWL-HOME-SHELL.json",
+    "CRAWL-UPDATES.json",
+    "CRAWL-XHS.json"
+  ],
+  "perFile": {
+    "CRAWL-BLOG-ARTICLES-A.json": 24,
+    "CRAWL-BLOG-ARTICLES-B.json": 24,
+    "CRAWL-BLOG-INDEX.json": 26,
+    "CRAWL-BOUNDARIES.json": 6,
+    "CRAWL-COMMERCIAL-LEGAL.json": 14,
+    "CRAWL-DOUYIN.json": 22,
+    "CRAWL-HOME-SHELL.json": 2,
+    "CRAWL-UPDATES.json": 34,
+    "CRAWL-XHS.json": 22
+  },
+  "totalRoutes": 174,
+  "uniquePaths": 174,
+  "expectedReportPages": 174,
+  "statuses": {
+    "200": 170,
+    "404": 4
+  },
+  "reportStatuses": {
+    "200": 170,
+    "404": 4
+  },
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "requiredFields": [
+    "url",
+    "path",
+    "status",
+    "contentType",
+    "title",
+    "lang",
+    "headings",
+    "landmarks",
+    "sections",
+    "internalLinks",
+    "forms",
+    "durationMs",
+    "errors"
+  ],
+  "pathSetMatches": true,
+  "statusSplitMatches": true,
+  "generatedAt": "2026-08-19T06:53:29.119Z",
+  "sourceChecks": [
+    {
+      "file": "src/main.jsx",
+      "expected": "0507575f17932f6656b14d5eb249e67a788df4feb3d1a9e674a3c80e139109c1",
+      "actual": "0507575f17932f6656b14d5eb249e67a788df4feb3d1a9e674a3c80e139109c1",
+      "unchanged": true
+    },
+    {
+      "file": "src/styles.css",
+      "expected": "aafbfd1bba201c7c0677a15b745f93083fa00d2eb1c6a6b0fe93f95bbb8faf47",
+      "actual": "aafbfd1bba201c7c0677a15b745f93083fa00d2eb1c6a6b0fe93f95bbb8faf47",
+      "unchanged": true
+    }
+  ],
+  "sourceFilesUnchanged": true,
+  "supervisorLedgerNote": "CRAWL-XHS was recovered read-only after its lw-luna supervisor stopped on transport timeout; original supervisor ledgers remain unchanged.",
+  "supervisorStates": {
+    "CRAWL-BLOG-ARTICLES-A": {
+      "finalDecision": "complete",
+      "terminalState": "VERIFIED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 0,
+          "timedOut": false,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "complete"
+        }
+      ]
+    },
+    "CRAWL-BLOG-ARTICLES-B": {
+      "finalDecision": "stop",
+      "terminalState": "BLOCKED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "missing",
+          "classification": "stop"
+        }
+      ]
+    },
+    "CRAWL-BLOG-INDEX": {
+      "finalDecision": "stop",
+      "terminalState": "BLOCKED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "missing",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "missing",
+          "classification": "stop"
+        }
+      ]
+    },
+    "CRAWL-BOUNDARIES": {
+      "finalDecision": "complete",
+      "terminalState": "VERIFIED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 0,
+          "timedOut": false,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "complete"
+        }
+      ]
+    },
+    "CRAWL-COMMERCIAL-LEGAL": {
+      "finalDecision": "stop",
+      "terminalState": "BLOCKED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 1,
+          "timedOut": false,
+          "validationExitCode": 1,
+          "structuredReturnState": "missing",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "stop"
+        }
+      ]
+    },
+    "CRAWL-DOUYIN": {
+      "finalDecision": "complete",
+      "terminalState": "VERIFIED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 0,
+          "timedOut": false,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "complete"
+        }
+      ]
+    },
+    "CRAWL-HOME-SHELL": {
+      "finalDecision": "complete",
+      "terminalState": "VERIFIED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 0,
+          "timedOut": false,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "complete"
+        }
+      ]
+    },
+    "CRAWL-UPDATES": {
+      "finalDecision": "complete",
+      "terminalState": "VERIFIED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 0,
+          "timedOut": false,
+          "validationExitCode": 0,
+          "structuredReturnState": "loaded",
+          "classification": "complete"
+        }
+      ]
+    },
+    "CRAWL-XHS": {
+      "finalDecision": "stop",
+      "terminalState": "BLOCKED",
+      "attempts": [
+        {
+          "role": "primary",
+          "exitCode": 1,
+          "timedOut": false,
+          "validationExitCode": 1,
+          "structuredReturnState": "missing",
+          "classification": "retry_primary"
+        },
+        {
+          "role": "primary-retry",
+          "exitCode": 124,
+          "timedOut": true,
+          "validationExitCode": 1,
+          "structuredReturnState": "missing",
+          "classification": "stop"
+        }
+      ]
+    }
+  },
+  "recoveryReturns": [
+    "CRAWL-BLOG-ARTICLES-B-recovery.json",
+    "CRAWL-BLOG-INDEX-recovery.json",
+    "CRAWL-COMMERCIAL-LEGAL-recovery.json",
+    "CRAWL-XHS-recovery.json"
+  ]
+}

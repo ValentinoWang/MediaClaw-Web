@@ -1,0 +1,44 @@
+{
+  "taskId": "CRAWL-BOUNDARIES",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BOUNDARIES.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/crawl-boundaries.mjs",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary-validation-rerun.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary.semantic-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BOUNDARIES-primary.json"
+  ],
+  "evidence_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BOUNDARIES.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary-validation-rerun.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-primary.semantic-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BOUNDARIES.sh"
+  ],
+  "validation": {
+    "command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BOUNDARIES.sh",
+    "log_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BOUNDARIES-validation.log",
+    "result": "pass",
+    "route_schema_check": "pass",
+    "semantic_route_check": "pass",
+    "source_hash_check": "pass"
+  },
+  "observed_routes": [
+    { "path": "/settings/referral", "status": 200, "title": "MediaClaw", "h1": [], "lang": "zh", "requestedExactlyOnce": true },
+    { "path": "/en/settings/referral", "status": 200, "title": "MediaClaw", "h1": [], "lang": "en", "requestedExactlyOnce": true },
+    { "path": "/posts/xiaohongshu-comment-analysis", "status": 404, "title": "MediaClaw", "h1": ["404"], "lang": "zh", "requestedExactlyOnce": true },
+    { "path": "/posts/xiaohongshu-comment-topic-mining", "status": 404, "title": "MediaClaw", "h1": ["404"], "lang": "zh", "requestedExactlyOnce": true },
+    { "path": "/en/posts/xiaohongshu-comment-analysis", "status": 404, "title": "MediaClaw", "h1": ["404"], "lang": "en", "requestedExactlyOnce": true },
+    { "path": "/en/posts/xiaohongshu-comment-topic-mining", "status": 404, "title": "MediaClaw", "h1": ["404"], "lang": "en", "requestedExactlyOnce": true }
+  ],
+  "unverified_items": [
+    "Third-party GETs to static.cloudflareinsights.com, www.googletagmanager.com, and www.clarity.ms were blocked by the same-origin crawl policy; those integrations are unverified.",
+    "Referral/account state behind authentication was not accessed; the settings observations are anonymous DOM evidence only.",
+    "No linked route or bundle-only route was followed; coverage is limited to the six frozen assignments."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "task_id": "HOME-SHELL",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/rebuild/data/homeShell.js",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/returns/HOME-SHELL-primary.json"
+  ],
+  "evidence_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-HOME-SHELL.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/rebuild/contracts/routeSchema.js",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/CONCURRENT_WORKER_ASSIGNMENTS.md",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/HOME-SHELL.sh"
+  ],
+  "validation": {
+    "command": "bash /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/HOME-SHELL.sh",
+    "result": "pass",
+    "output": "{\"owner\":\"HOME-SHELL\",\"count\":2,\"uniquePaths\":2}",
+    "command_sha256": "01ac8f8ba873d76b09e071fe3e0575bec79d705041a75b2ca5e4f55a22131ec0"
+  },
+  "unverified_items": [
+    "No browser, deployment, or production verification was performed; this task only validates the source route data module.",
+    "The crawl artifact exposed no media URLs, so both media arrays remain empty based on source evidence.",
+    "Git diff/status scope auditing was unavailable because the project root is not a Git repository."
+  ]
+}

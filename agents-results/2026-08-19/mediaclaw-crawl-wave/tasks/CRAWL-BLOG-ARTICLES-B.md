@@ -1,0 +1,3 @@
+# CRAWL-BLOG-ARTICLES-B
+
+Read `CRAWL-PROTOCOL.md` first. Crawl both locale routes for these twelve slugs: `how-to-copy-viral-short-videos`, `xiaohongshu-search-vs-recommendation-traffic`, `xiaohongshu-keyword-placement`, `xiaohongshu-topic-analysis`, `short-video-transcript-extraction`, `xiaohongshu-comment-topic-mining`, `xiaohongshu-keyword-research`, `xiaohongshu-competitor-monitoring`, `xiaohongshu-comment-analysis`, `xiaohongshu-topic-library-build`, `xiaohongshu-download-own-posts`, `xiaohongshu-download-remove-watermark`. Capture article H1, metadata, aside links, section outline, media URLs, visible source/rights cues, and status. Write only `artifacts/CRAWL-BLOG-ARTICLES-B.json` and task-local logs/scripts.

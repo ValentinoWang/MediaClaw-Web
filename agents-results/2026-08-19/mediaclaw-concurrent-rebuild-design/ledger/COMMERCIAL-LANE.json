@@ -1,0 +1,102 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/prompts/COMMERCIAL-LANE-primary.txt)"
+      ],
+      "ended_at": "2026-08-18T20:31:47.820705+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/logs/COMMERCIAL-LANE-primary.log",
+      "pid": 81554,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/prompts/COMMERCIAL-LANE-primary.txt",
+      "prompt_sha256": "e5a1b095fe04593137695be2ae2d86b6776c4a916568ba60f754f31344704826",
+      "started_at": "2026-08-18T20:24:16.044789+00:00",
+      "structured_return": {
+        "acceptance": {
+          "command": "bash /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/validation/COMMERCIAL-LANE.sh",
+          "exit_code": 0,
+          "validation_command_sha256": "de12c5713aa8b9e960f83e1337a1614f7781b168346942e25a9dc2e33698097e"
+        },
+        "acceptance_self_check": "pass",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/artifacts/COMMERCIAL-LANE.md"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/site-audit-mediaclaw-full-2026-08-19/report.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/site-audit-mediaclaw-full-2026-08-19/PAGE_CLASSIFICATION.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/site-audit-mediaclaw-full-2026-08-19/PAGE_CATALOG.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/main.jsx",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/validation/COMMERCIAL-LANE.sh"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "task_id": "COMMERCIAL-LANE",
+        "unverified_items": [
+          "No source implementation was authorized or performed; src/**, package files, dist, and deployment state remain unchanged.",
+          "No browser rendering, direct HTTP production-like readback, or mobile/desktop screenshot acceptance was performed by this design-only worker.",
+          "Payment, login/OAuth, extension installation, Feishu OAuth/webhook/write, welfare redemption, referral attribution/commission/withdrawal, and authenticated referral settings remain preview or future-scope boundaries.",
+          "Legal copy approval, effective dates, legal entity/contact authority, and production disclosure approval remain external owner decisions."
+        ]
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/returns/COMMERCIAL-LANE-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "756334bddb2a81804345effc0d08236a4f4d2ba4346a611ddbeb9382503c616e",
+      "timed_out": false,
+      "validation_command_sha256": "de12c5713aa8b9e960f83e1337a1614f7781b168346942e25a9dc2e33698097e",
+      "validation_ended_at": "2026-08-18T20:31:47.867244+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/logs/COMMERCIAL-LANE-primary.validation.log",
+      "validation_pid": 88878,
+      "validation_started_at": "2026-08-18T20:31:47.822437+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-18T20:31:47.934451+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/ledger/COMMERCIAL-LANE.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-18T20:24:16.043594+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/tasks/COMMERCIAL-LANE.md",
+  "task_id": "COMMERCIAL-LANE",
+  "task_sha256": "756334bddb2a81804345effc0d08236a4f4d2ba4346a611ddbeb9382503c616e",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/validation/COMMERCIAL-LANE.sh",
+  "validation_command_sha256": "de12c5713aa8b9e960f83e1337a1614f7781b168346942e25a9dc2e33698097e",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

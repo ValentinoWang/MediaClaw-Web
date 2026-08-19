@@ -1,0 +1,188 @@
+{
+  "taskId": "C0-CLOSURE",
+  "state": "COMPLETE",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "closedAt": "2026-08-19T07:02:30.629Z",
+  "scope": "anonymous same-origin GET/HEAD public document crawl only",
+  "routeCoverage": {
+    "total": 174,
+    "unique": 174,
+    "statuses": {
+      "200": 170,
+      "404": 4
+    },
+    "pathSetMatches": true,
+    "statusSplitMatches": true,
+    "perTask": {
+      "CRAWL-HOME-SHELL": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-HOME-SHELL.json",
+        "routes": 2,
+        "uniquePaths": 2,
+        "statuses": {
+          "200": 2
+        },
+        "expected": 2,
+        "artifactVerified": true
+      },
+      "CRAWL-XHS": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-XHS.json",
+        "routes": 22,
+        "uniquePaths": 22,
+        "statuses": {
+          "200": 22
+        },
+        "expected": 22,
+        "artifactVerified": true
+      },
+      "CRAWL-DOUYIN": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-DOUYIN.json",
+        "routes": 22,
+        "uniquePaths": 22,
+        "statuses": {
+          "200": 22
+        },
+        "expected": 22,
+        "artifactVerified": true
+      },
+      "CRAWL-BLOG-INDEX": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-INDEX.json",
+        "routes": 26,
+        "uniquePaths": 26,
+        "statuses": {
+          "200": 26
+        },
+        "expected": 26,
+        "artifactVerified": true
+      },
+      "CRAWL-BLOG-ARTICLES-A": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+        "routes": 24,
+        "uniquePaths": 24,
+        "statuses": {
+          "200": 24
+        },
+        "expected": 24,
+        "artifactVerified": true
+      },
+      "CRAWL-BLOG-ARTICLES-B": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-B.json",
+        "routes": 24,
+        "uniquePaths": 24,
+        "statuses": {
+          "200": 24
+        },
+        "expected": 24,
+        "artifactVerified": true
+      },
+      "CRAWL-UPDATES": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-UPDATES.json",
+        "routes": 34,
+        "uniquePaths": 34,
+        "statuses": {
+          "200": 34
+        },
+        "expected": 34,
+        "artifactVerified": true
+      },
+      "CRAWL-COMMERCIAL-LEGAL": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-COMMERCIAL-LEGAL.json",
+        "routes": 14,
+        "uniquePaths": 14,
+        "statuses": {
+          "200": 14
+        },
+        "expected": 14,
+        "artifactVerified": true
+      },
+      "CRAWL-BOUNDARIES": {
+        "path": "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BOUNDARIES.json",
+        "routes": 6,
+        "uniquePaths": 6,
+        "statuses": {
+          "200": 2,
+          "404": 4
+        },
+        "expected": 6,
+        "artifactVerified": true
+      }
+    }
+  },
+  "workerExecution": {
+    "supervisorLedgers": {
+      "CRAWL-HOME-SHELL": {
+        "supervisorDecision": "complete",
+        "terminalState": "VERIFIED",
+        "attempts": 1
+      },
+      "CRAWL-XHS": {
+        "supervisorDecision": "stop",
+        "terminalState": "BLOCKED",
+        "attempts": 2
+      },
+      "CRAWL-DOUYIN": {
+        "supervisorDecision": "complete",
+        "terminalState": "VERIFIED",
+        "attempts": 2
+      },
+      "CRAWL-BLOG-INDEX": {
+        "supervisorDecision": "stop",
+        "terminalState": "BLOCKED",
+        "attempts": 2
+      },
+      "CRAWL-BLOG-ARTICLES-A": {
+        "supervisorDecision": "complete",
+        "terminalState": "VERIFIED",
+        "attempts": 2
+      },
+      "CRAWL-BLOG-ARTICLES-B": {
+        "supervisorDecision": "stop",
+        "terminalState": "BLOCKED",
+        "attempts": 2
+      },
+      "CRAWL-UPDATES": {
+        "supervisorDecision": "complete",
+        "terminalState": "VERIFIED",
+        "attempts": 2
+      },
+      "CRAWL-COMMERCIAL-LEGAL": {
+        "supervisorDecision": "stop",
+        "terminalState": "BLOCKED",
+        "attempts": 2
+      },
+      "CRAWL-BOUNDARIES": {
+        "supervisorDecision": "complete",
+        "terminalState": "VERIFIED",
+        "attempts": 1
+      }
+    },
+    "recoveryReturns": [
+      "CRAWL-BLOG-ARTICLES-B-recovery.json",
+      "CRAWL-BLOG-INDEX-recovery.json",
+      "CRAWL-COMMERCIAL-LEGAL-recovery.json",
+      "CRAWL-XHS-recovery.json"
+    ]
+  },
+  "sourceFilesUnchanged": true,
+  "validation": "C0-CLOSURE.sh passed",
+  "limitations": [
+    "Authenticated/private routes and non-GET behavior remain outside the declared crawl scope.",
+    "Four supervisor ledgers remain raw BLOCKED due Luna transport/timeout; their route artifacts were independently recovered and validated, and those ledgers were not rewritten."
+  ],
+  "evidenceFiles": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/C0-AGGREGATE.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/C0-AGGREGATE.sh",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/C0-CLOSURE.sh",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/C0-CLOSURE.validation.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+  ],
+  "changedFiles": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/C0-CLOSURE.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/C0-CLOSURE.validation.log"
+  ],
+  "unverifiedItems": [
+    "No authenticated or private application surface was tested."
+  ]
+}

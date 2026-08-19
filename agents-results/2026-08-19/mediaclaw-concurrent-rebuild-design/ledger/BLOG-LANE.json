@@ -1,0 +1,95 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/prompts/BLOG-LANE-primary.txt)"
+      ],
+      "ended_at": "2026-08-18T20:31:18.495603+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/logs/BLOG-LANE-primary.log",
+      "pid": 81555,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/prompts/BLOG-LANE-primary.txt",
+      "prompt_sha256": "b0dfd3350850ad1d288c233a7cd0a1097fabe0e33a95b0744dba5f70afb5553e",
+      "started_at": "2026-08-18T20:24:16.044813+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/artifacts/BLOG-LANE.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/returns/BLOG-LANE-primary.json"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/site-audit-mediaclaw-full-2026-08-19/report.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/site-audit-mediaclaw-full-2026-08-19/PAGE_CLASSIFICATION.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/site-audit-mediaclaw-full-2026-08-19/PAGE_CATALOG.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/main.jsx"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "unverified_items": [
+          "No implementation files were changed by this design-only lane.",
+          "Full article prose, translation review, and asset rights approvals are not present in the four frozen inputs.",
+          "Browser/runtime route smoke and responsive rendering require the later implementation and verification lanes."
+        ]
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/returns/BLOG-LANE-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "5df53efd206cd766fe1ecfb82d0461786588f8738772336b55bb24ade2677d4a",
+      "timed_out": false,
+      "validation_command_sha256": "9a70cd1b58983ed7db89a31436ca5f9411695193888736d89c7ba17a34180ae9",
+      "validation_ended_at": "2026-08-18T20:31:18.526748+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/logs/BLOG-LANE-primary.validation.log",
+      "validation_pid": 88436,
+      "validation_started_at": "2026-08-18T20:31:18.499245+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-18T20:31:18.571710+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/ledger/BLOG-LANE.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-18T20:24:16.043596+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/tasks/BLOG-LANE.md",
+  "task_id": "BLOG-LANE",
+  "task_sha256": "5df53efd206cd766fe1ecfb82d0461786588f8738772336b55bb24ade2677d4a",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-concurrent-rebuild-design/validation/BLOG-LANE.sh",
+  "validation_command_sha256": "9a70cd1b58983ed7db89a31436ca5f9411695193888736d89c7ba17a34180ae9",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

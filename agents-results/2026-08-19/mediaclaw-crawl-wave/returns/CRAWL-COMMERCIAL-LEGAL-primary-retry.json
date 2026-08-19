@@ -1,0 +1,45 @@
+{
+  "taskId": "CRAWL-COMMERCIAL-LEGAL",
+  "attemptRole": "primary-retry",
+  "executor": "lw-luna",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-COMMERCIAL-LEGAL.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-COMMERCIAL-LEGAL.mjs",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-primary-retry-live-repaired.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-primary-retry.validation-repaired.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-primary-retry.validation-final.log"
+  ],
+  "evidence_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-COMMERCIAL-LEGAL.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-primary-retry-live-repaired.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-primary-retry.validation-final.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-COMMERCIAL-LEGAL.mjs",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-PROTOCOL.md"
+  ],
+  "acceptance": {
+    "validation_command": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-COMMERCIAL-LEGAL.sh",
+    "validation_exit_code": 0,
+    "assigned_routes": 14,
+    "captured_routes": 14,
+    "unique_paths": 14,
+    "status_counts": {
+      "200": 14
+    },
+    "route_request_count_mismatches": 0,
+    "source_file_changes": false
+  },
+  "unverified_items": [
+    "The crawl was anonymous and did not click CTAs, submit forms, log in, reuse cookies, or call private APIs.",
+    "External analytics resources from static.cloudflareinsights.com, www.googletagmanager.com, and www.clarity.ms were blocked by the same-origin protocol.",
+    "A same-origin Cloudflare challenge-platform POST on /en/terms-of-service was blocked because only GET/HEAD requests are permitted; no anti-bot challenge was solved.",
+    "Visible preview/account boundary cues are DOM observations only and do not prove authenticated account behavior, purchase completion, referral attribution, or private service responses."
+  ],
+  "notes": [
+    "The task-local extractor was repaired so its page.evaluate callback defines all deduplication helpers locally; the final artifact has no dom-extraction errors.",
+    "Console errors caused by protocol-blocked external resources remain recorded in route errors as required by the protocol."
+  ]
+}

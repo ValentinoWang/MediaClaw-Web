@@ -1,0 +1,207 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "retry_primary",
+        "effective_failure_class": "transport",
+        "effective_failure_origin": "worker-transport",
+        "maximum_primary_retries_remaining": 1,
+        "next_attempt_role": "primary-retry",
+        "next_executor": "lw-luna",
+        "next_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker-transport failure; retry the same selected primary"
+      },
+      "classifier_exit_code": 11,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-BLOG-ARTICLES-A-primary.txt)"
+      ],
+      "ended_at": "2026-08-19T06:13:06.901814+00:00",
+      "exit_code": 124,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-primary.log",
+      "pid": 13780,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-BLOG-ARTICLES-A-primary.txt",
+      "prompt_sha256": "95e36fd887913225d4ef6040ecefcb5ab390336b51f46c92dc6906d3f8a9bccc",
+      "started_at": "2026-08-19T05:58:06.846521+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "attemptRole": "primary",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-BLOG-ARTICLES-A.cjs",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-live-crawl.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-validation.log"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-live-crawl.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "taskId": "CRAWL-BLOG-ARTICLES-A",
+        "unverified_items": [
+          "Cross-origin requests and same-origin XHR/fetch/WebSocket/EventSource requests were blocked by the anonymous document-only harness; their behavior and data are unverified.",
+          "The DOM was sampled after domcontentloaded plus a bounded 750ms settle, so later asynchronous mutations are unverified.",
+          "No semantically named visible article-metadata nodes were detected; live meta tags and canonical URLs were captured, while any visually presented metadata without semantic selectors is unverified.",
+          "No anti-bot or live navigation boundary was observed: all 24 assigned routes returned HTTP 200 and remained on the requested same-origin path."
+        ],
+        "validation": {
+          "assignedRoutes": 24,
+          "commandFile": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BLOG-ARTICLES-A.sh",
+          "exitCode": 0,
+          "initialDocumentGetCount": 24,
+          "observedRoutes": 24,
+          "sourceFilesChanged": false,
+          "statusCounts": {
+            "200": 24
+          },
+          "uniquePaths": 24
+        }
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BLOG-ARTICLES-A-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "976fafc6b846b01c60cfbb20601c70e41f4515a72652ad8b898ff618841910fb",
+      "timed_out": true,
+      "validation_command_sha256": "35f2a3df0d6158134b4aeb29a7e1a73a75f7b7440ecc7537d9db4821984d4b42",
+      "validation_ended_at": "2026-08-19T06:13:06.987711+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-primary.validation.log",
+      "validation_pid": 27216,
+      "validation_started_at": "2026-08-19T06:13:06.902065+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    },
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary-retry",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary-retry",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-BLOG-ARTICLES-A-primary-retry.txt)"
+      ],
+      "ended_at": "2026-08-19T06:23:48.819241+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-primary-retry.log",
+      "pid": 27238,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": 0,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/prompts/CRAWL-BLOG-ARTICLES-A-primary-retry.txt",
+      "prompt_sha256": "cfc72fa9535c46b79a7b72bd7f3e3f520fed7d75a530d016efc0c6fea4053e3a",
+      "started_at": "2026-08-19T06:13:07.040727+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "attemptRole": "primary-retry",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-live-crawl.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BLOG-ARTICLES-A-primary-retry.json"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-live-crawl.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-validation.log",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "taskId": "CRAWL-BLOG-ARTICLES-A",
+        "unverified_items": [
+          "Cross-origin requests and same-origin XHR/fetch/WebSocket/EventSource requests were blocked by the anonymous document-only harness; their behavior and data are unverified.",
+          "The DOM was sampled after domcontentloaded plus a bounded 750ms settle, so later asynchronous mutations are unverified.",
+          "No semantically named visible article-metadata nodes were detected; live meta tags and canonical URLs were captured, while any visually presented metadata without semantic selectors is unverified.",
+          "No anti-bot or live navigation boundary was observed: all 24 assigned routes returned HTTP 200 and remained on the requested same-origin path."
+        ],
+        "validation": {
+          "assignedRoutes": 24,
+          "commandFile": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BLOG-ARTICLES-A.sh",
+          "exitCode": 0,
+          "independentChecks": {
+            "exactFrozenPaths": true,
+            "liveEvidenceMode": true,
+            "requiredArticleFields": true
+          },
+          "initialDocumentGetCount": 24,
+          "observedRoutes": 24,
+          "requestedExactlyOnce": true,
+          "sourceFilesChanged": false,
+          "statusCounts": {
+            "200": 24
+          },
+          "uniquePaths": 24
+        }
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BLOG-ARTICLES-A-primary-retry.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "976fafc6b846b01c60cfbb20601c70e41f4515a72652ad8b898ff618841910fb",
+      "timed_out": false,
+      "validation_command_sha256": "35f2a3df0d6158134b4aeb29a7e1a73a75f7b7440ecc7537d9db4821984d4b42",
+      "validation_ended_at": "2026-08-19T06:23:48.899170+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-primary-retry.validation.log",
+      "validation_pid": 36350,
+      "validation_started_at": "2026-08-19T06:23:48.819593+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-19T06:23:48.941097+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/ledger/CRAWL-BLOG-ARTICLES-A.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-19T05:58:06.843887+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-BLOG-ARTICLES-A.md",
+  "task_id": "CRAWL-BLOG-ARTICLES-A",
+  "task_sha256": "976fafc6b846b01c60cfbb20601c70e41f4515a72652ad8b898ff618841910fb",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BLOG-ARTICLES-A.sh",
+  "validation_command_sha256": "35f2a3df0d6158134b4aeb29a7e1a73a75f7b7440ecc7537d9db4821984d4b42",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

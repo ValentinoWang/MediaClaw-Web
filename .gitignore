@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Generated worker logs can contain local execution noise and are not needed to run the site.
+agents-results/**/logs/
+
+# Local browser/test artifacts
+playwright-report/
+test-results/
+coverage/

@@ -1,0 +1,2392 @@
+{
+  "taskId": "CRAWL-XHS",
+  "target": "https://mediaclaw.app/",
+  "generatedAt": "2026-08-19T06:48:30.807Z",
+  "assignedPaths": [
+    "/xiaohongshu",
+    "/xiaohongshu/keywords",
+    "/xiaohongshu/viral-content-analysis",
+    "/xiaohongshu/account-analysis",
+    "/xiaohongshu/scraper",
+    "/xiaohongshu/comments",
+    "/xiaohongshu/downloader",
+    "/xiaohongshu/image-text",
+    "/xiaohongshu/transcript",
+    "/xiaohongshu/leads",
+    "/xiaohongshu/monitoring",
+    "/en/xiaohongshu",
+    "/en/xiaohongshu/keywords",
+    "/en/xiaohongshu/viral-content-analysis",
+    "/en/xiaohongshu/account-analysis",
+    "/en/xiaohongshu/scraper",
+    "/en/xiaohongshu/comments",
+    "/en/xiaohongshu/downloader",
+    "/en/xiaohongshu/image-text",
+    "/en/xiaohongshu/transcript",
+    "/en/xiaohongshu/leads",
+    "/en/xiaohongshu/monitoring"
+  ],
+  "routes": [
+    {
+      "url": "https://mediaclaw.app/xiaohongshu",
+      "path": "/xiaohongshu",
+      "requestedPath": "/xiaohongshu",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书数据采集与内容分析工具｜MediaClaw",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 5073
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/keywords",
+      "path": "/xiaohongshu/keywords",
+      "requestedPath": "/xiaohongshu/keywords",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/keywords",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书关键词挖掘分析工具：扩展搜索下拉词，抢占搜索流量 | MediaClaw 社媒虾",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/keywords"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2422
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/viral-content-analysis",
+      "path": "/xiaohongshu/viral-content-analysis",
+      "requestedPath": "/xiaohongshu/viral-content-analysis",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/viral-content-analysis",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书爆款分析｜找低粉爆文，拆解爆款笔记 | MediaClaw",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/viral-content-analysis"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2147
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/account-analysis",
+      "path": "/xiaohongshu/account-analysis",
+      "requestedPath": "/xiaohongshu/account-analysis",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/account-analysis",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书账号分析工具｜自动找对标账号、拆解选题与内容风格 | MediaClaw",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/account-analysis"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 1785
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/scraper",
+      "path": "/xiaohongshu/scraper",
+      "requestedPath": "/xiaohongshu/scraper",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/scraper",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书采集插件：账号、笔记内容与互动数据一键提取 | MediaClaw社媒虾",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/scraper"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3588
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/comments",
+      "path": "/xiaohongshu/comments",
+      "requestedPath": "/xiaohongshu/comments",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/comments",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书评论采集工具：批量抓取评论并导出 Excel | MediaClaw 社媒虾",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/comments"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3068
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/downloader",
+      "path": "/xiaohongshu/downloader",
+      "requestedPath": "/xiaohongshu/downloader",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/downloader",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书去水印 - 免费批量下载无水印视频、图片、Live图 | MediaClaw",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/downloader"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2743
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/image-text",
+      "path": "/xiaohongshu/image-text",
+      "requestedPath": "/xiaohongshu/image-text",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/image-text",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书图片文案提取工具｜图片转文字 OCR | MediaClaw 社媒虾",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/image-text"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2136
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/transcript",
+      "path": "/xiaohongshu/transcript",
+      "requestedPath": "/xiaohongshu/transcript",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/transcript",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书视频文案提取工具：视频转文本，口播逐字稿 | MediaClaw 社媒虾",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/transcript"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3871
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/leads",
+      "path": "/xiaohongshu/leads",
+      "requestedPath": "/xiaohongshu/leads",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/leads",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书评论区截流工具_从评论区挖掘高意向客户并导出Excel | MediaClaw",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/leads"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2527
+    },
+    {
+      "url": "https://mediaclaw.app/xiaohongshu/monitoring",
+      "path": "/xiaohongshu/monitoring",
+      "requestedPath": "/xiaohongshu/monitoring",
+      "finalUrl": "https://mediaclaw.app/xiaohongshu/monitoring",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "小红书对标账号监控工具_自动监控对标账号内容更新并推送飞书 | MediaClaw",
+      "lang": "zh",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/xiaohongshu/monitoring"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3109
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu",
+      "path": "/en/xiaohongshu",
+      "requestedPath": "/en/xiaohongshu",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "RedNote & Xiaohongshu Research Tools | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 1707
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/keywords",
+      "path": "/en/xiaohongshu/keywords",
+      "requestedPath": "/en/xiaohongshu/keywords",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/keywords",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Niche Strategy Tool - Opportunity & Keywords",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/keywords"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2757
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis",
+      "path": "/en/xiaohongshu/viral-content-analysis",
+      "requestedPath": "/en/xiaohongshu/viral-content-analysis",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Viral Post Analysis | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3613
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/account-analysis",
+      "path": "/en/xiaohongshu/account-analysis",
+      "requestedPath": "/en/xiaohongshu/account-analysis",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/account-analysis",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Account Analyzer｜Find Competitors and Content Patterns | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/account-analysis"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 4672
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/scraper",
+      "path": "/en/xiaohongshu/scraper",
+      "requestedPath": "/en/xiaohongshu/scraper",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/scraper",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "RedNote Scraper Chrome Extension – Export Posts & Profiles | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/scraper"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3398
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/comments",
+      "path": "/en/xiaohongshu/comments",
+      "requestedPath": "/en/xiaohongshu/comments",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/comments",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Free Rednote（Xiaohongshu） Comment scraper Chrome Extension | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/comments"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 5029
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/downloader",
+      "path": "/en/xiaohongshu/downloader",
+      "requestedPath": "/en/xiaohongshu/downloader",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/downloader",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Video & Image Downloader – No Watermark | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/downloader"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 3546
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/image-text",
+      "path": "/en/xiaohongshu/image-text",
+      "requestedPath": "/en/xiaohongshu/image-text",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/image-text",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Image Text Extraction - OCR Card to Text",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/image-text"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 4617
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/transcript",
+      "path": "/en/xiaohongshu/transcript",
+      "requestedPath": "/en/xiaohongshu/transcript",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/transcript",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Rednote（xiaohongshu） Video Transcript Extractor | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/transcript"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://www.clarity.ms/tag/xj860xja7v",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 5090
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/leads",
+      "path": "/en/xiaohongshu/leads",
+      "requestedPath": "/en/xiaohongshu/leads",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/leads",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Lead Scraper - Find High-Intent Comment Leads",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/leads"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2369
+    },
+    {
+      "url": "https://mediaclaw.app/en/xiaohongshu/monitoring",
+      "path": "/en/xiaohongshu/monitoring",
+      "requestedPath": "/en/xiaohongshu/monitoring",
+      "finalUrl": "https://mediaclaw.app/en/xiaohongshu/monitoring",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Xiaohongshu Monitoring - Auto-Track Alerts | MediaClaw",
+      "lang": "en",
+      "headings": [],
+      "landmarks": [],
+      "sections": [],
+      "faq": [],
+      "relatedLinks": [],
+      "internalLinks": [],
+      "internalLinkDetails": [],
+      "sharedNavigation": {
+        "header": [],
+        "nav": [],
+        "footer": []
+      },
+      "forms": [],
+      "domStructure": {
+        "bodyChildren": [],
+        "sectionOrder": [],
+        "signature": {
+          "landmarks": "",
+          "headings": "",
+          "sections": "",
+          "forms": "none"
+        }
+      },
+      "navigationRequests": [
+        {
+          "method": "GET",
+          "url": "https://mediaclaw.app/en/xiaohongshu/monitoring"
+        }
+      ],
+      "consoleMessages": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        }
+      ],
+      "errors": [
+        {
+          "type": "navigation",
+          "text": "page.evaluate: ReferenceError: uniqueBy is not defined at eval (eval at evaluate (:311:30), <anonymous>:86:22) at Array.map (<anonymous>) at eval (eval at evaluate (:311:30), <anonymous>:68:13) at UtilityScript.evaluate (<anonymous>:313:16) at UtilityScript.<anonymous> (<anonymous>:1:44)"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+          "location": {
+            "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+            "line": 0,
+            "column": 0,
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "failure": "net::ERR_CONNECTION_CLOSED"
+        }
+      ],
+      "durationMs": 2439
+    }
+  ],
+  "counts": {
+    "assigned": 22,
+    "captured": 22,
+    "uniquePaths": 22,
+    "status": {
+      "200": 22
+    },
+    "languages": {
+      "zh": 11,
+      "en": 11
+    },
+    "routesWithFaq": 0,
+    "routesWithRelatedLinks": 0,
+    "routesWithNavigationErrors": 22,
+    "blockedNonGetRequests": 0
+  },
+  "sharedNavigation": {
+    "header": {
+      "routesWithRegionLinks": 0,
+      "commonLinks": []
+    },
+    "nav": {
+      "routesWithRegionLinks": 0,
+      "commonLinks": []
+    },
+    "footer": {
+      "routesWithRegionLinks": 0,
+      "commonLinks": []
+    }
+  },
+  "observedLimitations": [
+    "Anonymous public-surface crawl only; authenticated, private, and server-internal routes were not examined.",
+    "Each assigned document route was navigated once with Playwright after domcontentloaded and a 750ms bounded settle.",
+    "Browser-initiated methods other than GET and HEAD were blocked; no controls were clicked and no forms were submitted.",
+    "Route-level console, browser, request-failure, or navigation errors are retained on the affected route records."
+  ],
+  "sourceEvidence": {
+    "liveTarget": "https://mediaclaw.app/",
+    "protocol": "agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-PROTOCOL.md",
+    "task": "agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-XHS.md",
+    "crawlMode": "Playwright headless, anonymous, same-origin document navigation",
+    "browserRequestPolicy": "GET/HEAD allowed; all other browser request methods aborted",
+    "tools": {
+      "node": "v22.16.0",
+      "playwright": "1.62.1"
+    },
+    "startedAt": "2026-08-19T06:47:18.658Z",
+    "assignedRouteOccurrences": {
+      "/xiaohongshu": 1,
+      "/xiaohongshu/keywords": 1,
+      "/xiaohongshu/viral-content-analysis": 1,
+      "/xiaohongshu/account-analysis": 1,
+      "/xiaohongshu/scraper": 1,
+      "/xiaohongshu/comments": 1,
+      "/xiaohongshu/downloader": 1,
+      "/xiaohongshu/image-text": 1,
+      "/xiaohongshu/transcript": 1,
+      "/xiaohongshu/leads": 1,
+      "/xiaohongshu/monitoring": 1,
+      "/en/xiaohongshu": 1,
+      "/en/xiaohongshu/keywords": 1,
+      "/en/xiaohongshu/viral-content-analysis": 1,
+      "/en/xiaohongshu/account-analysis": 1,
+      "/en/xiaohongshu/scraper": 1,
+      "/en/xiaohongshu/comments": 1,
+      "/en/xiaohongshu/downloader": 1,
+      "/en/xiaohongshu/image-text": 1,
+      "/en/xiaohongshu/transcript": 1,
+      "/en/xiaohongshu/leads": 1,
+      "/en/xiaohongshu/monitoring": 1
+    },
+    "blockedRequests": []
+  }
+}

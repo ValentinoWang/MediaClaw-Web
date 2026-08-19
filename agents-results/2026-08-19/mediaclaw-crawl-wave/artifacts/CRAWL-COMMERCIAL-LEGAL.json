@@ -1,0 +1,4914 @@
+{
+  "taskId": "CRAWL-COMMERCIAL-LEGAL",
+  "target": "https://mediaclaw.app/",
+  "generatedAt": "2026-08-19T06:13:40.967Z",
+  "routes": [
+    {
+      "url": "https://mediaclaw.app/download",
+      "path": "/download",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "下载 MediaClaw - 小红书抖音数据采集插件",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "下载安装 MediaClaw",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "下载并安装 MediaClaw",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "安装插件",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Chrome 应用商店",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Microsoft Edge 加载项商店",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "购买正式版激活码",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "跟随教程配置",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "核心功能 集成 资源 下载 定价",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "下载安装 MediaClaw",
+          "id": null
+        },
+        {
+          "tag": "aside",
+          "role": null,
+          "label": "3 步完成上手 1 安装插件 当前步骤 2 购买正式版激活码 后续步骤 3 跟随教程配置 后续步骤",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "3 步完成上手 1 安装插件 当前步骤 2 购买正式版激活码 后续步骤 3 跟随教程配置 后续步骤",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "小红书/抖音采集分析、选题创作一套搞定 小红书内容工作流 小红书关键词洞察 小红书爆款笔记分析 小红书对标账号分析 小红书笔记采集 小红书评论采集 小红书无水印下载 小红书图文文案提取 小红书视频逐字稿 小红书评论区截流 小红书账号监控 抖音内容工作流 抖音账号分析 抖音爆款视频分析 抖音关键词洞察 抖音视频采集 抖音评论采集 抖音无水印下载 抖音视频逐字...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "下载并安装 MediaClaw",
+          "id": "download",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "安装插件",
+          "id": "download-step-install",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "购买正式版激活码",
+          "id": "download-step-activate",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "跟随教程配置",
+          "id": "download-step-tutorial",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/download",
+        "/pricing",
+        "/pricing?source=onboarding&entry=download_page",
+        "/pricing?source=onboarding&entry=free_version",
+        "/xiaohongshu",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=footer",
+        "/updates",
+        "/referral",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2585,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/download",
+        "https://mediaclaw.app/pricing",
+        "https://mediaclaw.app/download#download-step-install",
+        "https://mediaclaw.app/download#download-step-activate",
+        "https://mediaclaw.app/download#download-step-tutorial",
+        "https://mediaclaw.app/pricing?source=onboarding&entry=download_page",
+        "https://mediaclaw.app/pricing?source=onboarding&entry=free_version",
+        "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+        "https://mediaclaw.app/xiaohongshu/downloader",
+        "https://mediaclaw.app/douyin/downloader",
+        "https://mediaclaw.app/welfare?entry=footer",
+        "https://mediaclaw.app/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "下载",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "定价",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "安装插件 当前步骤",
+          "href": "https://mediaclaw.app/download#download-step-install",
+          "rawHref": "#download-step-install",
+          "internalPath": "/download"
+        },
+        {
+          "text": "购买正式版激活码 后续步骤",
+          "href": "https://mediaclaw.app/download#download-step-activate",
+          "rawHref": "#download-step-activate",
+          "internalPath": "/download"
+        },
+        {
+          "text": "跟随教程配置 后续步骤",
+          "href": "https://mediaclaw.app/download#download-step-tutorial",
+          "rawHref": "#download-step-tutorial",
+          "internalPath": "/download"
+        },
+        {
+          "text": "购买正式版激活码",
+          "href": "https://mediaclaw.app/pricing?source=onboarding&entry=download_page",
+          "rawHref": "/pricing?source=onboarding&entry=download_page",
+          "internalPath": "/pricing?source=onboarding&entry=download_page"
+        },
+        {
+          "text": "免费版",
+          "href": "https://mediaclaw.app/pricing?source=onboarding&entry=free_version",
+          "rawHref": "/pricing?source=onboarding&entry=free_version",
+          "internalPath": "/pricing?source=onboarding&entry=free_version"
+        },
+        {
+          "text": "看教程",
+          "href": "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+          "rawHref": "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+          "internalPath": null
+        },
+        {
+          "text": "小红书无水印下载",
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "rawHref": "/xiaohongshu/downloader",
+          "internalPath": "/xiaohongshu/downloader"
+        },
+        {
+          "text": "抖音无水印下载",
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "rawHref": "/douyin/downloader",
+          "internalPath": "/douyin/downloader"
+        },
+        {
+          "text": "下载插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "价格方案",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "福利中心",
+          "href": "https://mediaclaw.app/welfare?entry=footer",
+          "rawHref": "/welfare?entry=footer",
+          "internalPath": "/welfare?entry=footer"
+        },
+        {
+          "text": "伙伴计划",
+          "href": "https://mediaclaw.app/referral",
+          "rawHref": "/referral",
+          "internalPath": "/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "核心功能",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "集成",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "资源",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "商店安装 (推荐) 自动更新，推荐优先选择",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "离线安装 (安装包) 商店无法访问时，下载 CRX 安装包 备用方式",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "中文",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://chromewebstore.google.com/detail/mediaclaw/ihclbgfnkclacfkbedkdnbpmkcdaccje?authuser=0&hl=zh-CN",
+        "https://microsoftedge.microsoft.com/addons/detail/mediaclaw-%E7%A4%BE%E5%AA%92%E8%99%BE%EF%BD%9C%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%8A%96%E9%9F%B3ai%E8%BF%90%E8%90%A5%E5%B7%A5/moalagonhjmhmoiaehciejkkingpajpl",
+        "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language 下载安装 MediaClaw 下载并安装 MediaClaw MediaClaw 是你进行社媒数据运营的得力助手。我们提供官方商店安装和离线安装两种方式，建议优先选择商店安装以获得自动更新和更好的安全性。 新用户上手路径 先完成插件安装，需要完整功能时购买正式版激活码，再按教程完成首次采集。 3 步完成上手 1 安装插件 当前步骤 2 购买正式版激活码 后续步骤 ...",
+          "category": "commerce"
+        },
+        {
+          "text": "购买正式版激活码 后续步骤",
+          "category": "commerce"
+        },
+        {
+          "text": "购买正式版激活码",
+          "category": "commerce"
+        },
+        {
+          "text": "小红书对标账号分析",
+          "category": "account"
+        },
+        {
+          "text": "小红书账号监控",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号分析",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号监控",
+          "category": "account"
+        },
+        {
+          "text": "价格方案",
+          "category": "commerce"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/download",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/download",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 966,
+        "linkCount": 44,
+        "buttonCount": 8,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/download",
+      "path": "/en/download",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Download MediaClaw - Xiaohongshu & Douyin Scraper Plugin",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Download MediaClaw",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Download and Install MediaClaw",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Install extension",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Chrome Web Store",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Microsoft Edge Add-ons",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Buy an activation code",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Follow setup tutorial",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "Core Features Integrations Resources Download Pricing",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "Download MediaClaw",
+          "id": null
+        },
+        {
+          "tag": "aside",
+          "role": null,
+          "label": "Get started in 3 steps 1 Install extension Current step 2 Buy an activation code Next step 3 Follow setup tutorial Next step",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "Get started in 3 steps 1 Install extension Current step 2 Buy an activation code Next step 3 Follow setup tutorial Next step",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "Xiaohongshu and Douyin research, analysis, and content ideation—all in one. RedNote Workflow Keyword Insights Viral Content Analysis Account Analysis Post Scraper Comment Scraper ...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Download and Install MediaClaw",
+          "id": "download",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Install extension",
+          "id": "download-step-install",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Buy an activation code",
+          "id": "download-step-activate",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Follow setup tutorial",
+          "id": "download-step-tutorial",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/download",
+        "/en/pricing",
+        "/en/pricing?source=onboarding&entry=download_page",
+        "/en/pricing?source=onboarding&entry=free_version",
+        "/en/xiaohongshu",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=footer",
+        "/en/updates",
+        "/en/referral",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2284,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/download",
+        "https://mediaclaw.app/en/pricing",
+        "https://mediaclaw.app/en/download#download-step-install",
+        "https://mediaclaw.app/en/download#download-step-activate",
+        "https://mediaclaw.app/en/download#download-step-tutorial",
+        "https://mediaclaw.app/en/pricing?source=onboarding&entry=download_page",
+        "https://mediaclaw.app/en/pricing?source=onboarding&entry=free_version",
+        "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+        "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "https://mediaclaw.app/en/douyin/downloader",
+        "https://mediaclaw.app/en/welfare?entry=footer",
+        "https://mediaclaw.app/en/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "Download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Install extension Current step",
+          "href": "https://mediaclaw.app/en/download#download-step-install",
+          "rawHref": "#download-step-install",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Buy an activation code Next step",
+          "href": "https://mediaclaw.app/en/download#download-step-activate",
+          "rawHref": "#download-step-activate",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Follow setup tutorial Next step",
+          "href": "https://mediaclaw.app/en/download#download-step-tutorial",
+          "rawHref": "#download-step-tutorial",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Buy activation code",
+          "href": "https://mediaclaw.app/en/pricing?source=onboarding&entry=download_page",
+          "rawHref": "/en/pricing?source=onboarding&entry=download_page",
+          "internalPath": "/en/pricing?source=onboarding&entry=download_page"
+        },
+        {
+          "text": "free version permanently",
+          "href": "https://mediaclaw.app/en/pricing?source=onboarding&entry=free_version",
+          "rawHref": "/en/pricing?source=onboarding&entry=free_version",
+          "internalPath": "/en/pricing?source=onboarding&entry=free_version"
+        },
+        {
+          "text": "View tutorial",
+          "href": "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+          "rawHref": "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+          "internalPath": null
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "rawHref": "/en/xiaohongshu/downloader",
+          "internalPath": "/en/xiaohongshu/downloader"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "rawHref": "/en/douyin/downloader",
+          "internalPath": "/en/douyin/downloader"
+        },
+        {
+          "text": "Download Extension",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Rewards",
+          "href": "https://mediaclaw.app/en/welfare?entry=footer",
+          "rawHref": "/en/welfare?entry=footer",
+          "internalPath": "/en/welfare?entry=footer"
+        },
+        {
+          "text": "Partner Program",
+          "href": "https://mediaclaw.app/en/referral",
+          "rawHref": "/en/referral",
+          "internalPath": "/en/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "Core Features",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Integrations",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Resources",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Store Installation (Recommended) Automatic updates—the recommended option",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Offline Installation (CRX/ZIP) Download the CRX package when stores are unavailable Alternative",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "English",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://chromewebstore.google.com/detail/mediaclaw/ihclbgfnkclacfkbedkdnbpmkcdaccje?authuser=0&hl=en-GB",
+        "https://microsoftedge.microsoft.com/addons/detail/mediaclaw-%E7%A4%BE%E5%AA%92%E8%99%BE%EF%BD%9C%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%8A%96%E9%9F%B3ai%E8%BF%90%E8%90%A5%E5%B7%A5/moalagonhjmhmoiaehciejkkingpajpl",
+        "https://my.feishu.cn/wiki/ZIGqwGtF8i2Dkbk6S1HcZdZWnMd",
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language Download MediaClaw Download and Install MediaClaw MediaClaw is your powerful assistant for social media data operations. Install the extension fir...",
+          "category": "commerce"
+        },
+        {
+          "text": "Offline Installation (CRX/ZIP) Download the CRX package when stores are unavailable Alternative",
+          "category": "availability"
+        },
+        {
+          "text": "Pricing",
+          "category": "commerce"
+        },
+        {
+          "text": "Account Analysis",
+          "category": "account"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": true
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/download",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/download",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 2252,
+        "linkCount": 44,
+        "buttonCount": 8,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/pricing",
+      "path": "/pricing",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "MediaClaw 价格方案 — 一次买断不自动续费，小红书抖音采集与 AI 运营提效",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "简单透明的价格方案",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "免费版",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "个人版",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "团队版",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "功能对比",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "常见问题",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "会自动扣费吗？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "MediaClaw 和其他采集插件有什么区别？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "积分是什么？会过期吗？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "积分不够用怎么办？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "免费版能用多久？",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "先免费装上，跑一次再决定",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "核心功能 集成 资源 下载 定价",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "简单透明的价格方案",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "小红书/抖音采集分析、选题创作一套搞定 小红书内容工作流 小红书关键词洞察 小红书爆款笔记分析 小红书对标账号分析 小红书笔记采集 小红书评论采集 小红书无水印下载 小红书图文文案提取 小红书视频逐字稿 小红书评论区截流 小红书账号监控 抖音内容工作流 抖音账号分析 抖音爆款视频分析 抖音关键词洞察 抖音视频采集 抖音评论采集 抖音无水印下载 抖音视频逐字...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "简单透明的价格方案",
+          "id": "pricing-hero",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "免费版",
+          "id": "pricing",
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "免费版",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "个人版",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "团队版",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "功能对比",
+          "id": "comparison",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "常见问题",
+          "id": "faq",
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "会自动扣费吗？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "MediaClaw 和其他采集插件有什么区别？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "积分是什么？会过期吗？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "积分不够用怎么办？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "免费版能用多久？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "先免费装上，跑一次再决定",
+          "id": "cta",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/download",
+        "/pricing",
+        "/xiaohongshu",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=footer",
+        "/updates",
+        "/referral",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 1944,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/download",
+        "https://mediaclaw.app/pricing",
+        "https://mediaclaw.app/xiaohongshu/downloader",
+        "https://mediaclaw.app/douyin/downloader",
+        "https://mediaclaw.app/welfare?entry=footer",
+        "https://mediaclaw.app/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "下载",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "定价",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "免费安装插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "我要使用",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "小红书无水印下载",
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "rawHref": "/xiaohongshu/downloader",
+          "internalPath": "/xiaohongshu/downloader"
+        },
+        {
+          "text": "抖音无水印下载",
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "rawHref": "/douyin/downloader",
+          "internalPath": "/douyin/downloader"
+        },
+        {
+          "text": "下载插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "价格方案",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "福利中心",
+          "href": "https://mediaclaw.app/welfare?entry=footer",
+          "rawHref": "/welfare?entry=footer",
+          "internalPath": "/welfare?entry=footer"
+        },
+        {
+          "text": "伙伴计划",
+          "href": "https://mediaclaw.app/referral",
+          "rawHref": "/referral",
+          "internalPath": "/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "核心功能",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "集成",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "资源",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "月付",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "季付",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "年付 省 60%",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "积分包",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "选择购买",
+          "type": "button",
+          "disabled": true,
+          "isCta": true
+        },
+        {
+          "text": "选择购买",
+          "type": "button",
+          "disabled": true,
+          "isCta": true
+        },
+        {
+          "text": "会自动扣费吗？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "MediaClaw 和其他采集插件有什么区别？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "积分是什么？会过期吗？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "积分不够用怎么办？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "免费版能用多久？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "效果演示",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "中文",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language 简单透明的价格方案 一次买断使用期，不自动续费，随用随买 从采集分析，到选题创作的一站式内容工作流 月付 季付 年付 省 60% 积分包 免费版 适合个人用户，低频使用 ¥0 免费安装插件 单篇笔记/视频深度采集，适合逐条保存高价值内容 单篇评论、评论区截流 搜索页、账号页基础列表采集 本地数据池保存，支持 CSV、Markdown 导出 无水印图片、视频、音频下...",
+          "category": "account"
+        },
+        {
+          "text": "选择购买",
+          "category": "commerce"
+        },
+        {
+          "text": "效果演示",
+          "category": "preview"
+        },
+        {
+          "text": "小红书对标账号分析",
+          "category": "account"
+        },
+        {
+          "text": "小红书账号监控",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号分析",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号监控",
+          "category": "account"
+        },
+        {
+          "text": "价格方案",
+          "category": "commerce"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": true,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/pricing",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/pricing",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 2862,
+        "linkCount": 38,
+        "buttonCount": 18,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/pricing",
+      "path": "/en/pricing",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "MediaClaw Pricing - One-Time Purchase, No Auto-Renewal",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Simple, Transparent Pricing",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Free",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Personal",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Team",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Compare All Features",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Frequently Asked Questions",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Will I be charged automatically?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "How is MediaClaw different from other scraping extensions?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "What are credits? Do they expire?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "What if I run out of credits?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "How long does the Free plan last?",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Install It Free, Run It Once, Then Decide",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "Core Features Integrations Resources Download Pricing",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "Simple, Transparent Pricing",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "Xiaohongshu and Douyin research, analysis, and content ideation—all in one. RedNote Workflow Keyword Insights Viral Content Analysis Account Analysis Post Scraper Comment Scraper ...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Simple, Transparent Pricing",
+          "id": "pricing-hero",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Free",
+          "id": "pricing",
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Free",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Personal",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Team",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Compare All Features",
+          "id": "comparison",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Frequently Asked Questions",
+          "id": "faq",
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Will I be charged automatically?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "How is MediaClaw different from other scraping extensions?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "What are credits? Do they expire?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "What if I run out of credits?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "How long does the Free plan last?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Install It Free, Run It Once, Then Decide",
+          "id": "cta",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/download",
+        "/en/pricing",
+        "/en/xiaohongshu",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=footer",
+        "/en/updates",
+        "/en/referral",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2691,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/download",
+        "https://mediaclaw.app/en/pricing",
+        "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "https://mediaclaw.app/en/douyin/downloader",
+        "https://mediaclaw.app/en/welfare?entry=footer",
+        "https://mediaclaw.app/en/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "Download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Install Free Extension",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Start Using",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "rawHref": "/en/xiaohongshu/downloader",
+          "internalPath": "/en/xiaohongshu/downloader"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "rawHref": "/en/douyin/downloader",
+          "internalPath": "/en/douyin/downloader"
+        },
+        {
+          "text": "Download Extension",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Rewards",
+          "href": "https://mediaclaw.app/en/welfare?entry=footer",
+          "rawHref": "/en/welfare?entry=footer",
+          "internalPath": "/en/welfare?entry=footer"
+        },
+        {
+          "text": "Partner Program",
+          "href": "https://mediaclaw.app/en/referral",
+          "rawHref": "/en/referral",
+          "internalPath": "/en/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "Core Features",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Integrations",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Resources",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Monthly",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Quarterly",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Yearly Save 60%",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Credit Packs",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Buy Now",
+          "type": "button",
+          "disabled": true,
+          "isCta": true
+        },
+        {
+          "text": "Buy Now",
+          "type": "button",
+          "disabled": true,
+          "isCta": true
+        },
+        {
+          "text": "Will I be charged automatically?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "How is MediaClaw different from other scraping extensions?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "What are credits? Do they expire?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "What if I run out of credits?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "How long does the Free plan last?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Watch Demo",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "English",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language Simple, Transparent Pricing One-time purchase per period. No auto-renewal. Pay as you go. An all-in-one content workflow from collection and analy...",
+          "category": "commerce"
+        },
+        {
+          "text": "Credit Packs",
+          "category": "commerce"
+        },
+        {
+          "text": "What are credits? Do they expire?",
+          "category": "commerce"
+        },
+        {
+          "text": "What if I run out of credits?",
+          "category": "commerce"
+        },
+        {
+          "text": "How long does the Free plan last?",
+          "category": "commerce"
+        },
+        {
+          "text": "Watch Demo",
+          "category": "preview"
+        },
+        {
+          "text": "Pricing",
+          "category": "commerce"
+        },
+        {
+          "text": "Account Analysis",
+          "category": "account"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": true,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/pricing",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/pricing",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 8477,
+        "linkCount": 38,
+        "buttonCount": 18,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/features/feishu-integration",
+      "path": "/features/feishu-integration",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "飞书多维表格集成 - 社媒数据自动同步 | MediaClaw",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "MediaClaw × 飞书多维表格：你的团队数据中台",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "飞书协作能力一屏看懂",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "采集结果一键同步飞书",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "多表分层适配不同业务",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "监控日报自动推送飞书",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "哪些团队在用飞书集成？",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "常见问题",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "飞书同步是自动还是手动触发？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "监控日报如何推送到飞书？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "团队成员可以共用同一份飞书表吗？",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "没有技术背景也能完成接入吗？",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "继续探索相关能力",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "小红书笔记采集",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "小红书评论区截流",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "小红书关键词洞察",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "小红书对标账号监控",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "小红书去水印下载",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "抖音视频采集",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "抖音评论区截流",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "抖音关键词洞察",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "抖音对标账号监控",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "把采集数据变成团队可执行情报",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "核心功能 集成 资源 下载 定价",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "MediaClaw × 飞书多维表格：你的团队数据中台",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "breadcrumb",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "小红书/抖音采集分析、选题创作一套搞定 小红书内容工作流 小红书关键词洞察 小红书爆款笔记分析 小红书对标账号分析 小红书笔记采集 小红书评论采集 小红书无水印下载 小红书图文文案提取 小红书视频逐字稿 小红书评论区截流 小红书账号监控 抖音内容工作流 抖音账号分析 抖音爆款视频分析 抖音关键词洞察 抖音视频采集 抖音评论采集 抖音无水印下载 抖音视频逐字...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "MediaClaw × 飞书多维表格：你的团队数据中台",
+          "id": "hero",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "飞书协作能力一屏看懂",
+          "id": "matrix",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "哪些团队在用飞书集成？",
+          "id": "scenarios",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "常见问题",
+          "id": "faq",
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "飞书同步是自动还是手动触发？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "监控日报如何推送到飞书？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "团队成员可以共用同一份飞书表吗？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "没有技术背景也能完成接入吗？",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "继续探索相关能力",
+          "id": "related",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "把采集数据变成团队可执行情报",
+          "id": "cta",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/download",
+        "/pricing",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/monitoring",
+        "/xiaohongshu/downloader",
+        "/douyin/scraper",
+        "/douyin/leads",
+        "/douyin/keywords",
+        "/douyin/monitoring",
+        "/xiaohongshu",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/douyin",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=footer",
+        "/updates",
+        "/referral",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2717,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/download",
+        "https://mediaclaw.app/pricing",
+        "https://mediaclaw.app/xiaohongshu/downloader",
+        "https://mediaclaw.app/douyin/downloader",
+        "https://mediaclaw.app/welfare?entry=footer",
+        "https://mediaclaw.app/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "下载",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "定价",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "我要使用",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "免费下载使用",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "免费下载使用",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "免费下载使用",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "小红书去水印下载 下载素材资产用于视觉参考库沉淀。",
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "rawHref": "/xiaohongshu/downloader",
+          "internalPath": "/xiaohongshu/downloader"
+        },
+        {
+          "text": "免费安装插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "小红书无水印下载",
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "rawHref": "/xiaohongshu/downloader",
+          "internalPath": "/xiaohongshu/downloader"
+        },
+        {
+          "text": "抖音无水印下载",
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "rawHref": "/douyin/downloader",
+          "internalPath": "/douyin/downloader"
+        },
+        {
+          "text": "下载插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "价格方案",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "福利中心",
+          "href": "https://mediaclaw.app/welfare?entry=footer",
+          "rawHref": "/welfare?entry=footer",
+          "internalPath": "/welfare?entry=footer"
+        },
+        {
+          "text": "伙伴计划",
+          "href": "https://mediaclaw.app/referral",
+          "rawHref": "/referral",
+          "internalPath": "/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "核心功能",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "集成",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "资源",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "效果演示",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "MediaClaw × 飞书多维表格：你的团队数据中台",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "飞书同步是自动还是手动触发？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "监控日报如何推送到飞书？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "团队成员可以共用同一份飞书表吗？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "没有技术背景也能完成接入吗？",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "中文",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/base/H9fAb5QYtagaLDsjgdPcaliGnyf?from=from_copylink",
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language 首页 集成能力 飞书多维表格集成 飞书多维表格集成 MediaClaw × 飞书多维表格：你的团队数据中台 把采集内容、评论客资与监控提醒自动同步到飞书多维表格，形成全员可检索、可筛选、可协作的增长资产，告别手工复制粘贴。 我要使用 效果演示 获取飞书模板 飞书协作能力一屏看懂 从采集到协作分析，数据如何流入飞书，一目了然。 采集结果一键同步飞书 完成小红书或抖音...",
+          "category": "preview"
+        },
+        {
+          "text": "效果演示",
+          "category": "preview"
+        },
+        {
+          "text": "小红书对标账号监控 自动追踪账号动态并每日推送飞书报告。",
+          "category": "account"
+        },
+        {
+          "text": "抖音视频采集 按关键词、账号或搜索结果采集抖音内容。",
+          "category": "account"
+        },
+        {
+          "text": "抖音对标账号监控 订阅竞品账号更新并在飞书接收提醒。",
+          "category": "account"
+        },
+        {
+          "text": "小红书对标账号分析",
+          "category": "account"
+        },
+        {
+          "text": "小红书账号监控",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号分析",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号监控",
+          "category": "account"
+        },
+        {
+          "text": "价格方案",
+          "category": "commerce"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": true,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/features/feishu-integration",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/features/feishu-integration",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 1379,
+        "linkCount": 53,
+        "buttonCount": 12,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/features/feishu-integration",
+      "path": "/en/features/feishu-integration",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Lark Base Integration - Sync Social Data | MediaClaw",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "MediaClaw × Lark Base",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Lark Base Capabilities at a Glance",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "One-Click Sync to Lark Base",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Multi-Table Schema for Every Workflow",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Monitoring Reports Auto-Pushed to Lark",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Who Uses Lark Base Integration?",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Frequently Asked Questions",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Is the sync automatic or manually triggered?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "How do monitoring reports reach Lark?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Can multiple team members sync to the same Lark Base?",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Do I need technical skills to set up the integration?",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Explore Related Tools",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu Post Scraper",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu Lead Scraper",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu Keyword Research",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu Competitor Monitoring",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu Downloader",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Douyin Video Scraper",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Douyin Lead Scraper",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Douyin Keyword Research",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Douyin Competitor Monitoring",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Turn Scraped Data into Team Intelligence",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "Core Features Integrations Resources Download Pricing",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "MediaClaw × Lark Base",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "breadcrumb",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "Xiaohongshu and Douyin research, analysis, and content ideation—all in one. RedNote Workflow Keyword Insights Viral Content Analysis Account Analysis Post Scraper Comment Scraper ...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "MediaClaw × Lark Base",
+          "id": "hero",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Lark Base Capabilities at a Glance",
+          "id": "matrix",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Who Uses Lark Base Integration?",
+          "id": "scenarios",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Frequently Asked Questions",
+          "id": "faq",
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Is the sync automatic or manually triggered?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "How do monitoring reports reach Lark?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Can multiple team members sync to the same Lark Base?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "Do I need technical skills to set up the integration?",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Explore Related Tools",
+          "id": "related",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Turn Scraped Data into Team Intelligence",
+          "id": "cta",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/download",
+        "/en/pricing",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/monitoring",
+        "/en/xiaohongshu/downloader",
+        "/en/douyin/scraper",
+        "/en/douyin/leads",
+        "/en/douyin/keywords",
+        "/en/douyin/monitoring",
+        "/en/xiaohongshu",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/douyin",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=footer",
+        "/en/updates",
+        "/en/referral",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2399,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/download",
+        "https://mediaclaw.app/en/pricing",
+        "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "https://mediaclaw.app/en/douyin/monitoring",
+        "https://mediaclaw.app/en/douyin/downloader",
+        "https://mediaclaw.app/en/welfare?entry=footer",
+        "https://mediaclaw.app/en/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "Download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Get Started",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Free download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Free download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Free download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Xiaohongshu Downloader Download media assets for visual reference libraries.",
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "rawHref": "/en/xiaohongshu/downloader",
+          "internalPath": "/en/xiaohongshu/downloader"
+        },
+        {
+          "text": "Douyin Competitor Monitoring Subscribe to competitor updates with Lark alert delivery.",
+          "href": "https://mediaclaw.app/en/douyin/monitoring",
+          "rawHref": "/en/douyin/monitoring",
+          "internalPath": "/en/douyin/monitoring"
+        },
+        {
+          "text": "Get Started Free",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "rawHref": "/en/xiaohongshu/downloader",
+          "internalPath": "/en/xiaohongshu/downloader"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "rawHref": "/en/douyin/downloader",
+          "internalPath": "/en/douyin/downloader"
+        },
+        {
+          "text": "Download Extension",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Rewards",
+          "href": "https://mediaclaw.app/en/welfare?entry=footer",
+          "rawHref": "/en/welfare?entry=footer",
+          "internalPath": "/en/welfare?entry=footer"
+        },
+        {
+          "text": "Partner Program",
+          "href": "https://mediaclaw.app/en/referral",
+          "rawHref": "/en/referral",
+          "internalPath": "/en/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "Core Features",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Integrations",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Resources",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Watch Demo",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "MediaClaw × Lark Base",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Is the sync automatic or manually triggered?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "How do monitoring reports reach Lark?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Can multiple team members sync to the same Lark Base?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Do I need technical skills to set up the integration?",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "English",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/base/H9fAb5QYtagaLDsjgdPcaliGnyf?from=from_copylink",
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language Home Integrations Lark Base Integration Lark Base Integration MediaClaw × Lark Base Auto-sync scraped content, comment leads, and monitoring alert...",
+          "category": "commerce"
+        },
+        {
+          "text": "Watch Demo",
+          "category": "preview"
+        },
+        {
+          "text": "Pricing",
+          "category": "commerce"
+        },
+        {
+          "text": "Xiaohongshu Keyword Research Expand keywords and sync clusters to Lark for topic planning.",
+          "category": "commerce"
+        },
+        {
+          "text": "Xiaohongshu Competitor Monitoring Auto-track accounts with daily reports pushed to Lark.",
+          "category": "account"
+        },
+        {
+          "text": "Douyin Video Scraper Scrape Douyin videos by keyword, account, or search result.",
+          "category": "account"
+        },
+        {
+          "text": "Douyin Competitor Monitoring Subscribe to competitor updates with Lark alert delivery.",
+          "category": "commerce"
+        },
+        {
+          "text": "Account Analysis",
+          "category": "account"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": true,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/features/feishu-integration",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/features/feishu-integration",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 3843,
+        "linkCount": 53,
+        "buttonCount": 12,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/welfare",
+      "path": "/welfare",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "全能卡 - MediaClaw 福利中心",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "9 元全能卡",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "从采集下载，到分析创作，再到持续增长",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "无限量采集/下载",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "采集只是第一步，把数据变成选题和成稿",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "不用每天刷账号，也能及时发现爆款和线索",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "全能卡之外，还能再多拿一点",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "渠道问卷",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "使用体验反馈",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "佣金推荐",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "核心功能 集成 资源 下载 定价",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "9 元全能卡",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "小红书/抖音采集分析、选题创作一套搞定 小红书内容工作流 小红书关键词洞察 小红书爆款笔记分析 小红书对标账号分析 小红书笔记采集 小红书评论采集 小红书无水印下载 小红书图文文案提取 小红书视频逐字稿 小红书评论区截流 小红书账号监控 抖音内容工作流 抖音账号分析 抖音爆款视频分析 抖音关键词洞察 抖音视频采集 抖音评论采集 抖音无水印下载 抖音视频逐字...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "9 元全能卡",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "无限量采集/下载",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "采集只是第一步，把数据变成选题和成稿",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "不用每天刷账号，也能及时发现爆款和线索",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "全能卡之外，还能再多拿一点",
+          "id": null,
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/download",
+        "/pricing",
+        "/referral",
+        "/xiaohongshu",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=footer",
+        "/updates",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2988,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/download",
+        "https://mediaclaw.app/pricing",
+        "https://mediaclaw.app/referral",
+        "https://mediaclaw.app/xiaohongshu/downloader",
+        "https://mediaclaw.app/douyin/downloader",
+        "https://mediaclaw.app/welfare?entry=footer"
+      ],
+      "ctaLinks": [
+        {
+          "text": "下载",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "定价",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "了解伙伴计划",
+          "href": "https://mediaclaw.app/referral",
+          "rawHref": "/referral",
+          "internalPath": "/referral"
+        },
+        {
+          "text": "小红书无水印下载",
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "rawHref": "/xiaohongshu/downloader",
+          "internalPath": "/xiaohongshu/downloader"
+        },
+        {
+          "text": "抖音无水印下载",
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "rawHref": "/douyin/downloader",
+          "internalPath": "/douyin/downloader"
+        },
+        {
+          "text": "下载插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "价格方案",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "福利中心",
+          "href": "https://mediaclaw.app/welfare?entry=footer",
+          "rawHref": "/welfare?entry=footer",
+          "internalPath": "/welfare?entry=footer"
+        },
+        {
+          "text": "伙伴计划",
+          "href": "https://mediaclaw.app/referral",
+          "rawHref": "/referral",
+          "internalPath": "/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "核心功能",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "集成",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "资源",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "中文",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/base/H9fAb5QYtagaLDsjgdPcaliGnyf?from=from_copylink",
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language 同一账号限购 1 次 9 元全能卡 5 天会员 + 50 积分 如果觉得好用，有效期内升级订阅，已付 9 元全额抵扣 MediaClaw 全能卡 ALL-IN-ONE PASS 5 天会员 · 50 积分 ¥9 加载中… 一次性购买，到期结束，不自动续费 5 天内全能卡可以体验到 从采集下载，到分析创作，再到持续增长 先满足眼前最需要的采集和下载，再把拿到的数据变...",
+          "category": "account"
+        },
+        {
+          "text": "小红书对标账号分析",
+          "category": "account"
+        },
+        {
+          "text": "小红书账号监控",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号分析",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号监控",
+          "category": "account"
+        },
+        {
+          "text": "价格方案",
+          "category": "commerce"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/welfare",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/welfare",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 1438,
+        "linkCount": 38,
+        "buttonCount": 10,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/welfare",
+      "path": "/en/welfare",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "全能卡 - MediaClaw 福利中心",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "9 元全能卡",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "从采集下载，到分析创作，再到持续增长",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "无限量采集/下载",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "采集只是第一步，把数据变成选题和成稿",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "不用每天刷账号，也能及时发现爆款和线索",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "全能卡之外，还能再多拿一点",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "渠道问卷",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "使用体验反馈",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "佣金推荐",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "Core Features Integrations Resources Download Pricing",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "9 元全能卡",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "Xiaohongshu and Douyin research, analysis, and content ideation—all in one. RedNote Workflow Keyword Insights Viral Content Analysis Account Analysis Post Scraper Comment Scraper ...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "9 元全能卡",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "无限量采集/下载",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "采集只是第一步，把数据变成选题和成稿",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "article",
+          "heading": "不用每天刷账号，也能及时发现爆款和线索",
+          "id": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "全能卡之外，还能再多拿一点",
+          "id": null,
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/download",
+        "/en/pricing",
+        "/en/referral",
+        "/en/xiaohongshu",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=footer",
+        "/en/updates",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2435,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/download",
+        "https://mediaclaw.app/en/pricing",
+        "https://mediaclaw.app/en/referral",
+        "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "https://mediaclaw.app/en/douyin/downloader",
+        "https://mediaclaw.app/en/welfare?entry=footer"
+      ],
+      "ctaLinks": [
+        {
+          "text": "Download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "了解伙伴计划",
+          "href": "https://mediaclaw.app/en/referral",
+          "rawHref": "/en/referral",
+          "internalPath": "/en/referral"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "rawHref": "/en/xiaohongshu/downloader",
+          "internalPath": "/en/xiaohongshu/downloader"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "rawHref": "/en/douyin/downloader",
+          "internalPath": "/en/douyin/downloader"
+        },
+        {
+          "text": "Download Extension",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Rewards",
+          "href": "https://mediaclaw.app/en/welfare?entry=footer",
+          "rawHref": "/en/welfare?entry=footer",
+          "internalPath": "/en/welfare?entry=footer"
+        },
+        {
+          "text": "Partner Program",
+          "href": "https://mediaclaw.app/en/referral",
+          "rawHref": "/en/referral",
+          "internalPath": "/en/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "Core Features",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Integrations",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Resources",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "加载中…",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "English",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/base/H9fAb5QYtagaLDsjgdPcaliGnyf?from=from_copylink",
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language 同一账号限购 1 次 9 元全能卡 5 天会员 + 50 积分 如果觉得好用，有效期内升级订阅，已付 9 元全额抵扣 MediaClaw 全能卡 ALL-IN-ONE PASS 5 天会员 · 50 积分 ¥9 加载中… 一次性购买，到期结束，不自动续费 5 天内全能卡可以体验到 从采集下载...",
+          "category": "account"
+        },
+        {
+          "text": "Pricing",
+          "category": "commerce"
+        },
+        {
+          "text": "Account Analysis",
+          "category": "account"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/welfare",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/welfare",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 1869,
+        "linkCount": 38,
+        "buttonCount": 10,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/referral",
+      "path": "/referral",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "加入 MediaClaw 伙伴计划 — 赚取 20% 推广返佣",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "加入 MediaClaw 伙伴计划",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "邀请机制说明",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "1. 获取专属链接",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "2. 社交媒体推广",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "3. 坐享现金分成",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "准备好开始了吗？",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw 核心功能 集成 资源 下载 定价 Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "核心功能 集成 资源 下载 定价",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "加入 MediaClaw 伙伴计划",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "小红书/抖音采集分析、选题创作一套搞定 小红书内容工作流 小红书关键词洞察 小红书爆款笔记分析 小红书对标账号分析 小红书笔记采集 小红书评论采集 小红书无水印下载 小红书图文文案提取 小红书视频逐字稿 小红书评论区截流 小红书账号监控 抖音内容工作流 抖音账号分析 抖音爆款视频分析 抖音关键词洞察 抖音视频采集 抖音评论采集 抖音无水印下载 抖音视频逐字...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "加入 MediaClaw 伙伴计划",
+          "id": "hero",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "邀请机制说明",
+          "id": "mechanism",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "准备好开始了吗？",
+          "id": "cta",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/download",
+        "/pricing",
+        "/settings/referral",
+        "/xiaohongshu",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/viral-content-analysis",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/douyin",
+        "/douyin/account-analysis",
+        "/douyin/viral-content-analysis",
+        "/douyin/keywords",
+        "/douyin/scraper",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/transcript",
+        "/douyin/image-text",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/features/feishu-integration",
+        "/blog",
+        "/welfare?entry=footer",
+        "/updates",
+        "/referral",
+        "/privacy-policy",
+        "/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 11431,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/download",
+        "https://mediaclaw.app/pricing",
+        "https://mediaclaw.app/settings/referral",
+        "https://mediaclaw.app/xiaohongshu/downloader",
+        "https://mediaclaw.app/douyin/downloader",
+        "https://mediaclaw.app/welfare?entry=footer",
+        "https://mediaclaw.app/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "下载",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "定价",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "立即参与并分享",
+          "href": "https://mediaclaw.app/settings/referral",
+          "rawHref": "/settings/referral",
+          "internalPath": "/settings/referral"
+        },
+        {
+          "text": "我要参与",
+          "href": "https://mediaclaw.app/settings/referral",
+          "rawHref": "/settings/referral",
+          "internalPath": "/settings/referral"
+        },
+        {
+          "text": "小红书无水印下载",
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "rawHref": "/xiaohongshu/downloader",
+          "internalPath": "/xiaohongshu/downloader"
+        },
+        {
+          "text": "抖音无水印下载",
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "rawHref": "/douyin/downloader",
+          "internalPath": "/douyin/downloader"
+        },
+        {
+          "text": "下载插件",
+          "href": "https://mediaclaw.app/download",
+          "rawHref": "/download",
+          "internalPath": "/download"
+        },
+        {
+          "text": "价格方案",
+          "href": "https://mediaclaw.app/pricing",
+          "rawHref": "/pricing",
+          "internalPath": "/pricing"
+        },
+        {
+          "text": "福利中心",
+          "href": "https://mediaclaw.app/welfare?entry=footer",
+          "rawHref": "/welfare?entry=footer",
+          "internalPath": "/welfare?entry=footer"
+        },
+        {
+          "text": "伙伴计划",
+          "href": "https://mediaclaw.app/referral",
+          "rawHref": "/referral",
+          "internalPath": "/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "核心功能",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "集成",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "资源",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "中文",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "小红书对标账号分析",
+          "category": "account"
+        },
+        {
+          "text": "小红书账号监控",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号分析",
+          "category": "account"
+        },
+        {
+          "text": "抖音账号监控",
+          "category": "account"
+        },
+        {
+          "text": "价格方案",
+          "category": "commerce"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/referral",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/referral",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 628,
+        "linkCount": 38,
+        "buttonCount": 6,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/referral",
+      "path": "/en/referral",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Join MediaClaw Partner Program — Earn 20% Commission",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Join MediaClaw Partner Program",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "How it Works",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "1. Get Referral Link",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "2. Social Media Sharing",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "3. Get Cash Rewards",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Ready to Start Promoting?",
+          "id": null
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language",
+          "id": null
+        },
+        {
+          "tag": "nav",
+          "role": null,
+          "label": "Core Features Integrations Resources Download Pricing",
+          "id": null
+        },
+        {
+          "tag": "main",
+          "role": null,
+          "label": "Join MediaClaw Partner Program",
+          "id": null
+        },
+        {
+          "tag": "footer",
+          "role": null,
+          "label": "Xiaohongshu and Douyin research, analysis, and content ideation—all in one. RedNote Workflow Keyword Insights Viral Content Analysis Account Analysis Post Scraper Comment Scraper ...",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Join MediaClaw Partner Program",
+          "id": "hero",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "How it Works",
+          "id": "mechanism",
+          "ariaLabel": null
+        },
+        {
+          "tag": "section",
+          "heading": "Ready to Start Promoting?",
+          "id": "cta",
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/download",
+        "/en/pricing",
+        "/en/settings/referral",
+        "/en/xiaohongshu",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/viral-content-analysis",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/douyin",
+        "/en/douyin/account-analysis",
+        "/en/douyin/viral-content-analysis",
+        "/en/douyin/keywords",
+        "/en/douyin/scraper",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/transcript",
+        "/en/douyin/image-text",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/features/feishu-integration",
+        "/en/blog",
+        "/en/welfare?entry=footer",
+        "/en/updates",
+        "/en/referral",
+        "/en/privacy-policy",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 2879,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/download",
+        "https://mediaclaw.app/en/pricing",
+        "https://mediaclaw.app/en/settings/referral",
+        "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "https://mediaclaw.app/en/douyin/downloader",
+        "https://mediaclaw.app/en/welfare?entry=footer",
+        "https://mediaclaw.app/en/referral"
+      ],
+      "ctaLinks": [
+        {
+          "text": "Download",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Join and Share",
+          "href": "https://mediaclaw.app/en/settings/referral",
+          "rawHref": "/en/settings/referral",
+          "internalPath": "/en/settings/referral"
+        },
+        {
+          "text": "Join Now",
+          "href": "https://mediaclaw.app/en/settings/referral",
+          "rawHref": "/en/settings/referral",
+          "internalPath": "/en/settings/referral"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "rawHref": "/en/xiaohongshu/downloader",
+          "internalPath": "/en/xiaohongshu/downloader"
+        },
+        {
+          "text": "Video & Image Downloader",
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "rawHref": "/en/douyin/downloader",
+          "internalPath": "/en/douyin/downloader"
+        },
+        {
+          "text": "Download Extension",
+          "href": "https://mediaclaw.app/en/download",
+          "rawHref": "/en/download",
+          "internalPath": "/en/download"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://mediaclaw.app/en/pricing",
+          "rawHref": "/en/pricing",
+          "internalPath": "/en/pricing"
+        },
+        {
+          "text": "Rewards",
+          "href": "https://mediaclaw.app/en/welfare?entry=footer",
+          "rawHref": "/en/welfare?entry=footer",
+          "internalPath": "/en/welfare?entry=footer"
+        },
+        {
+          "text": "Partner Program",
+          "href": "https://mediaclaw.app/en/referral",
+          "rawHref": "/en/referral",
+          "internalPath": "/en/referral"
+        }
+      ],
+      "visibleButtons": [
+        {
+          "text": "Core Features",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Integrations",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Resources",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "Toggle theme",
+          "type": "button",
+          "disabled": false,
+          "isCta": true
+        },
+        {
+          "text": "Switch language",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        },
+        {
+          "text": "English",
+          "type": "button",
+          "disabled": false,
+          "isCta": false
+        }
+      ],
+      "externalLinks": [
+        "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "MediaClaw Core Features Integrations Resources Download Pricing Toggle theme Switch language Join MediaClaw Partner Program Invite friends to MediaClaw: they get 10% off their first purchase, while you earn 20% commission on their first or...",
+          "category": "commerce"
+        },
+        {
+          "text": "Pricing",
+          "category": "commerce"
+        },
+        {
+          "text": "Account Analysis",
+          "category": "account"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": true,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/referral",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/referral",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 1435,
+        "linkCount": 38,
+        "buttonCount": 6,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/privacy-policy",
+      "path": "/privacy-policy",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "隐私政策",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "隐私政策",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "一、我们收集的信息",
+          "id": "一我们收集的信息"
+        },
+        {
+          "level": 3,
+          "text": "1.1 账号、激活与授权信息",
+          "id": "11-账号激活与授权信息"
+        },
+        {
+          "level": 3,
+          "text": "1.2 飞书目标配置（同步时发送）",
+          "id": "12-飞书目标配置同步时发送"
+        },
+        {
+          "level": 3,
+          "text": "1.3 采集数据（浏览器本地存储）",
+          "id": "13-采集数据浏览器本地存储"
+        },
+        {
+          "level": 3,
+          "text": "1.4 同步历史与运行状态（浏览器本地存储）",
+          "id": "14-同步历史与运行状态浏览器本地存储"
+        },
+        {
+          "level": 3,
+          "text": "1.5 下载与导出行为",
+          "id": "15-下载与导出行为"
+        },
+        {
+          "level": 3,
+          "text": "1.6 网站统计与来源归因",
+          "id": "16-网站统计与来源归因"
+        },
+        {
+          "level": 3,
+          "text": "1.7 我们不收集的信息",
+          "id": "17-我们不收集的信息"
+        },
+        {
+          "level": 2,
+          "text": "二、我们如何使用您的信息",
+          "id": "二我们如何使用您的信息"
+        },
+        {
+          "level": 2,
+          "text": "三、信息的存储与安全",
+          "id": "三信息的存储与安全"
+        },
+        {
+          "level": 3,
+          "text": "3.1 本地存储（浏览器侧）",
+          "id": "31-本地存储浏览器侧"
+        },
+        {
+          "level": 3,
+          "text": "3.2 服务端存储",
+          "id": "32-服务端存储"
+        },
+        {
+          "level": 3,
+          "text": "3.3 安全措施",
+          "id": "33-安全措施"
+        },
+        {
+          "level": 2,
+          "text": "四、信息共享与第三方披露",
+          "id": "四信息共享与第三方披露"
+        },
+        {
+          "level": 2,
+          "text": "五、Chrome 权限使用说明",
+          "id": "五chrome-权限使用说明"
+        },
+        {
+          "level": 2,
+          "text": "六、您的权利",
+          "id": "六您的权利"
+        },
+        {
+          "level": 2,
+          "text": "七、未成年人保护",
+          "id": "七未成年人保护"
+        },
+        {
+          "level": 2,
+          "text": "八、政策更新",
+          "id": "八政策更新"
+        },
+        {
+          "level": 2,
+          "text": "九、联系我们",
+          "id": "九联系我们"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "隐私政策",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "article",
+          "heading": "隐私政策",
+          "id": null,
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/privacy-policy"
+      ],
+      "forms": [],
+      "durationMs": 2776,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/privacy-policy#15-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AF%BC%E5%87%BA%E8%A1%8C%E4%B8%BA",
+        "https://mediaclaw.app/privacy-policy#%E4%B9%9D%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC"
+      ],
+      "ctaLinks": [
+        {
+          "text": "复制章节链接",
+          "href": "https://mediaclaw.app/privacy-policy#15-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AF%BC%E5%87%BA%E8%A1%8C%E4%B8%BA",
+          "rawHref": "#15-下载与导出行为",
+          "internalPath": "/privacy-policy"
+        },
+        {
+          "text": "复制章节链接",
+          "href": "https://mediaclaw.app/privacy-policy#%E4%B9%9D%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC",
+          "rawHref": "#九联系我们",
+          "internalPath": "/privacy-policy"
+        }
+      ],
+      "visibleButtons": [],
+      "externalLinks": [
+        "mailto:support@mediaclaw.app"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [
+        {
+          "text": "返回首页 隐私政策 MediaClaw 网站及插件隐私政策 最近更新: 2026-03-07 更新日期：2026-07-13 生效日期：2026-03-07 感谢你使用 MediaClaw 网站及浏览器插件（以下统称“MediaClaw”）。本政策用于说明你在使用 MediaClaw 过程中，我们如何收集、使用、存储和保护你的信息。 如你不同意本政策，请停止使用网站并卸载本插件。 一、我们收集的信息 1.1 账号、激活与授权信息 当你创建 MediaClaw 网站账号时，我...",
+          "category": "account"
+        }
+      ],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": true,
+        "commerceCueObserved": false,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/privacy-policy",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/privacy-policy",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 4489,
+        "linkCount": 21,
+        "buttonCount": 0,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/privacy-policy",
+      "path": "/en/privacy-policy",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Privacy Policy",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Privacy Policy",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Introduction",
+          "id": "introduction"
+        },
+        {
+          "level": 2,
+          "text": "Information We Collect",
+          "id": "information-we-collect"
+        },
+        {
+          "level": 2,
+          "text": "How We Use Your Information",
+          "id": "how-we-use-your-information"
+        },
+        {
+          "level": 2,
+          "text": "Data Sharing",
+          "id": "data-sharing"
+        },
+        {
+          "level": 2,
+          "text": "Data Security",
+          "id": "data-security"
+        },
+        {
+          "level": 2,
+          "text": "Your Rights",
+          "id": "your-rights"
+        },
+        {
+          "level": 2,
+          "text": "Changes to This Policy",
+          "id": "changes-to-this-policy"
+        },
+        {
+          "level": 2,
+          "text": "Contact Us",
+          "id": "contact-us"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "Privacy Policy",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "article",
+          "heading": "Privacy Policy",
+          "id": null,
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/privacy-policy"
+      ],
+      "forms": [],
+      "durationMs": 2941,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/privacy-policy#contact-us"
+      ],
+      "ctaLinks": [
+        {
+          "text": "复制章节链接",
+          "href": "https://mediaclaw.app/en/privacy-policy#contact-us",
+          "rawHref": "#contact-us",
+          "internalPath": "/en/privacy-policy"
+        }
+      ],
+      "visibleButtons": [],
+      "externalLinks": [],
+      "visiblePreviewOrAccountBoundaryCues": [],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": false,
+        "commerceCueObserved": false,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/privacy-policy",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/privacy-policy",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 2472,
+        "linkCount": 9,
+        "buttonCount": 0,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/terms-of-service",
+      "path": "/terms-of-service",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "服务条款",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "服务条款",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "一、产品定位及使用说明",
+          "id": "一产品定位及使用说明"
+        },
+        {
+          "level": 2,
+          "text": "二、服务定价",
+          "id": "二服务定价"
+        },
+        {
+          "level": 2,
+          "text": "三、设备绑定",
+          "id": "三设备绑定"
+        },
+        {
+          "level": 2,
+          "text": "四、相关风险提示",
+          "id": "四相关风险提示"
+        },
+        {
+          "level": 2,
+          "text": "五、用户义务与使用规范",
+          "id": "五用户义务与使用规范"
+        },
+        {
+          "level": 2,
+          "text": "六、免责声明",
+          "id": "六免责声明"
+        },
+        {
+          "level": 2,
+          "text": "七、知识产权声明",
+          "id": "七知识产权声明"
+        },
+        {
+          "level": 2,
+          "text": "八、隐私与数据保护",
+          "id": "八隐私与数据保护"
+        },
+        {
+          "level": 2,
+          "text": "九、服务中止与终止",
+          "id": "九服务中止与终止"
+        },
+        {
+          "level": 2,
+          "text": "十、责任限制",
+          "id": "十责任限制"
+        },
+        {
+          "level": 2,
+          "text": "十一、适用法律与争议解决",
+          "id": "十一适用法律与争议解决"
+        },
+        {
+          "level": 2,
+          "text": "十二、协议更新与修改",
+          "id": "十二协议更新与修改"
+        },
+        {
+          "level": 2,
+          "text": "十三、联系方式",
+          "id": "十三联系方式"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "服务条款",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "article",
+          "heading": "服务条款",
+          "id": null,
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/",
+        "/terms-of-service",
+        "/privacy-policy"
+      ],
+      "forms": [],
+      "durationMs": 2777,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/terms-of-service#%E4%BA%8C%E6%9C%8D%E5%8A%A1%E5%AE%9A%E4%BB%B7",
+        "https://mediaclaw.app/terms-of-service#%E5%8D%81%E4%B8%89%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F"
+      ],
+      "ctaLinks": [
+        {
+          "text": "复制章节链接",
+          "href": "https://mediaclaw.app/terms-of-service#%E4%BA%8C%E6%9C%8D%E5%8A%A1%E5%AE%9A%E4%BB%B7",
+          "rawHref": "#二服务定价",
+          "internalPath": "/terms-of-service"
+        },
+        {
+          "text": "复制章节链接",
+          "href": "https://mediaclaw.app/terms-of-service#%E5%8D%81%E4%B8%89%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F",
+          "rawHref": "#十三联系方式",
+          "internalPath": "/terms-of-service"
+        }
+      ],
+      "visibleButtons": [],
+      "externalLinks": [
+        "http://www.xiaohongshu.xn--com)-j52j095dhh4b.xn--tiktok-hr3et318a3mye/"
+      ],
+      "visiblePreviewOrAccountBoundaryCues": [],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": false,
+        "commerceCueObserved": false,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/terms-of-service",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/terms-of-service",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        }
+      ],
+      "observedDom": {
+        "textLength": 3376,
+        "linkCount": 16,
+        "buttonCount": 0,
+        "formCount": 0
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en/terms-of-service",
+      "path": "/en/terms-of-service",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "title": "Terms of Service",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Terms of Service",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Acceptance of Terms",
+          "id": "acceptance-of-terms"
+        },
+        {
+          "level": 2,
+          "text": "Description of Service",
+          "id": "description-of-service"
+        },
+        {
+          "level": 2,
+          "text": "User Accounts",
+          "id": "user-accounts"
+        },
+        {
+          "level": 2,
+          "text": "Acceptable Use",
+          "id": "acceptable-use"
+        },
+        {
+          "level": 2,
+          "text": "Payment and Billing",
+          "id": "payment-and-billing"
+        },
+        {
+          "level": 2,
+          "text": "Intellectual Property",
+          "id": "intellectual-property"
+        },
+        {
+          "level": 2,
+          "text": "Termination",
+          "id": "termination"
+        },
+        {
+          "level": 2,
+          "text": "Limitation of Liability",
+          "id": "limitation-of-liability"
+        },
+        {
+          "level": 2,
+          "text": "Changes to These Terms",
+          "id": "changes-to-these-terms"
+        },
+        {
+          "level": 2,
+          "text": "Contact",
+          "id": "contact"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": null,
+          "label": "Terms of Service",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "tag": "article",
+          "heading": "Terms of Service",
+          "id": null,
+          "ariaLabel": null
+        }
+      ],
+      "internalLinks": [
+        "/en",
+        "/en/terms-of-service"
+      ],
+      "forms": [],
+      "durationMs": 4667,
+      "errors": [
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "requestfailed",
+          "method": "POST",
+          "url": "https://mediaclaw.app/cdn-cgi/challenge-platform/h/g/jsd/oneshot/aae2b9a1c261/0.9942883941342555:1787115914:9mJQHb9YahQMlOAzPMzdhGeFjyD_buCJlEwugzwhfDs/a2d7049a0f719d3e",
+          "text": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "kind": "console",
+          "type": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "ctaHrefs": [
+        "https://mediaclaw.app/en/terms-of-service#contact"
+      ],
+      "ctaLinks": [
+        {
+          "text": "复制章节链接",
+          "href": "https://mediaclaw.app/en/terms-of-service#contact",
+          "rawHref": "#contact",
+          "internalPath": "/en/terms-of-service"
+        }
+      ],
+      "visibleButtons": [],
+      "externalLinks": [],
+      "visiblePreviewOrAccountBoundaryCues": [],
+      "boundarySummary": {
+        "previewCueObserved": false,
+        "accountCueObserved": false,
+        "commerceCueObserved": false,
+        "availabilityCueObserved": false
+      },
+      "navigation": {
+        "finalUrl": "https://mediaclaw.app/en/terms-of-service",
+        "requestedRouteCount": 1,
+        "navigationRequests": [
+          {
+            "url": "https://mediaclaw.app/en/terms-of-service",
+            "method": "GET",
+            "redirectedFrom": null
+          }
+        ],
+        "navigationError": null
+      },
+      "blockedRequests": [
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "method": "GET",
+          "reason": "external-origin"
+        },
+        {
+          "url": "https://mediaclaw.app/cdn-cgi/challenge-platform/h/g/jsd/oneshot/aae2b9a1c261/0.9942883941342555:1787115914:9mJQHb9YahQMlOAzPMzdhGeFjyD_buCJlEwugzwhfDs/a2d7049a0f719d3e",
+          "method": "POST",
+          "reason": "protocol-allows-get-head-only"
+        }
+      ],
+      "observedDom": {
+        "textLength": 2143,
+        "linkCount": 11,
+        "buttonCount": 0,
+        "formCount": 0
+      }
+    }
+  ],
+  "counts": {
+    "assigned": 14,
+    "captured": 14,
+    "uniquePaths": 14,
+    "status": {
+      "200": 14
+    },
+    "routesWithErrors": 14,
+    "totalErrors": 44,
+    "blockedRequests": 43,
+    "routeRequestCountMismatches": 0
+  },
+  "observedLimitations": [
+    "Anonymous browser context only; no cookies, credentials, form submission, CTA clicks, or private API calls were used.",
+    "Only the 14 frozen task routes were requested; no route discovery or bundle-only route inference was performed.",
+    "Browser requests were restricted to GET/HEAD and same-origin; external-origin resources and follow-up navigations were blocked by the crawl protocol."
+  ],
+  "sourceEvidence": {
+    "evidenceType": "observed",
+    "crawlMethod": "Playwright page.goto with domcontentloaded and bounded 800ms render settle",
+    "browserVersion": "151.0.7922.34",
+    "targetOrigin": "https://mediaclaw.app",
+    "assignedPaths": [
+      "/download",
+      "/en/download",
+      "/pricing",
+      "/en/pricing",
+      "/features/feishu-integration",
+      "/en/features/feishu-integration",
+      "/welfare",
+      "/en/welfare",
+      "/referral",
+      "/en/referral",
+      "/privacy-policy",
+      "/en/privacy-policy",
+      "/terms-of-service",
+      "/en/terms-of-service"
+    ],
+    "protocolPath": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-PROTOCOL.md",
+    "taskFile": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/tasks/CRAWL-COMMERCIAL-LEGAL.md",
+    "crawlScript": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-COMMERCIAL-LEGAL.mjs",
+    "artifactPath": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-COMMERCIAL-LEGAL.json",
+    "requestPolicy": {
+      "allowedMethods": [
+        "GET",
+        "HEAD"
+      ],
+      "sameOriginOnly": true,
+      "clickControls": false,
+      "submitForms": false,
+      "followExternalDomains": false,
+      "routeRequestExpectation": "one initial request per assigned path; HTTP redirects remain part of that navigation"
+    }
+  }
+}

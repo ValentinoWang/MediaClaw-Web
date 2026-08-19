@@ -1,0 +1,32 @@
+.legal-record-page { color: var(--ink); background: #fff; }
+.legal-record-hero { border-bottom: 1px solid var(--line); background: var(--paper); }
+.legal-record-hero-inner { display: grid; grid-template-columns: minmax(0, 1fr) 290px; align-items: end; gap: 60px; padding-top: 35px; padding-bottom: 70px; }
+.legal-record-breadcrumb { display: flex; align-items: center; gap: 7px; margin-bottom: 42px; color: var(--muted); font-size: .8rem; }
+.legal-record-breadcrumb button { padding: 0; border: 0; color: var(--mint-strong); background: transparent; cursor: pointer; font: inherit; }
+.legal-record-hero h1 { margin: 17px 0 18px; font-size: clamp(2.7rem, 5.5vw, 5rem); line-height: 1.04; letter-spacing: -.05em; }
+.legal-record-hero p { max-width: 690px; margin: 0; color: var(--muted); font-size: 1rem; line-height: 1.8; }
+.legal-record-note { display: grid; grid-template-columns: auto 1fr; gap: 5px 10px; padding: 19px; border-left: 3px solid var(--mint-strong); background: #fff; }
+.legal-record-note svg { grid-row: span 2; color: var(--mint-strong); }
+.legal-record-note strong { font-size: .9rem; }
+.legal-record-note span { color: var(--muted); font-size: .75rem; line-height: 1.6; }
+.legal-record-layout { display: grid; grid-template-columns: 220px minmax(0, 730px); justify-content: center; gap: clamp(40px, 8vw, 105px); padding-top: 65px; padding-bottom: 100px; }
+.legal-record-toc { min-width: 0; }
+.legal-record-toc > .section-kicker { color: var(--ink); }
+.legal-record-toc nav { position: sticky; top: 22px; display: grid; gap: 10px; margin-top: 17px; }
+.legal-record-toc nav a { color: var(--muted); font-size: .79rem; line-height: 1.45; text-decoration: none; }
+.legal-record-toc nav a:hover { color: var(--mint-strong); }
+.legal-record-related { display: inline-flex; align-items: center; gap: 7px; margin-top: 31px; padding: 0; border: 0; color: var(--mint-strong); background: transparent; cursor: pointer; font: inherit; font-size: .8rem; font-weight: 700; text-align: left; }
+.legal-record-intro { margin-bottom: 44px; padding: 18px 20px; border-left: 3px solid var(--mint-strong); background: var(--paper); }
+.legal-record-intro p { margin: 8px 0 0; color: var(--muted); font-size: .9rem; line-height: 1.75; }
+.legal-record-section { scroll-margin-top: 28px; padding: 0 0 34px; margin-bottom: 34px; border-bottom: 1px solid var(--line); }
+.legal-record-section.level-3 { padding-left: 18px; }
+.legal-record-number { display: inline-block; margin-bottom: 10px; color: var(--mint-strong); font-size: .75rem; font-weight: 800; letter-spacing: .08em; }
+.legal-record-section h2 { margin: 0 0 12px; font-size: clamp(1.25rem, 2.6vw, 1.8rem); line-height: 1.35; letter-spacing: 0; }
+.legal-record-section.level-3 h2 { font-size: 1.08rem; }
+.legal-record-section p { margin: 0; color: #52615a; font-size: .94rem; line-height: 1.85; }
+.legal-record-boundary { display: flex; gap: 12px; margin-top: 47px; padding: 18px; color: var(--muted); background: var(--paper); }
+.legal-record-boundary svg { flex: 0 0 auto; color: var(--mint-strong); }
+.legal-record-boundary p { margin: 0; font-size: .84rem; line-height: 1.7; }
+.legal-record-source { display: inline-flex; align-items: center; gap: 6px; margin-top: 26px; color: var(--mint-strong); font-size: .8rem; font-weight: 700; text-decoration: none; }
+@media (max-width: 850px) { .legal-record-hero-inner { grid-template-columns: 1fr; gap: 30px; }.legal-record-layout { grid-template-columns: 1fr; gap: 25px; }.legal-record-toc nav { position: static; display: flex; gap: 12px; overflow-x: auto; padding-bottom: 3px; }.legal-record-toc nav a { flex: 0 0 auto; max-width: 230px; }.legal-record-related { margin-top: 18px; } }
+@media (max-width: 580px) { .legal-record-hero-inner { padding-top: 24px; padding-bottom: 53px; }.legal-record-breadcrumb { margin-bottom: 31px; }.legal-record-hero h1 { font-size: 2.6rem; }.legal-record-layout { width: min(100% - 32px, 730px); padding-top: 48px; padding-bottom: 72px; }.legal-record-section.level-3 { padding-left: 0; } }

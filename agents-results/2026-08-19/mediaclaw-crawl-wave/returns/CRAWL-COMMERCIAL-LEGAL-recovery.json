@@ -1,0 +1,31 @@
+{
+  "taskId": "CRAWL-COMMERCIAL-LEGAL",
+  "attemptRole": "recovery-readonly",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-COMMERCIAL-LEGAL.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-recovery.validation.log"
+  ],
+  "evidence_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-COMMERCIAL-LEGAL.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-COMMERCIAL-LEGAL-recovery.validation.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-COMMERCIAL-LEGAL.sh",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+  ],
+  "acceptance_summary": {
+    "assignedRoutes": 14,
+    "observedRoutes": 14,
+    "uniquePaths": 14,
+    "statusCounts": {
+      "200": 14
+    },
+    "validationCommand": "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-COMMERCIAL-LEGAL.sh"
+  },
+  "unverified_items": [
+    "Original lw-luna supervisor stopped before a terminal structured return; this recovery record validates the already-written live-crawl artifact without rewriting that ledger.",
+    "Anonymous public-surface crawl only; authenticated, private, and server-internal routes were not examined."
+  ]
+}

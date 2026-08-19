@@ -1,0 +1,21 @@
+{
+  "taskId": "C0-CLOSURE",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/C0-CLOSURE.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/C0-CLOSURE.validation.log"
+  ],
+  "evidence_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/C0-AGGREGATE.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/C0-AGGREGATE.sh",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/C0-CLOSURE.sh",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/C0-CLOSURE.validation.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+  ],
+  "unverified_items": [
+    "No authenticated or private application surface was tested."
+  ]
+}

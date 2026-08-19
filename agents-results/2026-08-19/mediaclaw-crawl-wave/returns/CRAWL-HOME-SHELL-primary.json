@@ -1,0 +1,36 @@
+{
+  "taskId": "CRAWL-HOME-SHELL",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-HOME-SHELL.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-HOME-SHELL.mjs",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-HOME-SHELL-primary-retry.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-HOME-SHELL-primary.validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-HOME-SHELL-primary.json"
+  ],
+  "evidence_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-HOME-SHELL.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-HOME-SHELL-primary.validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-HOME-SHELL-primary-retry.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-HOME-SHELL.sh"
+  ],
+  "validation": {
+    "command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-HOME-SHELL.sh",
+    "log_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-HOME-SHELL-primary.validation.log",
+    "result": "pass",
+    "route_schema_check": "pass",
+    "source_hash_check": "pass"
+  },
+  "observed_routes": [
+    { "path": "/", "status": 200, "lang": "zh", "requestedExactlyOnce": true },
+    { "path": "/en", "status": 200, "lang": "en", "requestedExactlyOnce": true }
+  ],
+  "unverified_items": [
+    "Third-party GETs to static.cloudflareinsights.com, www.googletagmanager.com, and www.clarity.ms were blocked by the same-origin crawl policy on both routes; those integrations are unverified.",
+    "No linked route was followed; internal-link values are observed destinations only within the frozen / and /en scope."
+  ]
+}

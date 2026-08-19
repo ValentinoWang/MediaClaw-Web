@@ -1,0 +1,44 @@
+{
+  "taskId": "CRAWL-BLOG-ARTICLES-A",
+  "attemptRole": "primary-retry",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-live-crawl.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-BLOG-ARTICLES-A-primary-retry.json"
+  ],
+  "evidence_files": [
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-BLOG-ARTICLES-A.json",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-live-crawl.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-BLOG-ARTICLES-A-validation.log",
+    "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/logs/src-hashes-before.sha256"
+  ],
+  "validation": {
+    "commandFile": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-BLOG-ARTICLES-A.sh",
+    "exitCode": 0,
+    "assignedRoutes": 24,
+    "observedRoutes": 24,
+    "uniquePaths": 24,
+    "statusCounts": {
+      "200": 24
+    },
+    "initialDocumentGetCount": 24,
+    "requestedExactlyOnce": true,
+    "sourceFilesChanged": false,
+    "independentChecks": {
+      "exactFrozenPaths": true,
+      "requiredArticleFields": true,
+      "liveEvidenceMode": true
+    }
+  },
+  "unverified_items": [
+    "Cross-origin requests and same-origin XHR/fetch/WebSocket/EventSource requests were blocked by the anonymous document-only harness; their behavior and data are unverified.",
+    "The DOM was sampled after domcontentloaded plus a bounded 750ms settle, so later asynchronous mutations are unverified.",
+    "No semantically named visible article-metadata nodes were detected; live meta tags and canonical URLs were captured, while any visually presented metadata without semantic selectors is unverified.",
+    "No anti-bot or live navigation boundary was observed: all 24 assigned routes returned HTTP 200 and remained on the requested same-origin path."
+  ]
+}

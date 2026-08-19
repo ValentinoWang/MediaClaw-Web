@@ -1,0 +1,285 @@
+# Coverage
+
+- Seed: `https://mediaclaw.app/`
+- Crawl bound: max 80 rendered pages, depth 3, max 40 assets
+- URLs discovered: 171
+- Pages rendered: 80
+- Pages analyzed: 80
+- Render failures: 0
+- Access-limited responses (401/403/429): 0
+- Queue remaining at bound: 91
+- Bundle-only route strings: 80
+
+## Discovered URLs
+
+- `https://mediaclaw.app/` - rendered (200)
+- `https://mediaclaw.app/blog` - rendered (200)
+- `https://mediaclaw.app/blog/category/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8C%96%E6%8E%98` - discovered
+- `https://mediaclaw.app/blog/category/%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5` - discovered
+- `https://mediaclaw.app/blog/category/%E5%AE%A2%E8%B5%84%E7%AD%9B%E9%80%89` - discovered
+- `https://mediaclaw.app/blog/category/%E5%B0%8F%E7%BA%A2%E4%B9%A6` - discovered
+- `https://mediaclaw.app/blog/category/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5` - discovered
+- `https://mediaclaw.app/blog/category/%E6%8A%96%E9%9F%B3` - discovered
+- `https://mediaclaw.app/blog/category/%E6%90%9C%E7%B4%A2%E6%B5%81%E9%87%8F` - discovered
+- `https://mediaclaw.app/blog/category/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86` - discovered
+- `https://mediaclaw.app/blog/category/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%BF%90%E8%90%A5` - discovered
+- `https://mediaclaw.app/blog/category/%E8%AF%84%E8%AE%BA%E9%87%87%E9%9B%86` - discovered
+- `https://mediaclaw.app/blog/category/ai%E5%88%86%E6%9E%90` - discovered
+- `https://mediaclaw.app/blog/category/ai-%E9%80%89%E9%A2%98` - discovered
+- `https://mediaclaw.app/blog/douyin-comment-export` - discovered
+- `https://mediaclaw.app/blog/douyin-data-collection` - discovered
+- `https://mediaclaw.app/blog/how-to-copy-viral-short-videos` - discovered
+- `https://mediaclaw.app/blog/local-business-xiaohongshu-marketing` - discovered
+- `https://mediaclaw.app/blog/low-follower-viral-content` - discovered
+- `https://mediaclaw.app/blog/short-video-transcript-extraction` - discovered
+- `https://mediaclaw.app/blog/video-transcript-timestamps` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-ai-benchmark-to-draft` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-brand-sentiment-monitoring` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-comment-analysis` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-comment-batch-export-campaign-review` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-comment-topic-mining` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-competitor-monitoring` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-download-own-posts` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-download-remove-watermark` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-find-benchmark-accounts` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-image-text-extraction` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-keyword-placement` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-keyword-research` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-professional-content-search-traffic` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-research-data-collection` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-search-vs-recommendation-traffic` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-topic-analysis` - discovered
+- `https://mediaclaw.app/blog/xiaohongshu-topic-library-build` - discovered
+- `https://mediaclaw.app/douyin` - rendered (200)
+- `https://mediaclaw.app/douyin/account-analysis` - rendered (200)
+- `https://mediaclaw.app/douyin/comments` - rendered (200)
+- `https://mediaclaw.app/douyin/downloader` - rendered (200)
+- `https://mediaclaw.app/douyin/image-text` - rendered (200)
+- `https://mediaclaw.app/douyin/keywords` - rendered (200)
+- `https://mediaclaw.app/douyin/leads` - rendered (200)
+- `https://mediaclaw.app/douyin/monitoring` - rendered (200)
+- `https://mediaclaw.app/douyin/scraper` - rendered (200)
+- `https://mediaclaw.app/douyin/transcript` - rendered (200)
+- `https://mediaclaw.app/douyin/viral-content-analysis` - rendered (200)
+- `https://mediaclaw.app/download` - rendered (200)
+- `https://mediaclaw.app/en` - rendered (200)
+- `https://mediaclaw.app/en/blog` - rendered (200)
+- `https://mediaclaw.app/en/blog/category/content-ideas` - discovered
+- `https://mediaclaw.app/en/blog/category/content-strategy` - discovered
+- `https://mediaclaw.app/en/blog/category/download-without-watermark` - discovered
+- `https://mediaclaw.app/en/blog/category/extract-video-transcript` - discovered
+- `https://mediaclaw.app/en/blog/category/keyword-research` - discovered
+- `https://mediaclaw.app/en/blog/category/lead-generation` - discovered
+- `https://mediaclaw.app/en/blog/category/low-follower-high-engagement` - discovered
+- `https://mediaclaw.app/en/blog/category/rednote` - discovered
+- `https://mediaclaw.app/en/blog/category/rednote-operations` - discovered
+- `https://mediaclaw.app/en/blog/category/rednote-seo` - discovered
+- `https://mediaclaw.app/en/blog/category/xiaohongshu` - discovered
+- `https://mediaclaw.app/en/blog/category/xiaohongshu-seo` - discovered
+- `https://mediaclaw.app/en/blog/douyin-comment-export` - discovered
+- `https://mediaclaw.app/en/blog/douyin-data-collection` - discovered
+- `https://mediaclaw.app/en/blog/how-to-copy-viral-short-videos` - discovered
+- `https://mediaclaw.app/en/blog/local-business-xiaohongshu-marketing` - discovered
+- `https://mediaclaw.app/en/blog/low-follower-viral-content` - discovered
+- `https://mediaclaw.app/en/blog/short-video-transcript-extraction` - discovered
+- `https://mediaclaw.app/en/blog/video-transcript-timestamps` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-ai-benchmark-to-draft` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-brand-sentiment-monitoring` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-comment-analysis` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-comment-batch-export-campaign-review` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-comment-topic-mining` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-competitor-monitoring` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-download-own-posts` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-download-remove-watermark` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-find-benchmark-accounts` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-image-text-extraction` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-keyword-placement` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-keyword-research` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-professional-content-search-traffic` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-research-data-collection` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-search-vs-recommendation-traffic` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-topic-analysis` - discovered
+- `https://mediaclaw.app/en/blog/xiaohongshu-topic-library-build` - discovered
+- `https://mediaclaw.app/en/douyin` - rendered (200)
+- `https://mediaclaw.app/en/douyin/account-analysis` - rendered (200)
+- `https://mediaclaw.app/en/douyin/comments` - rendered (200)
+- `https://mediaclaw.app/en/douyin/downloader` - rendered (200)
+- `https://mediaclaw.app/en/douyin/image-text` - rendered (200)
+- `https://mediaclaw.app/en/douyin/keywords` - rendered (200)
+- `https://mediaclaw.app/en/douyin/leads` - rendered (200)
+- `https://mediaclaw.app/en/douyin/monitoring` - rendered (200)
+- `https://mediaclaw.app/en/douyin/scraper` - rendered (200)
+- `https://mediaclaw.app/en/douyin/transcript` - rendered (200)
+- `https://mediaclaw.app/en/douyin/viral-content-analysis` - rendered (200)
+- `https://mediaclaw.app/en/download` - rendered (200)
+- `https://mediaclaw.app/en/features/feishu-integration` - rendered (200)
+- `https://mediaclaw.app/en/pricing` - rendered (200)
+- `https://mediaclaw.app/en/privacy-policy` - rendered (200)
+- `https://mediaclaw.app/en/referral` - rendered (200)
+- `https://mediaclaw.app/en/settings/referral` - discovered
+- `https://mediaclaw.app/en/terms-of-service` - rendered (200)
+- `https://mediaclaw.app/en/updates` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.0.6` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.0.7` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.0.9` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.0` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.1` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.2` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.3` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.5` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.7` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.8` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.1.9` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.2.0` - rendered (200)
+- `https://mediaclaw.app/en/updates/v0.2.1` - discovered
+- `https://mediaclaw.app/en/updates/v0.2.2` - discovered
+- `https://mediaclaw.app/en/updates/v0.2.3` - discovered
+- `https://mediaclaw.app/en/updates/v0.3.0` - discovered
+- `https://mediaclaw.app/en/welfare` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/account-analysis` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/comments` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/downloader` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/image-text` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/keywords` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/leads` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/monitoring` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/scraper` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/transcript` - rendered (200)
+- `https://mediaclaw.app/en/xiaohongshu/viral-content-analysis` - rendered (200)
+- `https://mediaclaw.app/features/feishu-integration` - rendered (200)
+- `https://mediaclaw.app/pricing` - rendered (200)
+- `https://mediaclaw.app/privacy-policy` - rendered (200)
+- `https://mediaclaw.app/referral` - rendered (200)
+- `https://mediaclaw.app/settings/referral` - rendered (200)
+- `https://mediaclaw.app/sign-in` - discovered
+- `https://mediaclaw.app/terms-of-service` - rendered (200)
+- `https://mediaclaw.app/updates` - rendered (200)
+- `https://mediaclaw.app/updates/v0.0.6` - rendered (200)
+- `https://mediaclaw.app/updates/v0.0.7` - rendered (200)
+- `https://mediaclaw.app/updates/v0.0.9` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.0` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.1` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.2` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.3` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.5` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.7` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.8` - rendered (200)
+- `https://mediaclaw.app/updates/v0.1.9` - rendered (200)
+- `https://mediaclaw.app/updates/v0.2.0` - discovered
+- `https://mediaclaw.app/updates/v0.2.1` - discovered
+- `https://mediaclaw.app/updates/v0.2.2` - discovered
+- `https://mediaclaw.app/updates/v0.2.3` - discovered
+- `https://mediaclaw.app/updates/v0.3.0` - discovered
+- `https://mediaclaw.app/welfare` - rendered (200)
+- `https://mediaclaw.app/xiaohongshu` - rendered (200)
+- `https://mediaclaw.app/xiaohongshu/account-analysis` - rendered (200)
+- `https://mediaclaw.app/xiaohongshu/comments` - rendered (200)
+- `https://mediaclaw.app/xiaohongshu/downloader` - discovered
+- `https://mediaclaw.app/xiaohongshu/image-text` - discovered
+- `https://mediaclaw.app/xiaohongshu/keywords` - discovered
+- `https://mediaclaw.app/xiaohongshu/leads` - discovered
+- `https://mediaclaw.app/xiaohongshu/monitoring` - discovered
+- `https://mediaclaw.app/xiaohongshu/scraper` - discovered
+- `https://mediaclaw.app/xiaohongshu/transcript` - discovered
+- `https://mediaclaw.app/xiaohongshu/viral-content-analysis` - discovered
+
+## Queue Remaining
+
+- `https://mediaclaw.app/xiaohongshu/downloader`
+- `https://mediaclaw.app/xiaohongshu/image-text`
+- `https://mediaclaw.app/xiaohongshu/keywords`
+- `https://mediaclaw.app/xiaohongshu/leads`
+- `https://mediaclaw.app/xiaohongshu/monitoring`
+- `https://mediaclaw.app/xiaohongshu/scraper`
+- `https://mediaclaw.app/xiaohongshu/transcript`
+- `https://mediaclaw.app/xiaohongshu/viral-content-analysis`
+- `https://mediaclaw.app/sign-in`
+- `https://mediaclaw.app/updates/v0.2.0`
+- `https://mediaclaw.app/blog/category/%E5%B0%8F%E7%BA%A2%E4%B9%A6`
+- `https://mediaclaw.app/blog/category/%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5`
+- `https://mediaclaw.app/blog/category/%E8%AF%84%E8%AE%BA%E9%87%87%E9%9B%86`
+- `https://mediaclaw.app/blog/category/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8C%96%E6%8E%98`
+- `https://mediaclaw.app/blog/category/%E5%AE%A2%E8%B5%84%E7%AD%9B%E9%80%89`
+- `https://mediaclaw.app/blog/category/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5`
+- `https://mediaclaw.app/blog/category/%E6%8A%96%E9%9F%B3`
+- `https://mediaclaw.app/blog/category/%E6%90%9C%E7%B4%A2%E6%B5%81%E9%87%8F`
+- `https://mediaclaw.app/blog/category/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86`
+- `https://mediaclaw.app/blog/category/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%BF%90%E8%90%A5`
+- `https://mediaclaw.app/blog/category/ai-%E9%80%89%E9%A2%98`
+- `https://mediaclaw.app/blog/category/ai%E5%88%86%E6%9E%90`
+- `https://mediaclaw.app/blog/douyin-data-collection`
+- `https://mediaclaw.app/blog/douyin-comment-export`
+- `https://mediaclaw.app/blog/xiaohongshu-ai-benchmark-to-draft`
+- `https://mediaclaw.app/blog/xiaohongshu-research-data-collection`
+- `https://mediaclaw.app/blog/video-transcript-timestamps`
+- `https://mediaclaw.app/blog/xiaohongshu-image-text-extraction`
+- `https://mediaclaw.app/blog/xiaohongshu-brand-sentiment-monitoring`
+- `https://mediaclaw.app/blog/xiaohongshu-professional-content-search-traffic`
+- `https://mediaclaw.app/blog/xiaohongshu-find-benchmark-accounts`
+- `https://mediaclaw.app/blog/xiaohongshu-comment-batch-export-campaign-review`
+- `https://mediaclaw.app/blog/local-business-xiaohongshu-marketing`
+- `https://mediaclaw.app/blog/low-follower-viral-content`
+- `https://mediaclaw.app/blog/how-to-copy-viral-short-videos`
+- `https://mediaclaw.app/blog/xiaohongshu-search-vs-recommendation-traffic`
+- `https://mediaclaw.app/blog/xiaohongshu-keyword-placement`
+- `https://mediaclaw.app/blog/xiaohongshu-topic-analysis`
+- `https://mediaclaw.app/blog/short-video-transcript-extraction`
+- `https://mediaclaw.app/blog/xiaohongshu-comment-topic-mining`
+- `https://mediaclaw.app/blog/xiaohongshu-keyword-research`
+- `https://mediaclaw.app/blog/xiaohongshu-competitor-monitoring`
+- `https://mediaclaw.app/blog/xiaohongshu-comment-analysis`
+- `https://mediaclaw.app/blog/xiaohongshu-topic-library-build`
+- `https://mediaclaw.app/blog/xiaohongshu-download-own-posts`
+- `https://mediaclaw.app/blog/xiaohongshu-download-remove-watermark`
+- `https://mediaclaw.app/en/blog/category/xiaohongshu`
+- `https://mediaclaw.app/en/blog/category/rednote`
+- `https://mediaclaw.app/en/blog/category/content-strategy`
+- `https://mediaclaw.app/en/blog/category/keyword-research`
+- `https://mediaclaw.app/en/blog/category/xiaohongshu-seo`
+- `https://mediaclaw.app/en/blog/category/content-ideas`
+- `https://mediaclaw.app/en/blog/category/download-without-watermark`
+- `https://mediaclaw.app/en/blog/category/extract-video-transcript`
+- `https://mediaclaw.app/en/blog/category/lead-generation`
+- `https://mediaclaw.app/en/blog/category/low-follower-high-engagement`
+- `https://mediaclaw.app/en/blog/category/rednote-operations`
+- `https://mediaclaw.app/en/blog/category/rednote-seo`
+- `https://mediaclaw.app/en/blog/douyin-data-collection`
+- `https://mediaclaw.app/en/blog/douyin-comment-export`
+- `https://mediaclaw.app/en/blog/xiaohongshu-ai-benchmark-to-draft`
+- `https://mediaclaw.app/en/blog/xiaohongshu-research-data-collection`
+- `https://mediaclaw.app/en/blog/video-transcript-timestamps`
+- `https://mediaclaw.app/en/blog/xiaohongshu-image-text-extraction`
+- `https://mediaclaw.app/en/blog/xiaohongshu-brand-sentiment-monitoring`
+- `https://mediaclaw.app/en/blog/xiaohongshu-professional-content-search-traffic`
+- `https://mediaclaw.app/en/blog/xiaohongshu-find-benchmark-accounts`
+- `https://mediaclaw.app/en/blog/xiaohongshu-comment-batch-export-campaign-review`
+- `https://mediaclaw.app/en/blog/local-business-xiaohongshu-marketing`
+- `https://mediaclaw.app/en/blog/low-follower-viral-content`
+- `https://mediaclaw.app/en/blog/how-to-copy-viral-short-videos`
+- `https://mediaclaw.app/en/blog/xiaohongshu-search-vs-recommendation-traffic`
+- `https://mediaclaw.app/en/blog/xiaohongshu-keyword-placement`
+- `https://mediaclaw.app/en/blog/xiaohongshu-topic-analysis`
+- `https://mediaclaw.app/en/blog/short-video-transcript-extraction`
+- `https://mediaclaw.app/en/blog/xiaohongshu-comment-topic-mining`
+- `https://mediaclaw.app/en/blog/xiaohongshu-keyword-research`
+- `https://mediaclaw.app/en/blog/xiaohongshu-competitor-monitoring`
+- `https://mediaclaw.app/en/blog/xiaohongshu-comment-analysis`
+- `https://mediaclaw.app/en/blog/xiaohongshu-topic-library-build`
+- `https://mediaclaw.app/en/blog/xiaohongshu-download-own-posts`
+- `https://mediaclaw.app/en/blog/xiaohongshu-download-remove-watermark`
+- `https://mediaclaw.app/en/settings/referral`
+- `https://mediaclaw.app/en/updates/v0.3.0`
+- `https://mediaclaw.app/en/updates/v0.2.3`
+- `https://mediaclaw.app/en/updates/v0.2.2`
+- `https://mediaclaw.app/en/updates/v0.2.1`
+- `https://mediaclaw.app/updates/v0.3.0`
+- `https://mediaclaw.app/updates/v0.2.3`
+- `https://mediaclaw.app/updates/v0.2.2`
+- `https://mediaclaw.app/updates/v0.2.1`
+
+## Limitations
+
+- This is anonymous public-surface coverage, not authenticated or server-internal route coverage.
+- A URL is analyzed only after it is rendered and its DOM snapshot is captured.
+- Bundle-only paths are evidence of route strings, not proof that a document is publicly reachable.

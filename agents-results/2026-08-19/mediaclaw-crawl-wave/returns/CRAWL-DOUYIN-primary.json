@@ -1,0 +1,27 @@
+{
+  "taskId": "CRAWL-DOUYIN",
+  "proposed_state": "VERIFIED",
+  "acceptance_self_check": "pass",
+  "failure_class": "none",
+  "failure_origin": "none",
+  "changed_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/scripts/CRAWL-DOUYIN.mjs",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-DOUYIN-primary-live.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-DOUYIN-primary.validation.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-DOUYIN.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/returns/CRAWL-DOUYIN-primary.json"
+  ],
+  "evidence_files": [
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-DOUYIN.json",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-DOUYIN-primary-live.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/logs/CRAWL-DOUYIN-primary.validation.log",
+    "agents-results/2026-08-19/mediaclaw-crawl-wave/validation/CRAWL-DOUYIN.sh"
+  ],
+  "unverified_items": [
+    "Anonymous same-origin document crawl only; no cookies, authentication, form submission, or state-changing controls were used.",
+    "Browser requests with methods other than GET or HEAD were blocked and recorded separately from navigation errors.",
+    "Blocked 6 non-GET/HEAD browser request(s) during rendering.",
+    "Observed 62 failed browser resource request(s); see route requestFailures.",
+    "One or more routes emitted console, page, navigation, or extraction errors; see route errors."
+  ]
+}

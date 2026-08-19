@@ -1,0 +1,102 @@
+{
+  "artifact_dir": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave",
+  "attempts": [
+    {
+      "attempt_executor": "lw-luna",
+      "attempt_role": "primary",
+      "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "classification": {
+        "attempt_executor": "lw-luna",
+        "attempt_role": "primary",
+        "attempt_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "decision": "complete",
+        "effective_failure_class": "none",
+        "effective_failure_origin": "none",
+        "primary_executor": "lw-luna",
+        "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "reason": "worker return and acceptance command completed"
+      },
+      "classifier_exit_code": 0,
+      "codex_session_identifier": "unavailable-from-wrapper-transport",
+      "command": [
+        "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+        "$(< /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/prompts/HOME-SHELL-primary.txt)"
+      ],
+      "ended_at": "2026-08-19T07:40:33.191060+00:00",
+      "exit_code": 0,
+      "frozen_input_drift": [],
+      "log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/logs/HOME-SHELL-primary.log",
+      "pid": 87047,
+      "primary_executor": "lw-luna",
+      "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+      "prior_attempt_index": null,
+      "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+      "prompt_cleanup_state": "deleted",
+      "prompt_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/prompts/HOME-SHELL-primary.txt",
+      "prompt_sha256": "141baf671c7f9490780b886279ed6e5a9f7b3a8c864e3d4c3851694d68da59a7",
+      "started_at": "2026-08-19T07:32:01.147619+00:00",
+      "structured_return": {
+        "acceptance_self_check": "pass",
+        "changed_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/rebuild/data/homeShell.js",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/returns/HOME-SHELL-primary.json"
+        ],
+        "evidence_files": [
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-crawl-wave/artifacts/CRAWL-HOME-SHELL.json",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/src/rebuild/contracts/routeSchema.js",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/CONCURRENT_WORKER_ASSIGNMENTS.md",
+          "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/HOME-SHELL.sh"
+        ],
+        "failure_class": "none",
+        "failure_origin": "none",
+        "proposed_state": "VERIFIED",
+        "task_id": "HOME-SHELL",
+        "unverified_items": [
+          "No browser, deployment, or production verification was performed; this task only validates the source route data module.",
+          "The crawl artifact exposed no media URLs, so both media arrays remain empty based on source evidence.",
+          "Git diff/status scope auditing was unavailable because the project root is not a Git repository."
+        ],
+        "validation": {
+          "command": "bash /Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/HOME-SHELL.sh",
+          "command_sha256": "01ac8f8ba873d76b09e071fe3e0575bec79d705041a75b2ca5e4f55a22131ec0",
+          "output": "{\"owner\":\"HOME-SHELL\",\"count\":2,\"uniquePaths\":2}",
+          "result": "pass"
+        }
+      },
+      "structured_return_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/returns/HOME-SHELL-primary.json",
+      "structured_return_state": "loaded",
+      "task_sha256": "89794dc8aac5c05d94fd5f951e05727c20b60300a03298ad556707bf595d4432",
+      "timed_out": false,
+      "validation_command_sha256": "01ac8f8ba873d76b09e071fe3e0575bec79d705041a75b2ca5e4f55a22131ec0",
+      "validation_ended_at": "2026-08-19T07:40:33.269936+00:00",
+      "validation_exit_code": 0,
+      "validation_log_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/logs/HOME-SHELL-primary.validation.log",
+      "validation_pid": 94834,
+      "validation_started_at": "2026-08-19T07:40:33.191305+00:00",
+      "validation_timed_out": false,
+      "wrapper_path": "/Users/vsiyo/.codex/workers/run-lw-luna.sh"
+    }
+  ],
+  "automatic_executor_switch": false,
+  "automatic_l4_fallback": false,
+  "ended_at": "2026-08-19T07:40:33.333614+00:00",
+  "final_decision": "complete",
+  "l3_escalation_limit": 1,
+  "l3_wrapper": "/Users/vsiyo/.codex/workers/run-l3.sh",
+  "ledger_path": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/ledger/HOME-SHELL.json",
+  "primary_executor": "lw-luna",
+  "primary_retry_limit": 1,
+  "primary_role": "primary",
+  "primary_wrapper": "/Users/vsiyo/.codex/workers/run-lw-luna.sh",
+  "project_root": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web",
+  "schema_version": 2,
+  "spawn_agent_fallback": false,
+  "started_at": "2026-08-19T07:32:01.145561+00:00",
+  "task_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/tasks/HOME-SHELL.md",
+  "task_id": "HOME-SHELL",
+  "task_sha256": "89794dc8aac5c05d94fd5f951e05727c20b60300a03298ad556707bf595d4432",
+  "terminal_state": "VERIFIED",
+  "validation_command_file": "/Users/vsiyo/Desktop/Opensource_Tool/MediaClaw-Web/agents-results/2026-08-19/mediaclaw-implementation-wave/validation/HOME-SHELL.sh",
+  "validation_command_sha256": "01ac8f8ba873d76b09e071fe3e0575bec79d705041a75b2ca5e4f55a22131ec0",
+  "validation_execution_mode": "prelaunch-bytes-via-stdin"
+}

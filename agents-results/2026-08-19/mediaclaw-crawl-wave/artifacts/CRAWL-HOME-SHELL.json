@@ -1,0 +1,2163 @@
+{
+  "taskId": "CRAWL-HOME-SHELL",
+  "target": "https://mediaclaw.app",
+  "generatedAt": "2026-08-19T06:03:33.902Z",
+  "routes": [
+    {
+      "url": "https://mediaclaw.app/",
+      "path": "/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "finalUrl": "https://mediaclaw.app/",
+      "title": "MediaClaw 社媒虾｜小红书与抖音数据采集、分析和内容创作工具",
+      "lang": "zh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "自媒体采集分析、AI选题创作一套搞定-- 10倍提效"
+        },
+        {
+          "level": 2,
+          "text": "一个插件，多个平台"
+        },
+        {
+          "level": 3,
+          "text": "小红书能力集"
+        },
+        {
+          "level": 3,
+          "text": "抖音能力集"
+        },
+        {
+          "level": 2,
+          "text": "不同运营角色，都能快速落地"
+        },
+        {
+          "level": 3,
+          "text": "运营：竞品内容分析"
+        },
+        {
+          "level": 2,
+          "text": "核心能力与业务价值"
+        },
+        {
+          "level": 3,
+          "text": "笔记/视频深度提取"
+        },
+        {
+          "level": 3,
+          "text": "Markdown 导出与原数据补齐"
+        },
+        {
+          "level": 3,
+          "text": "博主主页批量采集"
+        },
+        {
+          "level": 3,
+          "text": "评论采集与客资挖掘"
+        },
+        {
+          "level": 3,
+          "text": "赛道策略与关键词洞察"
+        },
+        {
+          "level": 3,
+          "text": "对标账号监控与内容预警"
+        },
+        {
+          "level": 3,
+          "text": "无水印素材下载"
+        },
+        {
+          "level": 3,
+          "text": "采集增强与诊断追踪"
+        },
+        {
+          "level": 3,
+          "text": "飞书多维表同步与协作"
+        },
+        {
+          "level": 2,
+          "text": "简单透明的价格方案"
+        },
+        {
+          "level": 3,
+          "text": "免费版"
+        },
+        {
+          "level": 3,
+          "text": "个人版"
+        },
+        {
+          "level": 3,
+          "text": "团队版"
+        },
+        {
+          "level": 2,
+          "text": "用户怎么说"
+        },
+        {
+          "level": 2,
+          "text": "常见问题"
+        },
+        {
+          "level": 3,
+          "text": "使用 MediaClaw 采集数据，平台会检测到吗？"
+        },
+        {
+          "level": 3,
+          "text": "我不懂技术，上手难吗？"
+        },
+        {
+          "level": 3,
+          "text": "采集的数据存储在哪里？"
+        },
+        {
+          "level": 3,
+          "text": "目前支持哪些平台？"
+        },
+        {
+          "level": 3,
+          "text": "MediaClaw 可以免费使用吗？"
+        },
+        {
+          "level": 2,
+          "text": "无论是谁，皆可提效"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": "banner",
+          "label": ""
+        },
+        {
+          "tag": "nav",
+          "role": "navigation",
+          "label": ""
+        },
+        {
+          "tag": "main",
+          "role": "main",
+          "label": ""
+        },
+        {
+          "tag": "footer",
+          "role": "contentinfo",
+          "label": ""
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "自媒体采集分析、AI选题创作一套搞定-- 10倍提效",
+          "id": "hero"
+        },
+        {
+          "tag": "section",
+          "heading": "一个插件，多个平台",
+          "id": "platforms"
+        },
+        {
+          "tag": "section",
+          "heading": "不同运营角色，都能快速落地",
+          "id": "scenarios"
+        },
+        {
+          "tag": "section",
+          "heading": "核心能力与业务价值",
+          "id": "features"
+        },
+        {
+          "tag": "section",
+          "heading": "简单透明的价格方案",
+          "id": "pricing"
+        },
+        {
+          "tag": "section",
+          "heading": "用户怎么说",
+          "id": "testimonials"
+        },
+        {
+          "tag": "section",
+          "heading": "常见问题",
+          "id": "faq"
+        },
+        {
+          "tag": "section",
+          "heading": "无论是谁，皆可提效",
+          "id": "cta"
+        },
+        {
+          "tag": "section",
+          "heading": null,
+          "id": null
+        }
+      ],
+      "forms": [],
+      "internalLinks": [
+        "/",
+        "/blog",
+        "/douyin",
+        "/douyin/account-analysis",
+        "/douyin/comments",
+        "/douyin/downloader",
+        "/douyin/image-text",
+        "/douyin/keywords",
+        "/douyin/leads",
+        "/douyin/monitoring",
+        "/douyin/scraper",
+        "/douyin/transcript",
+        "/douyin/viral-content-analysis",
+        "/download",
+        "/features/feishu-integration",
+        "/pricing",
+        "/privacy-policy",
+        "/referral",
+        "/terms-of-service",
+        "/updates",
+        "/updates/v0.2.0",
+        "/welfare?entry=footer",
+        "/welfare?entry=header_nav",
+        "/xiaohongshu",
+        "/xiaohongshu/account-analysis",
+        "/xiaohongshu/comments",
+        "/xiaohongshu/downloader",
+        "/xiaohongshu/image-text",
+        "/xiaohongshu/keywords",
+        "/xiaohongshu/leads",
+        "/xiaohongshu/monitoring",
+        "/xiaohongshu/scraper",
+        "/xiaohongshu/transcript",
+        "/xiaohongshu/viral-content-analysis"
+      ],
+      "headerLinks": [
+        {
+          "href": "https://mediaclaw.app/",
+          "path": "/",
+          "text": "MediaClaw",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu",
+          "path": "/xiaohongshu",
+          "text": "查看小红书全部功能",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin",
+          "path": "/douyin",
+          "text": "查看抖音全部功能",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/keywords",
+          "path": "/xiaohongshu/keywords",
+          "text": "关键词洞察批量做关键词挖掘、搜索词分析与选题规划",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/viral-content-analysis",
+          "path": "/xiaohongshu/viral-content-analysis",
+          "text": "爆款分析筛低粉爆款，拆解笔记标题、结构、视觉与评论",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/account-analysis",
+          "path": "/xiaohongshu/account-analysis",
+          "text": "账号分析比较博主定位、内容规律与公开互动信号",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/scraper",
+          "path": "/xiaohongshu/scraper",
+          "text": "笔记采集批量采集笔记数据与搜索结果数据，支持关键词页和账号页入口",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/comments",
+          "path": "/xiaohongshu/comments",
+          "text": "评论采集批量采集评论数据，支持后续评论挖掘与需求分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "path": "/xiaohongshu/downloader",
+          "text": "去水印下载一键下载图文和视频素材，便于二次分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/image-text",
+          "path": "/xiaohongshu/image-text",
+          "text": "图文文案提取对封面和配图做 OCR，提取图片里的文字内容",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/transcript",
+          "path": "/xiaohongshu/transcript",
+          "text": "视频逐字稿一键提取视频笔记口播逐字稿，输出带时间戳分句稿",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/leads",
+          "path": "/xiaohongshu/leads",
+          "text": "评论区截流从评论数据中挖掘高意向客户线索，导出客资名单",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/monitoring",
+          "path": "/xiaohongshu/monitoring",
+          "text": "对标账号监控自动监控对标账号内容更新与爆款趋势",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/account-analysis",
+          "path": "/douyin/account-analysis",
+          "text": "账号分析拆解视频选题、开头、口播表达与公开互动信号",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/viral-content-analysis",
+          "path": "/douyin/viral-content-analysis",
+          "text": "爆款分析筛低粉爆款，拆解视频钩子、逐字稿、节奏与评论",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/keywords",
+          "path": "/douyin/keywords",
+          "text": "关键词洞察批量做关键词挖掘、搜索词分析与选题规划",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/scraper",
+          "path": "/douyin/scraper",
+          "text": "视频采集按关键词、作者和话题快速采集视频数据与搜索结果数据",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/comments",
+          "path": "/douyin/comments",
+          "text": "评论采集批量采集评论数据，支持后续评论挖掘与需求分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "path": "/douyin/downloader",
+          "text": "去水印下载提取原始 MP4 直链，无水印保存视频和图文素材",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/transcript",
+          "path": "/douyin/transcript",
+          "text": "视频逐字稿一键提取抖音口播逐字稿，带时间戳分句节奏稿",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/image-text",
+          "path": "/douyin/image-text",
+          "text": "图文文案提取对封面和合集图做 OCR，把商品卡片和教程文字提出来",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/leads",
+          "path": "/douyin/leads",
+          "text": "评论区截流从评论数据中挖掘高意向客户线索，导出客资名单",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/monitoring",
+          "path": "/douyin/monitoring",
+          "text": "对标账号监控自动监控竞品账号内容更新，识别增长动作",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/features/feishu-integration",
+          "path": "/features/feishu-integration",
+          "text": "飞书集成采集数据、评论数据和监控结果自动同步飞书多维表格",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/blog",
+          "path": "/blog",
+          "text": "博客内容营销方法、案例与实战指南",
+          "internal": true
+        },
+        {
+          "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+          "path": null,
+          "text": "教程从零开始的产品使用教程与最佳实践",
+          "internal": false
+        },
+        {
+          "href": "https://mediaclaw.app/welfare?entry=header_nav",
+          "path": "/welfare?entry=header_nav",
+          "text": "福利中心领取全能体验卡与其他福利",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/updates",
+          "path": "/updates",
+          "text": "更新日志查看产品版本发布与功能改进记录",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/referral",
+          "path": "/referral",
+          "text": "伙伴计划联盟营销、推广链接与佣金提现",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/download",
+          "path": "/download",
+          "text": "下载",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/pricing",
+          "path": "/pricing",
+          "text": "定价",
+          "internal": true
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "https://mediaclaw.app/xiaohongshu",
+          "path": "/xiaohongshu",
+          "text": "小红书内容工作流",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/keywords",
+          "path": "/xiaohongshu/keywords",
+          "text": "小红书关键词洞察",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/viral-content-analysis",
+          "path": "/xiaohongshu/viral-content-analysis",
+          "text": "小红书爆款笔记分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/account-analysis",
+          "path": "/xiaohongshu/account-analysis",
+          "text": "小红书对标账号分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/scraper",
+          "path": "/xiaohongshu/scraper",
+          "text": "小红书笔记采集",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/comments",
+          "path": "/xiaohongshu/comments",
+          "text": "小红书评论采集",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/downloader",
+          "path": "/xiaohongshu/downloader",
+          "text": "小红书无水印下载",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/image-text",
+          "path": "/xiaohongshu/image-text",
+          "text": "小红书图文文案提取",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/transcript",
+          "path": "/xiaohongshu/transcript",
+          "text": "小红书视频逐字稿",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/leads",
+          "path": "/xiaohongshu/leads",
+          "text": "小红书评论区截流",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/xiaohongshu/monitoring",
+          "path": "/xiaohongshu/monitoring",
+          "text": "小红书账号监控",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin",
+          "path": "/douyin",
+          "text": "抖音内容工作流",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/account-analysis",
+          "path": "/douyin/account-analysis",
+          "text": "抖音账号分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/viral-content-analysis",
+          "path": "/douyin/viral-content-analysis",
+          "text": "抖音爆款视频分析",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/keywords",
+          "path": "/douyin/keywords",
+          "text": "抖音关键词洞察",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/scraper",
+          "path": "/douyin/scraper",
+          "text": "抖音视频采集",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/comments",
+          "path": "/douyin/comments",
+          "text": "抖音评论采集",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/downloader",
+          "path": "/douyin/downloader",
+          "text": "抖音无水印下载",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/transcript",
+          "path": "/douyin/transcript",
+          "text": "抖音视频逐字稿",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/image-text",
+          "path": "/douyin/image-text",
+          "text": "抖音图文文案提取",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/leads",
+          "path": "/douyin/leads",
+          "text": "抖音评论区截流",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/douyin/monitoring",
+          "path": "/douyin/monitoring",
+          "text": "抖音账号监控",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/features/feishu-integration",
+          "path": "/features/feishu-integration",
+          "text": "飞书集成",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/download",
+          "path": "/download",
+          "text": "下载插件",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/pricing",
+          "path": "/pricing",
+          "text": "价格方案",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/blog",
+          "path": "/blog",
+          "text": "博客",
+          "internal": true
+        },
+        {
+          "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+          "path": null,
+          "text": "教程",
+          "internal": false
+        },
+        {
+          "href": "https://mediaclaw.app/welfare?entry=footer",
+          "path": "/welfare?entry=footer",
+          "text": "福利中心",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/updates",
+          "path": "/updates",
+          "text": "更新日志",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/referral",
+          "path": "/referral",
+          "text": "伙伴计划",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/privacy-policy",
+          "path": "/privacy-policy",
+          "text": "隐私政策",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/terms-of-service",
+          "path": "/terms-of-service",
+          "text": "服务条款",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/",
+          "path": "/",
+          "text": "MediaClaw",
+          "internal": true
+        }
+      ],
+      "durationMs": 3857,
+      "errors": [
+        {
+          "type": "blocked-cross-origin-request",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "resourceType": "script"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "resourceType": "script",
+          "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "type": "console",
+          "level": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "type": "blocked-cross-origin-request",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "resourceType": "script"
+        },
+        {
+          "type": "blocked-cross-origin-request",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "resourceType": "script"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "resourceType": "script",
+          "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "resourceType": "script",
+          "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "evidence": {
+        "documentRequests": [
+          {
+            "url": "https://mediaclaw.app/",
+            "method": "GET"
+          }
+        ],
+        "navigationResponses": [
+          {
+            "url": "https://mediaclaw.app/",
+            "status": 200,
+            "statusText": ""
+          }
+        ],
+        "requestedExactlyOnce": true
+      }
+    },
+    {
+      "url": "https://mediaclaw.app/en",
+      "path": "/en",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "finalUrl": "https://mediaclaw.app/en",
+      "title": "RedNote & Douyin Scraper Chrome Extension | MediaClaw",
+      "lang": "en",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Scrape RedNote and Douyin Data in One Chrome Extension 10x Faster"
+        },
+        {
+          "level": 2,
+          "text": "One Extension, Two Platforms"
+        },
+        {
+          "level": 3,
+          "text": "Xiaohongshu (RedNote)"
+        },
+        {
+          "level": 3,
+          "text": "Douyin (TikTok China)"
+        },
+        {
+          "level": 2,
+          "text": "Built for Every Role in Content Ops"
+        },
+        {
+          "level": 3,
+          "text": "Ops: Competitor Reports"
+        },
+        {
+          "level": 2,
+          "text": "Core Capabilities"
+        },
+        {
+          "level": 3,
+          "text": "Deep Post & Video Extraction"
+        },
+        {
+          "level": 3,
+          "text": "Markdown Export & Source Data Backfill"
+        },
+        {
+          "level": 3,
+          "text": "Profile Batch Scraping"
+        },
+        {
+          "level": 3,
+          "text": "Comment Lead Filtering"
+        },
+        {
+          "level": 3,
+          "text": "Niche Strategy & Keyword Insights"
+        },
+        {
+          "level": 3,
+          "text": "Competitor Account Monitoring"
+        },
+        {
+          "level": 3,
+          "text": "Watermark-Free Media Download"
+        },
+        {
+          "level": 3,
+          "text": "Enhancement & Diagnostics"
+        },
+        {
+          "level": 3,
+          "text": "Lark Base Sync & Team Collaboration"
+        },
+        {
+          "level": 2,
+          "text": "Simple, Transparent Pricing"
+        },
+        {
+          "level": 3,
+          "text": "Free"
+        },
+        {
+          "level": 3,
+          "text": "Personal"
+        },
+        {
+          "level": 3,
+          "text": "Team"
+        },
+        {
+          "level": 2,
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "level": 3,
+          "text": "Will scraping with MediaClaw get my account flagged?"
+        },
+        {
+          "level": 3,
+          "text": "Do I need coding skills or API setup?"
+        },
+        {
+          "level": 3,
+          "text": "Where is my scraped data stored?"
+        },
+        {
+          "level": 3,
+          "text": "Which platforms does MediaClaw support?"
+        },
+        {
+          "level": 3,
+          "text": "Is MediaClaw really free?"
+        },
+        {
+          "level": 3,
+          "text": "Is it legal to scrape Xiaohongshu and Douyin data?"
+        },
+        {
+          "level": 2,
+          "text": "Start Scraping in 5 Minutes"
+        }
+      ],
+      "landmarks": [
+        {
+          "tag": "header",
+          "role": "banner",
+          "label": ""
+        },
+        {
+          "tag": "nav",
+          "role": "navigation",
+          "label": ""
+        },
+        {
+          "tag": "main",
+          "role": "main",
+          "label": ""
+        },
+        {
+          "tag": "footer",
+          "role": "contentinfo",
+          "label": ""
+        }
+      ],
+      "sections": [
+        {
+          "tag": "section",
+          "heading": "Scrape RedNote and Douyin Data in One Chrome Extension 10x Faster",
+          "id": "hero"
+        },
+        {
+          "tag": "section",
+          "heading": "One Extension, Two Platforms",
+          "id": "platforms"
+        },
+        {
+          "tag": "section",
+          "heading": "Built for Every Role in Content Ops",
+          "id": "scenarios"
+        },
+        {
+          "tag": "section",
+          "heading": "Core Capabilities",
+          "id": "features"
+        },
+        {
+          "tag": "section",
+          "heading": "Simple, Transparent Pricing",
+          "id": "pricing"
+        },
+        {
+          "tag": "section",
+          "heading": "Frequently Asked Questions",
+          "id": "faq"
+        },
+        {
+          "tag": "section",
+          "heading": "Start Scraping in 5 Minutes",
+          "id": "cta"
+        },
+        {
+          "tag": "section",
+          "heading": null,
+          "id": null
+        }
+      ],
+      "forms": [],
+      "internalLinks": [
+        "/en",
+        "/en/blog",
+        "/en/douyin",
+        "/en/douyin/account-analysis",
+        "/en/douyin/comments",
+        "/en/douyin/downloader",
+        "/en/douyin/image-text",
+        "/en/douyin/keywords",
+        "/en/douyin/leads",
+        "/en/douyin/monitoring",
+        "/en/douyin/scraper",
+        "/en/douyin/transcript",
+        "/en/douyin/viral-content-analysis",
+        "/en/download",
+        "/en/features/feishu-integration",
+        "/en/pricing",
+        "/en/privacy-policy",
+        "/en/referral",
+        "/en/terms-of-service",
+        "/en/updates",
+        "/en/updates/v0.2.0",
+        "/en/welfare?entry=footer",
+        "/en/welfare?entry=header_nav",
+        "/en/xiaohongshu",
+        "/en/xiaohongshu/account-analysis",
+        "/en/xiaohongshu/comments",
+        "/en/xiaohongshu/downloader",
+        "/en/xiaohongshu/image-text",
+        "/en/xiaohongshu/keywords",
+        "/en/xiaohongshu/leads",
+        "/en/xiaohongshu/monitoring",
+        "/en/xiaohongshu/scraper",
+        "/en/xiaohongshu/transcript",
+        "/en/xiaohongshu/viral-content-analysis"
+      ],
+      "headerLinks": [
+        {
+          "href": "https://mediaclaw.app/en",
+          "path": "/en",
+          "text": "MediaClaw",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu",
+          "path": "/en/xiaohongshu",
+          "text": "See all Xiaohongshu features",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin",
+          "path": "/en/douyin",
+          "text": "See all Douyin features",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/keywords",
+          "path": "/en/xiaohongshu/keywords",
+          "text": "Keyword InsightsResearch keywords, analyze search terms, and plan content topics",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis",
+          "path": "/en/xiaohongshu/viral-content-analysis",
+          "text": "Viral Content AnalysisFind low-follower hits and break down titles, structure, visuals, and comments",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/account-analysis",
+          "path": "/en/xiaohongshu/account-analysis",
+          "text": "Account AnalysisCompare creator positioning, content patterns, and public engagement signals",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/scraper",
+          "path": "/en/xiaohongshu/scraper",
+          "text": "Post ScrapingBatch-scrape posts and search results from keyword and profile pages",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/comments",
+          "path": "/en/xiaohongshu/comments",
+          "text": "Comment ScrapingBatch-scrape comments for insight mining and demand analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "path": "/en/xiaohongshu/downloader",
+          "text": "No-Watermark DownloadsDownload image and video assets for further analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/image-text",
+          "path": "/en/xiaohongshu/image-text",
+          "text": "Image Text ExtractionUse OCR to extract text from covers and post images",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/transcript",
+          "path": "/en/xiaohongshu/transcript",
+          "text": "Video TranscriptsExtract timestamped transcripts from Xiaohongshu videos in one click",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/leads",
+          "path": "/en/xiaohongshu/leads",
+          "text": "Lead DiscoveryFind high-intent leads in comments and export contact lists",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/monitoring",
+          "path": "/en/xiaohongshu/monitoring",
+          "text": "Competitor MonitoringTrack competitor updates and emerging viral trends automatically",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/account-analysis",
+          "path": "/en/douyin/account-analysis",
+          "text": "Account AnalysisDecode video topics, openings, spoken delivery, and public engagement signals",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/viral-content-analysis",
+          "path": "/en/douyin/viral-content-analysis",
+          "text": "Viral Content AnalysisStudy hooks, transcripts, pacing, visuals, and public feedback in strong videos",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/keywords",
+          "path": "/en/douyin/keywords",
+          "text": "Keyword InsightsResearch keywords, analyze search terms, and plan content topics",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/scraper",
+          "path": "/en/douyin/scraper",
+          "text": "Video ScrapingScrape videos and search results by keyword, creator, or topic",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/comments",
+          "path": "/en/douyin/comments",
+          "text": "Comment ScrapingBatch-scrape comments for insight mining and demand analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "path": "/en/douyin/downloader",
+          "text": "No-Watermark DownloadsSave original MP4 videos and image posts without watermarks",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/transcript",
+          "path": "/en/douyin/transcript",
+          "text": "Video TranscriptsExtract timestamped, sentence-level transcripts from Douyin videos",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/image-text",
+          "path": "/en/douyin/image-text",
+          "text": "Image Text ExtractionUse OCR to extract product and tutorial text from covers and galleries",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/leads",
+          "path": "/en/douyin/leads",
+          "text": "Lead DiscoveryFind high-intent leads in comments and export contact lists",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/monitoring",
+          "path": "/en/douyin/monitoring",
+          "text": "Competitor MonitoringTrack competitor updates automatically and spot growth tactics",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/features/feishu-integration",
+          "path": "/en/features/feishu-integration",
+          "text": "Feishu IntegrationSync scraped data, comments, and monitoring results to Feishu Base",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/blog",
+          "path": "/en/blog",
+          "text": "BlogContent marketing methods, examples, and practical guides",
+          "internal": true
+        },
+        {
+          "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+          "path": null,
+          "text": "TutorialsProduct tutorials and best practices for getting started",
+          "internal": false
+        },
+        {
+          "href": "https://mediaclaw.app/en/welfare?entry=header_nav",
+          "path": "/en/welfare?entry=header_nav",
+          "text": "RewardsClaim an all-in-one experience pass and other benefits",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/updates",
+          "path": "/en/updates",
+          "text": "ChangelogSee product releases and feature improvements",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/referral",
+          "path": "/en/referral",
+          "text": "Partner ProgramAffiliate links, promotion tools, and commission payouts",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/download",
+          "path": "/en/download",
+          "text": "Download",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/pricing",
+          "path": "/en/pricing",
+          "text": "Pricing",
+          "internal": true
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu",
+          "path": "/en/xiaohongshu",
+          "text": "RedNote Workflow",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/keywords",
+          "path": "/en/xiaohongshu/keywords",
+          "text": "Keyword Insights",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis",
+          "path": "/en/xiaohongshu/viral-content-analysis",
+          "text": "Viral Content Analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/account-analysis",
+          "path": "/en/xiaohongshu/account-analysis",
+          "text": "Account Analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/scraper",
+          "path": "/en/xiaohongshu/scraper",
+          "text": "Post Scraper",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/comments",
+          "path": "/en/xiaohongshu/comments",
+          "text": "Comment Scraper",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+          "path": "/en/xiaohongshu/downloader",
+          "text": "Video & Image Downloader",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/image-text",
+          "path": "/en/xiaohongshu/image-text",
+          "text": "Image Text Extraction",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/transcript",
+          "path": "/en/xiaohongshu/transcript",
+          "text": "Video Transcripts",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/leads",
+          "path": "/en/xiaohongshu/leads",
+          "text": "Lead Collection",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/xiaohongshu/monitoring",
+          "path": "/en/xiaohongshu/monitoring",
+          "text": "Competitor Monitoring",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin",
+          "path": "/en/douyin",
+          "text": "Douyin Workflow",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/account-analysis",
+          "path": "/en/douyin/account-analysis",
+          "text": "Account Analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/viral-content-analysis",
+          "path": "/en/douyin/viral-content-analysis",
+          "text": "Viral Content Analysis",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/keywords",
+          "path": "/en/douyin/keywords",
+          "text": "Keyword Insights",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/scraper",
+          "path": "/en/douyin/scraper",
+          "text": "Video Scraper",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/comments",
+          "path": "/en/douyin/comments",
+          "text": "Comment Scraper",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/downloader",
+          "path": "/en/douyin/downloader",
+          "text": "Video & Image Downloader",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/transcript",
+          "path": "/en/douyin/transcript",
+          "text": "Video Transcripts",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/image-text",
+          "path": "/en/douyin/image-text",
+          "text": "Image Text Extraction",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/leads",
+          "path": "/en/douyin/leads",
+          "text": "Lead Collection",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/douyin/monitoring",
+          "path": "/en/douyin/monitoring",
+          "text": "Competitor Monitoring",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/features/feishu-integration",
+          "path": "/en/features/feishu-integration",
+          "text": "Feishu Integration",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/download",
+          "path": "/en/download",
+          "text": "Download Extension",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/pricing",
+          "path": "/en/pricing",
+          "text": "Pricing",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/blog",
+          "path": "/en/blog",
+          "text": "Blog",
+          "internal": true
+        },
+        {
+          "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+          "path": null,
+          "text": "Tutorials",
+          "internal": false
+        },
+        {
+          "href": "https://mediaclaw.app/en/welfare?entry=footer",
+          "path": "/en/welfare?entry=footer",
+          "text": "Rewards",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/updates",
+          "path": "/en/updates",
+          "text": "Changelog",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/referral",
+          "path": "/en/referral",
+          "text": "Partner Program",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/privacy-policy",
+          "path": "/en/privacy-policy",
+          "text": "Privacy Policy",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en/terms-of-service",
+          "path": "/en/terms-of-service",
+          "text": "Terms of Service",
+          "internal": true
+        },
+        {
+          "href": "https://mediaclaw.app/en",
+          "path": "/en",
+          "text": "MediaClaw",
+          "internal": true
+        }
+      ],
+      "durationMs": 3190,
+      "errors": [
+        {
+          "type": "blocked-cross-origin-request",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "resourceType": "script"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+          "resourceType": "script",
+          "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "type": "console",
+          "level": "error",
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "type": "blocked-cross-origin-request",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "resourceType": "script"
+        },
+        {
+          "type": "blocked-cross-origin-request",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "resourceType": "script"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-EK9Q5N40KL",
+          "resourceType": "script",
+          "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "type": "requestfailed",
+          "method": "GET",
+          "url": "https://www.clarity.ms/tag/xj860xja7v",
+          "resourceType": "script",
+          "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "evidence": {
+        "documentRequests": [
+          {
+            "url": "https://mediaclaw.app/en",
+            "method": "GET"
+          }
+        ],
+        "navigationResponses": [
+          {
+            "url": "https://mediaclaw.app/en",
+            "status": 200,
+            "statusText": ""
+          }
+        ],
+        "requestedExactlyOnce": true
+      }
+    }
+  ],
+  "sharedShell": {
+    "headerDestinations": [
+      {
+        "href": "https://mediaclaw.app/",
+        "path": "/",
+        "text": "MediaClaw",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu",
+        "path": "/xiaohongshu",
+        "text": "查看小红书全部功能",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin",
+        "path": "/douyin",
+        "text": "查看抖音全部功能",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/keywords",
+        "path": "/xiaohongshu/keywords",
+        "text": "关键词洞察批量做关键词挖掘、搜索词分析与选题规划",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/viral-content-analysis",
+        "path": "/xiaohongshu/viral-content-analysis",
+        "text": "爆款分析筛低粉爆款，拆解笔记标题、结构、视觉与评论",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/account-analysis",
+        "path": "/xiaohongshu/account-analysis",
+        "text": "账号分析比较博主定位、内容规律与公开互动信号",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/scraper",
+        "path": "/xiaohongshu/scraper",
+        "text": "笔记采集批量采集笔记数据与搜索结果数据，支持关键词页和账号页入口",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/comments",
+        "path": "/xiaohongshu/comments",
+        "text": "评论采集批量采集评论数据，支持后续评论挖掘与需求分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/downloader",
+        "path": "/xiaohongshu/downloader",
+        "text": "去水印下载一键下载图文和视频素材，便于二次分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/image-text",
+        "path": "/xiaohongshu/image-text",
+        "text": "图文文案提取对封面和配图做 OCR，提取图片里的文字内容",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/transcript",
+        "path": "/xiaohongshu/transcript",
+        "text": "视频逐字稿一键提取视频笔记口播逐字稿，输出带时间戳分句稿",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/leads",
+        "path": "/xiaohongshu/leads",
+        "text": "评论区截流从评论数据中挖掘高意向客户线索，导出客资名单",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/monitoring",
+        "path": "/xiaohongshu/monitoring",
+        "text": "对标账号监控自动监控对标账号内容更新与爆款趋势",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/account-analysis",
+        "path": "/douyin/account-analysis",
+        "text": "账号分析拆解视频选题、开头、口播表达与公开互动信号",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/viral-content-analysis",
+        "path": "/douyin/viral-content-analysis",
+        "text": "爆款分析筛低粉爆款，拆解视频钩子、逐字稿、节奏与评论",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/keywords",
+        "path": "/douyin/keywords",
+        "text": "关键词洞察批量做关键词挖掘、搜索词分析与选题规划",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/scraper",
+        "path": "/douyin/scraper",
+        "text": "视频采集按关键词、作者和话题快速采集视频数据与搜索结果数据",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/comments",
+        "path": "/douyin/comments",
+        "text": "评论采集批量采集评论数据，支持后续评论挖掘与需求分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/downloader",
+        "path": "/douyin/downloader",
+        "text": "去水印下载提取原始 MP4 直链，无水印保存视频和图文素材",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/transcript",
+        "path": "/douyin/transcript",
+        "text": "视频逐字稿一键提取抖音口播逐字稿，带时间戳分句节奏稿",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/image-text",
+        "path": "/douyin/image-text",
+        "text": "图文文案提取对封面和合集图做 OCR，把商品卡片和教程文字提出来",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/leads",
+        "path": "/douyin/leads",
+        "text": "评论区截流从评论数据中挖掘高意向客户线索，导出客资名单",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/monitoring",
+        "path": "/douyin/monitoring",
+        "text": "对标账号监控自动监控竞品账号内容更新，识别增长动作",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/features/feishu-integration",
+        "path": "/features/feishu-integration",
+        "text": "飞书集成采集数据、评论数据和监控结果自动同步飞书多维表格",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/blog",
+        "path": "/blog",
+        "text": "博客内容营销方法、案例与实战指南",
+        "internal": true
+      },
+      {
+        "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+        "path": null,
+        "text": "教程从零开始的产品使用教程与最佳实践",
+        "internal": false
+      },
+      {
+        "href": "https://mediaclaw.app/welfare?entry=header_nav",
+        "path": "/welfare?entry=header_nav",
+        "text": "福利中心领取全能体验卡与其他福利",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/updates",
+        "path": "/updates",
+        "text": "更新日志查看产品版本发布与功能改进记录",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/referral",
+        "path": "/referral",
+        "text": "伙伴计划联盟营销、推广链接与佣金提现",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/download",
+        "path": "/download",
+        "text": "下载",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/pricing",
+        "path": "/pricing",
+        "text": "定价",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en",
+        "path": "/en",
+        "text": "MediaClaw",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu",
+        "path": "/en/xiaohongshu",
+        "text": "See all Xiaohongshu features",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin",
+        "path": "/en/douyin",
+        "text": "See all Douyin features",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/keywords",
+        "path": "/en/xiaohongshu/keywords",
+        "text": "Keyword InsightsResearch keywords, analyze search terms, and plan content topics",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis",
+        "path": "/en/xiaohongshu/viral-content-analysis",
+        "text": "Viral Content AnalysisFind low-follower hits and break down titles, structure, visuals, and comments",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/account-analysis",
+        "path": "/en/xiaohongshu/account-analysis",
+        "text": "Account AnalysisCompare creator positioning, content patterns, and public engagement signals",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/scraper",
+        "path": "/en/xiaohongshu/scraper",
+        "text": "Post ScrapingBatch-scrape posts and search results from keyword and profile pages",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/comments",
+        "path": "/en/xiaohongshu/comments",
+        "text": "Comment ScrapingBatch-scrape comments for insight mining and demand analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "path": "/en/xiaohongshu/downloader",
+        "text": "No-Watermark DownloadsDownload image and video assets for further analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/image-text",
+        "path": "/en/xiaohongshu/image-text",
+        "text": "Image Text ExtractionUse OCR to extract text from covers and post images",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/transcript",
+        "path": "/en/xiaohongshu/transcript",
+        "text": "Video TranscriptsExtract timestamped transcripts from Xiaohongshu videos in one click",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/leads",
+        "path": "/en/xiaohongshu/leads",
+        "text": "Lead DiscoveryFind high-intent leads in comments and export contact lists",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/monitoring",
+        "path": "/en/xiaohongshu/monitoring",
+        "text": "Competitor MonitoringTrack competitor updates and emerging viral trends automatically",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/account-analysis",
+        "path": "/en/douyin/account-analysis",
+        "text": "Account AnalysisDecode video topics, openings, spoken delivery, and public engagement signals",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/viral-content-analysis",
+        "path": "/en/douyin/viral-content-analysis",
+        "text": "Viral Content AnalysisStudy hooks, transcripts, pacing, visuals, and public feedback in strong videos",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/keywords",
+        "path": "/en/douyin/keywords",
+        "text": "Keyword InsightsResearch keywords, analyze search terms, and plan content topics",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/scraper",
+        "path": "/en/douyin/scraper",
+        "text": "Video ScrapingScrape videos and search results by keyword, creator, or topic",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/comments",
+        "path": "/en/douyin/comments",
+        "text": "Comment ScrapingBatch-scrape comments for insight mining and demand analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/downloader",
+        "path": "/en/douyin/downloader",
+        "text": "No-Watermark DownloadsSave original MP4 videos and image posts without watermarks",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/transcript",
+        "path": "/en/douyin/transcript",
+        "text": "Video TranscriptsExtract timestamped, sentence-level transcripts from Douyin videos",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/image-text",
+        "path": "/en/douyin/image-text",
+        "text": "Image Text ExtractionUse OCR to extract product and tutorial text from covers and galleries",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/leads",
+        "path": "/en/douyin/leads",
+        "text": "Lead DiscoveryFind high-intent leads in comments and export contact lists",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/monitoring",
+        "path": "/en/douyin/monitoring",
+        "text": "Competitor MonitoringTrack competitor updates automatically and spot growth tactics",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/features/feishu-integration",
+        "path": "/en/features/feishu-integration",
+        "text": "Feishu IntegrationSync scraped data, comments, and monitoring results to Feishu Base",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/blog",
+        "path": "/en/blog",
+        "text": "BlogContent marketing methods, examples, and practical guides",
+        "internal": true
+      },
+      {
+        "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+        "path": null,
+        "text": "TutorialsProduct tutorials and best practices for getting started",
+        "internal": false
+      },
+      {
+        "href": "https://mediaclaw.app/en/welfare?entry=header_nav",
+        "path": "/en/welfare?entry=header_nav",
+        "text": "RewardsClaim an all-in-one experience pass and other benefits",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/updates",
+        "path": "/en/updates",
+        "text": "ChangelogSee product releases and feature improvements",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/referral",
+        "path": "/en/referral",
+        "text": "Partner ProgramAffiliate links, promotion tools, and commission payouts",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/download",
+        "path": "/en/download",
+        "text": "Download",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/pricing",
+        "path": "/en/pricing",
+        "text": "Pricing",
+        "internal": true
+      }
+    ],
+    "footerDestinations": [
+      {
+        "href": "https://mediaclaw.app/xiaohongshu",
+        "path": "/xiaohongshu",
+        "text": "小红书内容工作流",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/keywords",
+        "path": "/xiaohongshu/keywords",
+        "text": "小红书关键词洞察",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/viral-content-analysis",
+        "path": "/xiaohongshu/viral-content-analysis",
+        "text": "小红书爆款笔记分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/account-analysis",
+        "path": "/xiaohongshu/account-analysis",
+        "text": "小红书对标账号分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/scraper",
+        "path": "/xiaohongshu/scraper",
+        "text": "小红书笔记采集",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/comments",
+        "path": "/xiaohongshu/comments",
+        "text": "小红书评论采集",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/downloader",
+        "path": "/xiaohongshu/downloader",
+        "text": "小红书无水印下载",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/image-text",
+        "path": "/xiaohongshu/image-text",
+        "text": "小红书图文文案提取",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/transcript",
+        "path": "/xiaohongshu/transcript",
+        "text": "小红书视频逐字稿",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/leads",
+        "path": "/xiaohongshu/leads",
+        "text": "小红书评论区截流",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/xiaohongshu/monitoring",
+        "path": "/xiaohongshu/monitoring",
+        "text": "小红书账号监控",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin",
+        "path": "/douyin",
+        "text": "抖音内容工作流",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/account-analysis",
+        "path": "/douyin/account-analysis",
+        "text": "抖音账号分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/viral-content-analysis",
+        "path": "/douyin/viral-content-analysis",
+        "text": "抖音爆款视频分析",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/keywords",
+        "path": "/douyin/keywords",
+        "text": "抖音关键词洞察",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/scraper",
+        "path": "/douyin/scraper",
+        "text": "抖音视频采集",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/comments",
+        "path": "/douyin/comments",
+        "text": "抖音评论采集",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/downloader",
+        "path": "/douyin/downloader",
+        "text": "抖音无水印下载",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/transcript",
+        "path": "/douyin/transcript",
+        "text": "抖音视频逐字稿",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/image-text",
+        "path": "/douyin/image-text",
+        "text": "抖音图文文案提取",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/leads",
+        "path": "/douyin/leads",
+        "text": "抖音评论区截流",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/douyin/monitoring",
+        "path": "/douyin/monitoring",
+        "text": "抖音账号监控",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/features/feishu-integration",
+        "path": "/features/feishu-integration",
+        "text": "飞书集成",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/download",
+        "path": "/download",
+        "text": "下载插件",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/pricing",
+        "path": "/pricing",
+        "text": "价格方案",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/blog",
+        "path": "/blog",
+        "text": "博客",
+        "internal": true
+      },
+      {
+        "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+        "path": null,
+        "text": "教程",
+        "internal": false
+      },
+      {
+        "href": "https://mediaclaw.app/welfare?entry=footer",
+        "path": "/welfare?entry=footer",
+        "text": "福利中心",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/updates",
+        "path": "/updates",
+        "text": "更新日志",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/referral",
+        "path": "/referral",
+        "text": "伙伴计划",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/privacy-policy",
+        "path": "/privacy-policy",
+        "text": "隐私政策",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/terms-of-service",
+        "path": "/terms-of-service",
+        "text": "服务条款",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/",
+        "path": "/",
+        "text": "MediaClaw",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu",
+        "path": "/en/xiaohongshu",
+        "text": "RedNote Workflow",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/keywords",
+        "path": "/en/xiaohongshu/keywords",
+        "text": "Keyword Insights",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/viral-content-analysis",
+        "path": "/en/xiaohongshu/viral-content-analysis",
+        "text": "Viral Content Analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/account-analysis",
+        "path": "/en/xiaohongshu/account-analysis",
+        "text": "Account Analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/scraper",
+        "path": "/en/xiaohongshu/scraper",
+        "text": "Post Scraper",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/comments",
+        "path": "/en/xiaohongshu/comments",
+        "text": "Comment Scraper",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/downloader",
+        "path": "/en/xiaohongshu/downloader",
+        "text": "Video & Image Downloader",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/image-text",
+        "path": "/en/xiaohongshu/image-text",
+        "text": "Image Text Extraction",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/transcript",
+        "path": "/en/xiaohongshu/transcript",
+        "text": "Video Transcripts",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/leads",
+        "path": "/en/xiaohongshu/leads",
+        "text": "Lead Collection",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/xiaohongshu/monitoring",
+        "path": "/en/xiaohongshu/monitoring",
+        "text": "Competitor Monitoring",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin",
+        "path": "/en/douyin",
+        "text": "Douyin Workflow",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/account-analysis",
+        "path": "/en/douyin/account-analysis",
+        "text": "Account Analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/viral-content-analysis",
+        "path": "/en/douyin/viral-content-analysis",
+        "text": "Viral Content Analysis",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/keywords",
+        "path": "/en/douyin/keywords",
+        "text": "Keyword Insights",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/scraper",
+        "path": "/en/douyin/scraper",
+        "text": "Video Scraper",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/comments",
+        "path": "/en/douyin/comments",
+        "text": "Comment Scraper",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/downloader",
+        "path": "/en/douyin/downloader",
+        "text": "Video & Image Downloader",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/transcript",
+        "path": "/en/douyin/transcript",
+        "text": "Video Transcripts",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/image-text",
+        "path": "/en/douyin/image-text",
+        "text": "Image Text Extraction",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/leads",
+        "path": "/en/douyin/leads",
+        "text": "Lead Collection",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/douyin/monitoring",
+        "path": "/en/douyin/monitoring",
+        "text": "Competitor Monitoring",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/features/feishu-integration",
+        "path": "/en/features/feishu-integration",
+        "text": "Feishu Integration",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/download",
+        "path": "/en/download",
+        "text": "Download Extension",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/pricing",
+        "path": "/en/pricing",
+        "text": "Pricing",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/blog",
+        "path": "/en/blog",
+        "text": "Blog",
+        "internal": true
+      },
+      {
+        "href": "https://my.feishu.cn/wiki/TczWwrrGmiDRw3kWeojcXd5CnHh?from=from_copylink",
+        "path": null,
+        "text": "Tutorials",
+        "internal": false
+      },
+      {
+        "href": "https://mediaclaw.app/en/welfare?entry=footer",
+        "path": "/en/welfare?entry=footer",
+        "text": "Rewards",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/updates",
+        "path": "/en/updates",
+        "text": "Changelog",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/referral",
+        "path": "/en/referral",
+        "text": "Partner Program",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/privacy-policy",
+        "path": "/en/privacy-policy",
+        "text": "Privacy Policy",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en/terms-of-service",
+        "path": "/en/terms-of-service",
+        "text": "Terms of Service",
+        "internal": true
+      },
+      {
+        "href": "https://mediaclaw.app/en",
+        "path": "/en",
+        "text": "MediaClaw",
+        "internal": true
+      }
+    ],
+    "commonHeaderDestinations": [],
+    "commonFooterDestinations": []
+  },
+  "counts": {
+    "assignedRoutes": 2,
+    "crawledRoutes": 2,
+    "status": {
+      "200": 2
+    },
+    "documentRequests": 2,
+    "routesRequestedExactlyOnce": 2,
+    "errors": 14
+  },
+  "observedLimitations": [
+    "/: cross-origin browser requests were blocked by the crawl protocol",
+    "/en: cross-origin browser requests were blocked by the crawl protocol"
+  ],
+  "sourceEvidence": {
+    "mode": "live anonymous Playwright crawl",
+    "requestPolicy": "same-origin GET/HEAD only; no clicks, form submissions, cookies, login, or private APIs",
+    "renderWait": "domcontentloaded plus 800ms bounded settle",
+    "assignedUrls": [
+      "https://mediaclaw.app/",
+      "https://mediaclaw.app/en"
+    ],
+    "playwrightVersion": "1.62.1",
+    "browser": "Chromium headless"
+  }
+}
